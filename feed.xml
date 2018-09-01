@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="https://www.laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-09-01T19:54:37+02:00</updated><id>https://www.laurentlourenco.pro/</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Comment expliquer la blockchain à votre comité de direction ?</title><link href="https://www.laurentlourenco.pro/blog/introduction-blockchain.html" rel="alternate" type="text/html" title="Comment expliquer la blockchain à votre comité de direction ?" /><published>2017-10-17T00:00:00+02:00</published><updated>2017-10-17T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/introduction-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/introduction-blockchain.html">&lt;p&gt;S’il y a bien un exercice difficile avec la blockchain c’est bien de vulgariser cette technologie. C’est nouveau, c’est virtuel et ça ne ressemble à rien de bien connu. Mais voilà, les médias commencent à en parler de plus et vous ne pourrez pas échapper à une présentation auprès de votre comité de direction.&lt;/p&gt;
+
+&lt;p&gt;De mon coté j’aborde le sujet selon trois angles différents : le marché, les aspects “disruptifs”, et la genèse pour comprendre les fondamentaux.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Présentation du marché de la blockchain.&lt;/strong&gt; Rien de tel pour sensibiliser un comité de direction, avec quelques chiffres à l’appuie.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;La blockchain va changer le commerce. Les transactions et les paiements sont plus économiques, plus rapides et plus sûrs.&lt;/li&gt;
+      &lt;li&gt;La blockchain redéfinie la confiance dans les transactions. L’execution des transactions est garantie, elle est programmée, et elle se déroule sans intermédiaire. Tous les domaines économiques où existent des échanges et des transactions sont concernés, autant dire presque tout.&lt;/li&gt;
+      &lt;li&gt;La blockchain va permettre aux objets de réaliser des transactions entre eux. Le coût des transactions devient marginal, les transactions sont automatisées et elles sont sécurisées. La blockchain est ce qu’il manquait aux objets connectés.&lt;/li&gt;
+      &lt;li&gt;Avec plus de 150 milliards de $ de capitalisation et plus de 1000 sociétés créées dans le domaine, la blockchain devient un secteur économique incontournable.&lt;br /&gt;
+  &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;#marche&quot; class=&quot;btn btn-outline-jekyll btn-sm&quot; role=&quot;button&quot;&gt;Présentation du marché&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Introduction à la blockchain et en quoi cette technologie est révolutionnaire.&lt;/strong&gt; Après un bref parallèle avec l’invention de l’électricité je donne quelques exemples concrets d’application dans des domaines variés.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Principes clés de la technologie
+        &lt;ul&gt;
+          &lt;li&gt;Registre distribué de transactions&lt;/li&gt;
+          &lt;li&gt;Registre chaîné et chiffré&lt;/li&gt;
+          &lt;li&gt;Les transactions son Smart&lt;/li&gt;
+          &lt;li&gt;La validation de chaque transaction fait consensus&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Révolution ?
+        &lt;ul&gt;
+          &lt;li&gt;Fonctionne sans les monopoles&lt;/li&gt;
+          &lt;li&gt;Incorruptible et incensurable&lt;/li&gt;
+          &lt;li&gt;Sécurisée&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;La blockchain transforme la Société et les relations humaines
+        &lt;ul&gt;
+          &lt;li&gt;Neutre : la blockchain execute des transactions pour tous.&lt;/li&gt;
+          &lt;li&gt;Sans frontière : la blockchain n’a pas de nationalité.&lt;/li&gt;
+          &lt;li&gt;Ouverte : personne n’a besoin de permissions pour acceder à cette technologie, pour y contribuer, pour y participer…&lt;br /&gt;
+  &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;#techno&quot; class=&quot;btn btn-outline-jekyll btn-sm&quot; role=&quot;button&quot;&gt;Présentation des aspects disruptifs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bitcoin : la genèse.&lt;/strong&gt; Retour à la naissance de la technologie pour bien comprendre les fondamentaux. Ici je prend clairement position et je n’hésite pas à bousculer.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Perte de confiance dans le système bancaire mondial à la suite du crash de 2008&lt;/li&gt;
+      &lt;li&gt;Invention d’une nouvelle devise exclusivement numérique et incopiable, le Bitcoin&lt;/li&gt;
+      &lt;li&gt;Anti-inflationniste, Incorruptible et sécurisée&lt;/li&gt;
+      &lt;li&gt;Transferer des Bitcoins devient aussi simple que d’envoyer un email&lt;/li&gt;
+      &lt;li&gt;Le bitcoin est la première application de la technologie Blockchain&lt;br /&gt;
+  &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;#genese&quot; class=&quot;btn btn-outline-jekyll btn-sm&quot; role=&quot;button&quot;&gt;Présentation Bitcoin : la genèse&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Bien évidement ne nombreuses questions restent ouvertes : potentiel de la technologie dans le contexte de votre entreprise et de son marché ? Maturité de la technologie ? Par où commencer ?&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez partager votre expérience de présentation à un CODIR, n’hésitez pas à utiliser la zone de commentaire à la fin de cet article.&lt;/p&gt;
+
+&lt;p&gt;Bonnes présentations.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span id=&quot;marche&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;marchés-de-la-blockchain&quot;&gt;Marché(s) de la blockchain&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div id=&quot;deck-marche&quot; class=&quot;carousel slide&quot; data-keyboard=&quot;false&quot; data-wrap=&quot;false&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+
+    &lt;div class=&quot;carousel-item  active &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive1.JPG&quot; alt=&quot;slide1&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive2.JPG&quot; alt=&quot;slide2&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive3.JPG&quot; alt=&quot;slide3&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive4.JPG&quot; alt=&quot;slide4&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive5.JPG&quot; alt=&quot;slide5&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive6.JPG&quot; alt=&quot;slide6&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive7.JPG&quot; alt=&quot;slide7&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive8.JPG&quot; alt=&quot;slide8&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive9.JPG&quot; alt=&quot;slide9&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive10.JPG&quot; alt=&quot;slide10&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive11.JPG&quot; alt=&quot;slide11&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive12.JPG&quot; alt=&quot;slide12&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive13.JPG&quot; alt=&quot;slide13&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive14.JPG&quot; alt=&quot;slide14&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive15.JPG&quot; alt=&quot;slide15&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-marche/Diapositive16.JPG&quot; alt=&quot;slide16&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;p&gt;&lt;a class=&quot;carousel-control-prev&quot; href=&quot;#deck-marche&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;sr-only&quot;&gt;Precedent&lt;/span&gt;
+&lt;/a&gt;
+&lt;a class=&quot;carousel-control-next&quot; href=&quot;#deck-marche&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+&lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;sr-only&quot;&gt;Suivant&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span id=&quot;techno&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;la-blockchain-est-une-technologie-fondamentale-et-révolutionnaire-qui-va-changer-le-monde&quot;&gt;La blockchain est une technologie fondamentale et révolutionnaire qui va changer le monde&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div id=&quot;deck-technologie&quot; class=&quot;carousel slide&quot; data-keyboard=&quot;false&quot; data-wrap=&quot;false&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+
+    &lt;div class=&quot;carousel-item  active &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive1.JPG&quot; alt=&quot;slide1&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive2.JPG&quot; alt=&quot;slide2&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive3.JPG&quot; alt=&quot;slide3&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive4.JPG&quot; alt=&quot;slide4&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive5.JPG&quot; alt=&quot;slide5&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive6.JPG&quot; alt=&quot;slide6&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive7.JPG&quot; alt=&quot;slide7&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive8.JPG&quot; alt=&quot;slide8&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive9.JPG&quot; alt=&quot;slide9&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive10.JPG&quot; alt=&quot;slide10&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive11.JPG&quot; alt=&quot;slide11&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive12.JPG&quot; alt=&quot;slide12&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive13.JPG&quot; alt=&quot;slide13&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive14.JPG&quot; alt=&quot;slide14&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive15.JPG&quot; alt=&quot;slide15&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive16.JPG&quot; alt=&quot;slide16&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive17.JPG&quot; alt=&quot;slide17&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive18.JPG&quot; alt=&quot;slide18&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive19.JPG&quot; alt=&quot;slide19&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive20.JPG&quot; alt=&quot;slide20&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive21.JPG&quot; alt=&quot;slide21&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive22.JPG&quot; alt=&quot;slide22&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive23.JPG&quot; alt=&quot;slide23&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive24.JPG&quot; alt=&quot;slide24&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive25.JPG&quot; alt=&quot;slide25&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive26.JPG&quot; alt=&quot;slide26&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive27.JPG&quot; alt=&quot;slide27&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-technologie/Diapositive28.JPG&quot; alt=&quot;slide28&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;p&gt;&lt;a class=&quot;carousel-control-prev&quot; href=&quot;#deck-technologie&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;sr-only&quot;&gt;Precedent&lt;/span&gt;
+&lt;/a&gt;
+&lt;a class=&quot;carousel-control-next&quot; href=&quot;#deck-technologie&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+&lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;sr-only&quot;&gt;Suivant&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span id=&quot;genese&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bitcoin--la-genèse&quot;&gt;Bitcoin : la genèse&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div id=&quot;deck-genese&quot; class=&quot;carousel slide&quot; data-keyboard=&quot;false&quot; data-wrap=&quot;false&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+
+    &lt;div class=&quot;carousel-item  active &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive1.JPG&quot; alt=&quot;slide1&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive2.JPG&quot; alt=&quot;slide2&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive3.JPG&quot; alt=&quot;slide3&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive4.JPG&quot; alt=&quot;slide4&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive5.JPG&quot; alt=&quot;slide5&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive6.JPG&quot; alt=&quot;slide6&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive7.JPG&quot; alt=&quot;slide7&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive8.JPG&quot; alt=&quot;slide8&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive9.JPG&quot; alt=&quot;slide9&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive10.JPG&quot; alt=&quot;slide10&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive11.JPG&quot; alt=&quot;slide11&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive12.JPG&quot; alt=&quot;slide12&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive13.JPG&quot; alt=&quot;slide13&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive14.JPG&quot; alt=&quot;slide14&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive15.JPG&quot; alt=&quot;slide15&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive16.JPG&quot; alt=&quot;slide16&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive17.JPG&quot; alt=&quot;slide17&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive18.JPG&quot; alt=&quot;slide18&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive19.JPG&quot; alt=&quot;slide19&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive20.JPG&quot; alt=&quot;slide20&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive21.JPG&quot; alt=&quot;slide21&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;carousel-item &quot;&gt;
+      &lt;p&gt;&lt;img class=&quot;d-block img-fluid&quot; src=&quot;/assets/deck/blockchain-genese/Diapositive22.JPG&quot; alt=&quot;slide22&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;p&gt;&lt;a class=&quot;carousel-control-prev&quot; href=&quot;#deck-genese&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;sr-only&quot;&gt;Precedent&lt;/span&gt;
+&lt;/a&gt;
+&lt;a class=&quot;carousel-control-next&quot; href=&quot;#deck-genese&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+&lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;sr-only&quot;&gt;Suivant&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;pour information&lt;/strong&gt; A bien des égards le Bitcoin a des similitudes proches du WIR en Suisse ou du SEL en pays Basque. Ce sont deux monnaies virtuelles, réservées aux seuls membres de réseaux privés, et incarnant des valeurs sociales. On pourrait cité également le système Bartering, utilisé par certaines entreprises, qui permet de s’échanger directement des biens ou des services sans faire appel à la monnaie. Ces systèmes sont très confidentiels et assez peu connus du grand public.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/introduction-a-la-technologie-blockchain/&quot;&gt;Introduction à la technologie Blockchain&lt;/a&gt;. Octo Technologie.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Scanate/Ethlist&quot;&gt;Ethereum Reading List&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.contrepoints.org/2017/04/21/287233-blockchain-revolution-de-confiance&quot;&gt;Blockchain révolution de confiance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /><category term="stratégie-IT" /></entry><entry><title type="html">Votre idée de produit blockchain est-elle pertinente ?</title><link href="https://www.laurentlourenco.pro/blog/tester-idee-produit-service-blockchain.html" rel="alternate" type="text/html" title="Votre idée de produit blockchain est-elle pertinente ?" /><published>2017-10-13T00:00:00+02:00</published><updated>2017-10-13T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/tester-idee-produit-service-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/tester-idee-produit-service-blockchain.html">&lt;h2 id=&quot;la-blockchain-est-la-réponse-mais-quelle-était-la-question-&quot;&gt;La blockchain est la réponse, mais quelle était la question ?&lt;/h2&gt;
+
+&lt;p&gt;Sajida Zouarhi nous propose le ‘&lt;strong&gt;Canevas Blockchain&lt;/strong&gt;’ sur le modèle du ‘Business Model Canvas’ et du ‘Lean Canvas’. Ces modèles permettent de synthétiser rapidement les hypothèses d’un projet d’entreprise, très en avance de phase avant sont lancement. Ils obligent à se poser les questions principales.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;strong&gt;format “tout sur une seule page”&lt;/strong&gt; permet de synthétiser la vision d’ensemble du projet. Le partage de ce document permet de tester très rapidement l’idée dans son entourage proche, et de recueillir bien souvent des questions et remarques pertinentes. Il permet de valider ou d’invalider certaines hypothèses avant de dépenser le moindre euros.&lt;/p&gt;
+
+&lt;p&gt;Si après avoir rempli ce document vous pensez que l’idée n’est pas absurde et que la technologie blockchain pourrait être pertinente, alors ce document peut vous servir de &lt;strong&gt;support pour préparer votre pitch.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;L’article de Sajida &lt;a href=&quot;https://medium.com/@Saj_JZ/blockchain-is-the-answer-but-what-was-the-question-vf-7cc3a9c98545&quot;&gt;Blockchain is the answer, but what was the question?)&lt;/a&gt; est écrit sous forme de guide pour utiliser son Canevas, je vous invite à vous en inspirer. &lt;em&gt;(Bien que le titre soit en anglais, l’article est en français)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blockchaincanvas-vf-sajidazouarhi.png&quot;&gt;&lt;img src=&quot;/assets/img/blockchaincanvas-vf-sajidazouarhi.png&quot; alt=&quot;blockchain canvas&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/creative-wallonia-engine/acc%C3%A9l%C3%A9rateur-de-startup-m%C3%A9thode-du-lean-canvas-visualisez-vos-hypoth%C3%A8ses-critiques-d77e5ade3f62&quot;&gt;Accélérateur de Startup : Méthode du LEAN CANVAS — Visualisez vos hypothèses critiques !&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">La blockchain est elle vraiement une révolution technologique ?</title><link href="https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html" rel="alternate" type="text/html" title="La blockchain est elle vraiement une révolution technologique ?" /><published>2017-09-10T00:00:00+02:00</published><updated>2017-09-10T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html">&lt;p&gt;Il y a 6 technologies qui sont à la base de la plupart des blockchains. Elles sont assez anciennes et on peut même se demander pourquoi la blockchain n’a pas été inventé avant !&lt;/p&gt;
+
+&lt;p&gt;Dans cet article nous passons en revue chacune de ces technologies et du role qu’elles jouent dans la blockchain :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Cryptage asymetrique&lt;/strong&gt; : utilisé pour signer les transactions de la blockchain,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fonctions de hachage&lt;/strong&gt; : utilisées pour vérifier l’intégrité des transactions enregistrées et pour masquer les clés publiques,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Arbres de Merkle&lt;/strong&gt; : utilisés pour vérifier les paiements d’une manière sécurisée sans avoir à parcourir l’intégralité de tout le registre de la blockchain,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bases de données clé-valeur&lt;/strong&gt; : utilisé pour rechercher si une transaction a déjà été dépensée et pour ajouter une nouvelle transaction,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Protocoles de communication P2P&lt;/strong&gt; : le protocole de communication P2P permet de mettre tous les membres en réseau, sans aucune entitée centralisatrise,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Preuve de Travail (PoW)&lt;/strong&gt; : utilisé pour parvenir à un consensus sur la validité des transactions enregistrées et distribuées.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;1-cryptage-asymetrique-asymmetric-encryption&quot;&gt;1. Cryptage asymetrique (Asymmetric Encryption)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Le cryptage asymétrique est utilisé pour signer les transactions de la blockchain.&lt;/strong&gt; Les signatures cryptées asymétriquement ont des propriétés exceptionnelles :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;elles prouvent que le signataire a eu accès à la clé privée&lt;/li&gt;
+  &lt;li&gt;la clé publique n’a pas besoin d’être revelée&lt;/li&gt;
+  &lt;li&gt;elles sont facile à vérifier, mais impossible à corrompre&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;La blockchain Bitcoin utilise les paramètres &lt;a href=&quot;https://en.bitcoin.it/wiki/Secp256k1&quot;&gt;secp256k1&lt;/a&gt; de l’Algorithme de signature numérique à clé publique ECDSA (Elliptic Curve Digital Signature Algorithm). ECDSA a été inventé en 1985 et est devenu une norme ISO, ANSI, IEEE et FIPS en 1998-2000. L’avantage majeur d’ECDSA sur RSA est que ECDSA utilise des clés et des signatures beaucoup plus petites pour un même niveau de sécurité. En d’autres termes, Bitcoin aurait été possible avec RSA qui a été inventé en &lt;strong&gt;1977&lt;/strong&gt; !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jrruethe.github.io/blog/2014/10/25/cryptography-primer/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/asymencsnap894356.png&quot; alt=&quot;cryptage asymetrique&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-fonctions-de-hachage-hash-functions&quot;&gt;2. Fonctions de hachage (Hash Functions)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Les fonctions de hachage sont utilisées pour vérifier l’intégrité des transactions enregistrées dans le registre de la blockchain et pour masquer les clés publiques.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Les fonctions de hachage utilisent des données d’entrée de taille arbitraire et créent, de façon déterministe, une sortie de taille fixe (généralement inférieure à la taille d’entrée) ressemblant à des données aléatoires. Une propriété clé d’une fonction de hachage est sa capacité à &lt;a href=&quot;https://fr.wikipedia.org/wiki/R%C3%A9sistance_aux_collisions&quot;&gt;résister à la collision&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Fonction_de_hachage&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/520px-Hash_function_fr.svg.png&quot; alt=&quot;principe hash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chaque transaction dans chaque bloc de Bitcoin est représentée par 64 caractères hexadécimaux. Cette chaîne de caractère est calculée de manière déterministe en sérialisant les contenus des transactions en octets, puis en hachant ces octets (deux fois) à l’aide de l’algorithme SHA-256. Le résultat est donc le &lt;em&gt;hash&lt;/em&gt; de la transaction, appelé son empreinte. La probabilité d’avoir deux transactions avec la même &lt;em&gt;empreinte&lt;/em&gt; est très très faible.&lt;/p&gt;
+
+&lt;p&gt;De fait, cette empreinte est très pratique pour vérifier l’intégrité des transactions enregistrées dans le registre de la blockchain. Tout comme une signature asymétrique ne peut pas être modifiée par quelqu’un de malhonnête, le contenu d’une transaction ne peut pas être altéré. Cela garantit à chaque membre du réseau que leur version du registre des transactions est la même que celle de tous les autres membres.&lt;/p&gt;
+
+&lt;p&gt;Les fonctions de hachage sont aussi utilisées dans la blockchain Bitcoin pour hacher les clés publiques utilisées pour calculer les adresses des transactions.&lt;/p&gt;
+
+&lt;p&gt;L’algorithme SHA-256 a été publié pour la première fois en &lt;strong&gt;2001&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-arbres-de-merkle-merkle-trees&quot;&gt;3. Arbres de Merkle (Merkle Trees)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Les arbres de Merkle sont utilisés pour vérifier les paiements d’une manière sécurisée sans avoir à parcourir l’intégralité de tout le registre de la blockchain.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La blockchain Bitcoin utilise un arbre de Merkle pour empiler toutes les transactions dans le registre. L’arbre de Merkle est une structure de données qui contient uniquement un résumé d’un grand volume d’informations. Ils permettent de vérifier l’intégrité d’une partie seulement d’un fichier.&lt;/p&gt;
+
+&lt;p&gt;Cette caractéristique est utilisée dans les porte-monnaie Bitcoin installés sur les smartphone. Cela permet de vérifier les paiements d’une manière sécurisée sans avoir à stocker les 100 Giga-Octets et plus de tout le registre de la blockchain.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.weusecoins.com/what-is-a-merkle-tree/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/what-is-a-merkel-tree.jpg&quot; alt=&quot;what is a merkle tree&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;L’arbre de Merkle Tree a été breveté en &lt;strong&gt;1979&lt;/strong&gt; et est utilisé dans des systèmes de fichiers distribués comme IPFS, des systèmes de partage de fichiers comme BitTorrent, ou encore les bases de données NoSQL comme Cassandra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-bases-de-données-clé-valeur-key-value-database&quot;&gt;4. Bases de données clé-valeur (Key-Value Database)&lt;/h2&gt;
+
+&lt;p&gt;Pour éviter les doubles dépenses (un risque inhérent au concept de registre distribué d’une blockchain), vous devez pouvoir effectuer rapidement les deux opérations de base de données suivantes :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Recherche si une transaction a déjà été dépensée&lt;/li&gt;
+  &lt;li&gt;Ajouter une nouvelle transaction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alors que les bases de données NoSQL ont pris de l’ampleur au cours des dernières années (en raison principalement de leur capacité à absorber des gros volumes de données), il est important de se rappeler que les bases de données NoSQL datent réellement d’avant les bases de données relationnelles.&lt;/p&gt;
+
+&lt;p&gt;La blockchain Bitcoin a été lancé initialement avec BerkeleyDB, sorti en 1994. ‘dbm’, le principe de stockage clé-valeur qui a inspiré BerkeleyDB, a été publié en &lt;strong&gt;1979&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.barthe.ph/2014/07/23/compute-bitcoin-balance-nodejs/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/btc_keypool_wallet.png&quot; alt=&quot;stockage clé-valeur&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-protocole-de-communication-p2p-p2p-communication-protocol&quot;&gt;5. Protocole de communication P2P (P2P communication Protocol)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Le protocole de communication P2P permet de mettre tous les memebres en réseau dans aucune entitée centralisatrise.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Des applications qui communiquent directement entre elles (par opposition à la communication avec un serveur) est assez rare pour la plupart des applications que nous utilisons quotidiennement. Cependant, ce n’est pas nouveau. Napster sorti en &lt;strong&gt;1999&lt;/strong&gt; est probablement le réseau P2P le plus connu, mais USENET était apparu 20 ans avant.&lt;/p&gt;
+
+&lt;p&gt;Le réseau Internet est un excellent réseau pour les protocoles P2P. Le protocole Gossip est utilisé dans de nombreuses bases de données NoSQL, comme Amazon Dynamo, Cassandra et Riak.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/6XGsvJkpPo51HlPVHxFQdddd.png&quot; alt=&quot;stockage clé-valeur&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;6-preuve-de-travail-proof-of-work&quot;&gt;6. Preuve de travail (Proof Of Work)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;La blockchain Bitcoin utilise la preuve de travail pour parvenir à un consensus sur la validité des transactions enregistrées et distribuées.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La Preuve du travail (PoW) est une utilisation intelligente des fonctions de hachage. Cela fonctionne en calculant l’empreinte d’un message, combinés à plusieurs nombres arbitraires (appelés &lt;em&gt;nonces&lt;/em&gt;), jusqu’à ce que vous trouviez une empreinte qui réponde à un critère rare. Étant donné que chaque empreinte est peu susceptible de satisfaire à ce critère, la spécification d’un critère difficile à atteindre, comme par exemple une empreinte qui commence avec plusieurs zéros, est un moyen de prouver que quelqu’un a utilisé de la puissance de calcul. Le premier qui trouve la solution pour valider une nouvelle transaction est récompensé.&lt;/p&gt;
+
+&lt;p&gt;C’est la pierre angulaire de tout réseau distribué et ouvert, sans système d’authentification ou d’autorisation, fondé sur l’anonymat et où les membres sont tous méfiants les uns envers les autres.&lt;/p&gt;
+
+&lt;p&gt;Certaines personnes trouvent que la preuve de travail est inefficace, parce que le réseau Bitcoin dépense d’énormes ressources informatiques exclusivement pour valider les transactions.&lt;/p&gt;
+
+&lt;p&gt;La preuve de travail a été inventé en &lt;strong&gt;1993&lt;/strong&gt;, mais a été rendu célèbre en 1997 par Hashcash d’Adam Back.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/what-is-proof-of-work.png&quot;&gt;Voir l’infographie&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;technologie-blockchain&quot;&gt;Technologie blockchain&lt;/h2&gt;
+
+&lt;p&gt;La blockchain est une technologie en elle même, résultant de la combinaison de ces différentes technologie existantes depuis plusieurs dizaines d’années. C’est une technologie complexe, avec ses propres challenges comme la scalabilité, la confidentialité où encore la question du coût des transactions.&lt;/p&gt;
+
+&lt;p&gt;Ethereum que certain appellent la blockchain 2.0 est une première évolution qui est apparu très rapidement après la blockchain Bitcoin. Plus récemment le concept de ‘Tangle’ proposé par IOTA laisse présager une nouvelle révolution dans la technologie blockchain, en faisant disparaître la chaîne ! A suivre.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Cet article s’inspire d’un &lt;a href=&quot;https://eng.paxos.com/the-blockchain-is-evolutionary-not-revolutionary&quot;&gt;article publié initialement sur le blog de Paxos&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.niceideas.ch/blockchain_explained.pdf&quot;&gt;blockchain explained (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.niceideas.ch/roller2/badtrash/entry/blockchain-2-0-from-bitcoin&quot;&gt;Blockchain 2.0 - From Bitcoin Transactions to Smart Contract&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.slideshare.net/vchriqui/tout-savoir-sur-le-bitcoin-et-la-blockchain&quot;&gt;Tout savoir sur le #bitcoin et la #blockchain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weusecoins.com/what-is-a-merkle-tree/&quot;&gt;What is a merkle tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chimera.labs.oreilly.com/books/1234000001802&quot;&gt;Mastering Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Cryptographie_asym%C3%A9trique&quot;&gt;Cryptographie asymétrique&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Fonction_de_hachage&quot;&gt;Fonctions de hachage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coindesk.com/bitcoin-hash-functions-explained/&quot;&gt;Bitcoin Hash Functions explained&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Arbre_de_Merkle&quot;&gt;Arbres de Merkle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Key-value_database&quot;&gt;Key-Value database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.slideshare.net/straumat/bitcoin-comment-a-marche-et-pourquoi-cest-une-rvolution&quot;&gt;Bitcoin comment ça marche et pourquoi c’est une révolution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Connaissez-vous le secteur dont le recrutement a triplé en moins d’un an ?</title><link href="https://www.laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain.html" rel="alternate" type="text/html" title="Connaissez-vous le secteur dont le recrutement a triplé en moins d'un an ?" /><published>2017-09-09T00:00:00+02:00</published><updated>2017-09-09T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain.html">&lt;h2 id=&quot;le-nombre-de-jobs-relatifs-à-la-blockchain-a-triplé-en-à-peine-un-an-sur-linkedin&quot;&gt;Le nombre de jobs relatifs à la blockchain a triplé en à peine un an sur Linkedin&lt;/h2&gt;
+
+&lt;p&gt;La demande explose pour les personnes qui ont des compétences qui permettent de maîtriser la technologie à la base des crypto-monnaies. Tous les secteurs d’activité sont concernés : les fintech, la foodtech, l’industrie, les jeux…&lt;/p&gt;
+
+&lt;p&gt;Il y a plus de 1000 start-up blockchain, sans compter les entreprises bien établies qui recrutent également pour porter leur projets de transformation numérique.&lt;/p&gt;
+
+&lt;p&gt;Les meilleurs ingénieurs maîtrisant les technologies de la blockchain peuvent prétendre à un salaire de plus de 250 000 $/an selon Jerry Cuomo d’IBM : “C’est la fourchette haute de ce que peut gagner un vraiment bon consultant ou ingénieur logiciel.”. Au delà de ces exceptions, il est est clair que &lt;a href=&quot;https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html&quot;&gt;l’explosion du nombre de start-up dans le domaine de la blockchain&lt;/a&gt; et la &lt;a href=&quot;https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html&quot;&gt;complexité de la technologie blockchain&lt;/a&gt; crée une distorsion du marché de l’emploi avec une demande très supérieure à l’offre, et donc des salaires tirés vers le haut.&lt;/p&gt;
+
+&lt;h2 id=&quot;qui-recrute-dans-la-blockchain-&quot;&gt;Qui recrute dans la blockchain ?&lt;/h2&gt;
+
+&lt;p class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;Si vous voulez recruter des compétences dans le domaine de la blockchain sur Nantes, n’hésitez pas à m’appeler je peux certainement vous aider.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-start-up-blockchain-et-les-consortiums&quot;&gt;Les start-up blockchain et les consortiums&lt;/h3&gt;
+
+&lt;p&gt;Les embauches dans ce type d’entreprises sont évidemment nombreuses. Que ce soit celles qui fournissent les bases de la technologie, comme Ethereum ou IOTA, ou encore les entreprises spécialisées dans les applications métier, comme Civic ou Everledger ou encore toutes celles qui lèvent des fonds au travers d’ICO en créant des tokens.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-grandes-sociétés&quot;&gt;Les grandes sociétés&lt;/h3&gt;
+
+&lt;p&gt;IBM et Microsoft créent des produits pour soutenir le développement de la blockchain avec des solutions du type «Blockchain As A Service» intégrés dans leurs portefeuilles cloud. D’autres ont rejoint le projet open source Hyperledger comme Intel et Fujitsu.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-banques-et-des-entreprises-du-secteur-financier&quot;&gt;Les banques et des entreprises du secteur financier&lt;/h3&gt;
+
+&lt;p&gt;Barclays a été particulièrement actif dans le domaine de la Blockchain, aux côtés d’UBS, Santander, BBVA… Le Néerlandais ABN Amro a récemment annoncé qu’il constituait une équipe pour travailler sur la blockchain. Et ce ne sont pas seulement les banques. Visa, Reuters, Airbnb ont constitués des équipes de spécialistes Blockchain et Bitcoins.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-gouvernements&quot;&gt;Les gouvernements&lt;/h3&gt;
+
+&lt;p&gt;Les conseillers scientifiques, économiques où digitaux de plusieurs gouvernements commencent à publier des rapports sur le potentiel de cette technologie et de l’impact sur le pays. Divers cas d’utilisation sont discutés et des groupes d’étude se forment un peu partout.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-esn&quot;&gt;Les ESN&lt;/h3&gt;
+
+&lt;p&gt;Toutes les grandes entreprises de conseil et de services numériques constituent des équipes blockchain pour conseiller leurs clients sur ce qui devrait être une technologie au coeur de la transformation numérique. Deloitte a acquis la start-up Rubix, PwC a recruté une équipe de Bitnet, Capgemini prévoit d’avoir une équipe de spécialistes et KPMG a également embauché.&lt;/p&gt;
+
+&lt;h3 id=&quot;les-industriels&quot;&gt;Les industriels&lt;/h3&gt;
+
+&lt;p&gt;Le secteur industriel commence à s’y mettre. Les entreprises innovantes font de la veille, réalisent des Proof Of Concept, des prototypes et commencent à intégrer cette technologie dans leur portefeuille de projets. C’est le cas de Wallmart par exemple.&lt;/p&gt;
+
+&lt;h2 id=&quot;trouver-un-job-dans-la-blockchain&quot;&gt;Trouver un job dans la blockchain&lt;/h2&gt;
+
+&lt;p&gt;Pour les passionnés de blockchain qui n’ont pas encore choisi pour qui travailler, voici les meilleurs jobboard dans le domaine.&lt;/p&gt;
+
+&lt;p&gt;:link: &lt;a href=&quot;https://blocktribe.com/&quot;&gt;&lt;strong&gt;Blocktribe&lt;/strong&gt;&lt;/a&gt; &lt;span class=&quot;badge badge-danger&quot;&gt;206&lt;/span&gt; jobs non pourvus.&lt;/p&gt;
+
+&lt;p&gt;:link: &lt;a href=&quot;https://angel.co/jobs#find/blockchain&quot;&gt;&lt;strong&gt;Angel List blockchain jobs&lt;/strong&gt;&lt;/a&gt; &lt;span class=&quot;badge badge-danger&quot;&gt;353&lt;/span&gt;  start-up recrutent dans le domaine de la blockchain&lt;/p&gt;
+
+&lt;p&gt;:link: &lt;a href=&quot;https://www.upwork.com/o/jobs/browse/skill/blockchain/&quot;&gt;&lt;strong&gt;UpWork blockchain jobs&lt;/strong&gt;&lt;/a&gt; &lt;span class=&quot;badge badge-danger&quot;&gt;355&lt;/span&gt; offres de missions pour des freelances&lt;/p&gt;
+
+&lt;p&gt;:link: &lt;a href=&quot;https://www.linkedin.com/jobs/blockchain-jobs/&quot;&gt;&lt;strong&gt;Linkedind blockchain jobs&lt;/strong&gt;&lt;/a&gt; &lt;span class=&quot;badge badge-danger&quot;&gt;111&lt;/span&gt; annonces uniquement en France et plus de 1000 au niveau international&lt;/p&gt;
+
+&lt;p&gt;Et sinon, il suffit de sélectionner votre boite sur &lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;CryptoCurrency Market Cap&lt;/a&gt; et d’aller sur leur page recrutement.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La blockchain est un domaine qui recrute à mort, surtout si tu es développeur, que tu es ‘fluent in English’, et que tu as déjà fait des &lt;em&gt;pull request&lt;/em&gt; sur le repo github d’une crypto ou d’un token quelconque. Si tu es très fort pour trouver des bugs, pratiquement toutes les sociétés dans le domaine de la blockchain proposent un programme de bug bounty (récompenses).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;em&gt;Notes et références&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Données collectées le 11/09/2017.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cointelegraph.com/news/is-there-blockchain-related-talent-bubble-linkedin-adverts-surge&quot;&gt;Blockchain-related job adverts surge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.computerworlduk.com/applications/how-get-job-as-blockchain-developer-3640764/&quot;&gt;How to get a job as a blockchain developer or engineer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="job" /><category term="blockchain" /></entry><entry><title type="html">Ecosystem Blockchain</title><link href="https://www.laurentlourenco.pro/blog/ecosystem-blockchain.html" rel="alternate" type="text/html" title="Ecosystem Blockchain" /><published>2017-09-08T00:00:00+02:00</published><updated>2017-09-08T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/ecosystem-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/ecosystem-blockchain.html">&lt;h2 id=&quot;cartographie-de-lécosystème-blockchain&quot;&gt;Cartographie de l’écosystème blockchain&lt;/h2&gt;
+
+&lt;p&gt;VentureScanner a recensé 923 sociétés travaillant dans le domaine de la blockchain en Mai 2017. Ils ont réalisés une infographie qui représentent les acteurs les plus prometteurs dans les catégories suivantes :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Places de marchés&lt;/li&gt;
+  &lt;li&gt;Minage&lt;/li&gt;
+  &lt;li&gt;Portefeuilles&lt;/li&gt;
+  &lt;li&gt;Paiement&lt;/li&gt;
+  &lt;li&gt;Services Financiers&lt;/li&gt;
+  &lt;li&gt;Infrastructure&lt;/li&gt;
+  &lt;li&gt;Innovation&lt;/li&gt;
+  &lt;li&gt;Big Data&lt;/li&gt;
+  &lt;li&gt;Confiance&lt;/li&gt;
+  &lt;li&gt;Bookmakers&lt;/li&gt;
+  &lt;li&gt;Information&lt;/li&gt;
+  &lt;li&gt;Services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blockchain-map-venturescanner.jpg&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/blockchain-map-venturescanner.jpg&quot; alt=&quot;blockchain map venturescanner&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez acceder à leur base de données, moyennant finance, en allant directement sur leur site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rise&lt;/strong&gt; propose également le &lt;a href=&quot;https://www.rise.global/blockchain-100&quot;&gt;top 100 hebdo des sociétés blockchain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.venturescanner.com/infographics&quot;&gt;Infographies VentureScanner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Les start-up blockchain poussent comme des champignons. Leur consommation peut être mortelle… ou hallucinogène. Effet ICO garanti !</title><link href="https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html" rel="alternate" type="text/html" title="Les start-up blockchain poussent comme des champignons. Leur consommation peut être mortelle... ou hallucinogène. Effet ICO garanti !" /><published>2017-09-07T00:00:00+02:00</published><updated>2017-09-07T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html">&lt;h2 id=&quot;start-up-blockchain&quot;&gt;Start-up… blockchain&lt;/h2&gt;
+
+&lt;p&gt;Les start-up, vous savez ces jeunes entreprises innovantes à fort potentiel de croissance, qui démarrent leur activité dans un garage, font inévitablement penser à la Silicon Valley avec des noms devenus mythiques comme Apple, Google, Facebook, Intel. Les start-up ont aussi fait parlé d’elles avec l’explosion de la bulle internet en 2000, en rappelant s’il était nécessaire, qu’&lt;strong&gt;une start-up n’est pas une petite entreprise mais une entreprise qui n’a pas encore trouvé son Business Model&lt;/strong&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Aussi malgré quelques désenchantements, l’innovation et les entrepreneurs ne s’arrêtant pas par définition, les start-up sont revenues progressivement sur le devant de la scène mondiale, jusqu’à faire tourner les têtes depuis 2014. Pourquoi ? Elles sont de plus en plus nombreuses à conquérir des nouveaux marchés énormes, bien souvent avec &lt;strong&gt;des produits, des services et des Business Models disruptifs&lt;/strong&gt;. C’est ce que montre le graphique ci-dessous avec les &lt;em&gt;licornes&lt;/em&gt;, ces start-up dont la valorisation a dépassée 1 milliard de dollars. A noter que 2014 c’est aussi l’année du coup de pouce politique pour les start-up Françaises avec la FrenchTech.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Pourquoi ‘Licorne’ ?&lt;/strong&gt; Surement parce qu’elles ne ressemblent à rien d’autre et qu’elles ont un côté un peu magique sur la société.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;figure&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/noindex/crowded-club-draft-2.png&quot; alt=&quot;cb-insight-unicone&quot; class=&quot;figure-img img-fluid&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;
+    &lt;p&gt;Club des licornes, sociétés privées valorisées plus de 1 milliard de dollars. &lt;a href=&quot;https://www.cbinsights.com/research/increasingly-crowded-unicorn-club/&quot;&gt;CB-Insights&lt;/a&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Comme on le voit, le temps s’accélère depuis 2014, comme si on commençait une &lt;strong&gt;nouvelle ère d’innovations&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le graphique représente l’année où la valorisation des sociétés a atteint 1 milliard, ce qui veut dire qu’elles ont été créées bien souvent entre 5 et 7 ans avant : snapchat 2011, Wework 2008, stripe 2010, Cloudera 2008, Meizu 2008, Actifio 2009…&lt;/p&gt;
+
+&lt;blockquote class=&quot;quote-info&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;La crise financière de 2008 aurait-elle donné des ailes à l’innovation mondiale !?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Bitcoin, la première blockchain, est née aussi en 2008 !&lt;/strong&gt; La crypto-monnaie Bitcoin a donné naissance avec elle à un nouveau type d’innovation : les produits, les services et les business model basés sur la technologie blockchain. Après les start-up bio-tech, les start-up healthcare, les start-up food-tech… bienvenue aux start-up blockchain.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-start-up-blockchain-poussent-comme-des-champignons&quot;&gt;Les start-up blockchain poussent comme des champignons&lt;/h2&gt;
+
+&lt;p&gt;A l’heure ou j’écris ces lignes, 41 start-up blockchain sont en cours de levée de fonds (ICO), 49 l’ont planifiée, et 124 l’ont déjà réalisée depuis janvier 2017 ! (Données partielles&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;). Les 124 levées de fonds réalisées en 2017 ont totalisées 1,5 Milliards de Dollars. Coinmarketcap.com référence plus de 1000 crypto-monnaies et actifs numériques cotées&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, ce qui correspond peu ou prou au nombre de start-up opérant dans le domaine de la blockchain depuis 2008.&lt;/p&gt;
+
+&lt;p&gt;Plus fort encore, les premières licornes dans le domaine de la blockchain viennent d’apparaître. Les élues sont &lt;em&gt;OmiseGO&lt;/em&gt;, une société située du côté du soleil levant (basée à Singapour, au Japon et en Thaïlande) créée en 2013 et financée initialement à hauteur de 20 M$ en Série A et B, et &lt;em&gt;Qtum&lt;/em&gt;, une entreprise Chinoise (une fondation basée à Singapour plus exactement) créée en… mars 2016&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; (vive l’économie socialiste de marché ?!). Oui oui, vous avez bien lu, &lt;strong&gt;de zéro à un milliard de $ en 18 mois&lt;/strong&gt; ! Je vous le disais, &lt;strong&gt;hallucinogène&lt;/strong&gt; !&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;fr&quot;&gt;
+  &lt;p&gt;
+Les premières #licornes #ICO sont là &lt;a href=&quot;https://t.co/ZwEHsp4XCH&quot;&gt;https://t.co/ZwEHsp4XCH&lt;/a&gt; #blockchain via @techcrunch— Laurent Lourenço (@laurentlourenco)&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;https://twitter.com/laurentlourenco/status/905774413785812994&quot;&gt;7 septembre 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script id=&quot;twitter-wjs&quot; type=&quot;text/javascript&quot; async=&quot;&quot; defer=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Nous sommes clairement en haut de la courbe du hype du Gartner, au niveau pic des espérances exagérées. Pour autant, et même si deux enseignants de Harvard &lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; nous expliquent qu’il aura fallu 30 ans à TCP/IP pour remodeler l’économie autour d’internet et qu’il faudrait encore compter plusieurs dizaines d’années pour que la blockchain en fasse de même, il semble y avoir un consensus sur le fait que (1) cette technologie impact profondément la Société et (2) le train est en marche, à grande vitesse.&lt;/p&gt;
+
+&lt;p&gt;Alors d’où vient l’engouement pour cette nouvelle technologie ?&lt;/p&gt;
+
+&lt;blockquote class=&quot;quote-info&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;La technologie blockchain est une technologie qui rend possible d’autres innovations&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Un peu comme l’invention de la roue qui a été le déclencheur en son temps de l’invention de la brouette, de la voiture, du vélo… Certains s’aventurent même à la comparer à l’invention de l’écriture ou encore à l’invention d’internet.&lt;/p&gt;
+
+&lt;p&gt;Comme le montre des exemples avec Blockstream, Everledger, Golem, Steem… le potentiel de certaines &lt;a href=&quot;https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html&quot;&gt;start-up blockchain est impressionnant&lt;/a&gt;, et rend parfois possible ce qui ne l’était pas avant l’arrivée de cette technologie. Cette technologie ouvre non seulement la voie vers de nouvelles innovations et offre de nouvelles opportunités de business en changeant la donne sur la répartition de la valeur créée.&lt;/p&gt;
+
+&lt;p&gt;:warning: &lt;strong&gt;Mais cela reste des start-up avant tout. Le taux de mortalité sera important.&lt;/strong&gt; Il sera même très important : la technologie est jeune, le sujet est très technique, complexe, et encore mal maîtrisé  comme le montre le naufrage ‘The DAO’ en juin 2016 et capitalisé alors à 150 M$.&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Ce qui est intéressant c’est que le marché de l’écosystème des crypto-monnaies et tokens a à peine ‘toussé’ dans les semaines qui ont suivi le piratage de The DAO et le vol des 50M$ par un inconnu&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, comme si rien ne s’était passé. Il y a avait déjà eu plusieurs problèmes avant comme la faillite de la société de crypto-trading Américaine MtGox ou Bitcurex en Pologne. Mais rien ne semble arrêter la progression de cette technologie. C’est qu’&lt;strong&gt;un phénomène mondial est en train d’apparaître&lt;/strong&gt; depuis mi 2017, avec la russie, la chine, la corée du sud et d’autres qui soutiennent les initiatives dans le domaine&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;quote-info&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;La blockchain créée naturellement de la confiance, au travers de ses propriétés intrinsèques, et permet à des êtres humains de former des communautés bienveillantes à l’abris de la corruption, des lobbies et des fraudeurs.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/img/crypto-marketcap-lourenco-1.png&quot; alt=&quot;crypto marketcap lourenco&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;leffet-ico-cest-quoi&quot;&gt;L’effet ICO c’est quoi&lt;/h2&gt;
+
+&lt;p&gt;Pour terminer cet article, un mot sur l’effet ICO. Pour rappel, une ICO (Initial Coin Offering) est un nouveau moyen de lever des fonds, né avec la 2ème génération de blockchain (Ethereum).&lt;/p&gt;
+
+&lt;p&gt;A la différence d’une IPO (Introduction en bourse), les participants à une ICO ne deviennent pas actionnaires de la société. Ils achètent une part des actifs numériques émis par la start-up, les fameux &lt;em&gt;Tokens&lt;/em&gt;. Ces actifs sont immédiatements côtés sur le marché des crypto-monnaies. Les investisseurs peuvent donc soit les revendre sur le marché, soit les utiliser dans le cadre des services et produits que va réaliser la start-up (quand les produits et services en questions seront développés et disponibles sur le marché). Je reviendrais sur ce sujet plus en détail dans un autre article.&lt;/p&gt;
+
+&lt;p&gt;Le marché des ICO n’est pas (encore) réglementé, chacun fixe les règles qu’il souhaite et les processus sont plutôt rapides.&lt;/p&gt;
+
+&lt;blockquote class=&quot;quote-info&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;L’effet ICO c’est donc un effet de levier important pour les start-up blockchain :&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;Le manque de réglementation qui simplifie drastiquement les démarches et évite la plupart des coûts des avocats.&lt;/li&gt;
+    &lt;li&gt;Les fondateurs ou actionnaires historiques ne font entrer personne au capital. Ils ne sont pas dilués.&lt;/li&gt;
+    &lt;li&gt;Les investisseurs sont directement intéressés par l’utilisation des actifs numériques (token) 
+de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
+  &lt;/ol&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;Voilà pourquoi les start-up blockchain poussent comme des champignons.&lt;/p&gt;
+
+&lt;p class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;Si vous voulez vous intéresser de plus près à la technologie blockchain, ou si vous avez des idées d’actifs numériques (token) à développer dans le cadre de la transformation numérique de votre entreprise, je serais ravi de vous accompagner.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;:link: &lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;Capitalisation des crypto-monnaies&lt;/a&gt;&lt;br /&gt;
+:link: &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Liste des tokens Ethereum&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Réf. &lt;a href=&quot;https://www.thefamily.co/&quot;&gt;The Family&lt;/a&gt; for entrepreneurs in Europe. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Source &lt;a href=&quot;https://www.cryptocompare.com/ico/#/ongoing&quot;&gt;CryptoCompare.com&lt;/a&gt;. Données existantes seulement depuis 2016 et ne concernent que des tokens référencés sur leur site. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ethereum-france.com/qu-est-ce-qu-une-cryptomonnaie-token-bitcoin-ether-gnt-gno-dgd-plu-rep-rlc/&quot;&gt;Qu’est-ce qu’une cryptomonnaie, un token, un actif numérique ?&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=1720632.0&quot;&gt;About Qtum&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://hbr.org/2017/01/the-truth-about-blockchain&quot;&gt;The truth about blockchain&lt;/a&gt;. Harvard Business Review. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ethereum-france.com/the-dao-post-mortem/&quot;&gt;The DAO : post mortem&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/features/2017-the-ether-thief/&quot;&gt;The Ether Thief&lt;/a&gt;. A noter que les investigations pour retrouver le pirate se sont arrêtées en Suisse. Pour les superstitieux, la faille trouvée dans ‘The DAO’ se trouvait ligne 666 du code (le diable est dans les détails) ! A l’avenir pensez à mettre des commentaires aux lignes 666 de vos programmes. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.lesechos.fr/finance-marches/marches-financiers/010173601222-comment-poutine-espere-doubler-pekin-sur-le-bitcoin-2107462.php&quot;&gt;Comment Poutine espère doubler Pékin sur le bitcoin&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">12 start-up blockchain au potentiel impressionnant</title><link href="https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html" rel="alternate" type="text/html" title="12 start-up blockchain au potentiel impressionnant" /><published>2017-09-05T00:00:00+02:00</published><updated>2017-09-05T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html">&lt;p&gt;Vous découvrez le phénomène Blockchain, ou vous en avez entendu parlé, et vous vous demandez bien ce que cette technologie, soit disant révolutionnaire, pourrait changer dans la Société.&lt;/p&gt;
+
+&lt;p&gt;Plutôt que de longues dissertations techniques et philosophiques, voici une présentation des promesses de quelques start-up blockchain dans des domaines variés.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Les start-up présentés ci-dessous sont à des stades de développement différents, que ce soit au niveau des produits, du financement, ou du business modèle. Cette sélection a été réalisée à partir de la &lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;liste des crypto-monnaies cotées&lt;/a&gt;, de la &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;liste des tokens Ethereum&lt;/a&gt;, et de l’actualité blockchain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;start-up-blockchain-à-découvrir&quot;&gt;Start-up blockchain à découvrir&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;sélection du 5 Septembre 2017&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;augur&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-augur--utiliser-la-prdiction-de-la-foule-pour-raliser-des-prvisions&quot;&gt;:rocket: &lt;a href=&quot;https://augur.net/&quot;&gt;Augur&lt;/a&gt; : utiliser la prédiction de la foule pour réaliser des prévisions&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;La promesse d’Augur est d’utiliser la prédiction des masses pour fiabiliser des prévisions.&lt;/strong&gt; Demandez à 1000 personnes au hasard de devinez le montant contenu dans un vase rempli de billets, faites en la moyenne et vous obtenez assez précisément le montant réel ! Il existe de nombreux exemples comme celui-ci. Sur ce sujet je vous recommande le très bon livre de James Surowiecki &lt;a href=&quot;http://amzn.to/2gg7Rv6&quot;&gt;:book: ‘La Sagesse des Foules’&lt;/a&gt; qui explique très bien le phénomène. Le token Augur permet de récompenser ceux qui réalisent les meilleurs prévisions. A noter que ce sont les membres qui lancent les paris qu’ils souhaitent.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché d’Augur : de mon point de vue on est très proche d’un bookmaker d’un nouveau genre : &lt;strong&gt;paris décentralisés sans censure possible, transparence sur les règles et sur la répartition des gains, et ou chacun peut lancer des paris&lt;/strong&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/REP&quot;&gt;REP sur ethereum&lt;/a&gt;&lt;/span&gt; ♦ 
+&lt;a href=&quot;https://medium.com/@AugurProject/a-roadmap-for-augur-and-whats-next-930fe6c7f75a&quot;&gt;Roadmap&lt;/a&gt; ♦ Voir aussi &lt;a href=&quot;https://gnosis.pm/&quot;&gt;Gnosis&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;blockcerts&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-blockcerts--vrification-de-diplmes-et-de-certifications&quot;&gt;:rocket: &lt;a href=&quot;https://www.blockcerts.org/&quot;&gt;Blockcerts&lt;/a&gt; : vérification de diplômes et de certifications&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Avec blockcert vos diplômes et vos certifications sont stockées dans le réseau et vous pouvez en garantir l’authenticité&lt;/strong&gt;. Blockcert est une sorte de framework, utilisant les réseaux de blockchain existants, utilisable par d’autres pour développer des webapp de gestion des diplômes.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Blockcert : &lt;strong&gt;informations authentiques et non falsifiables&lt;/strong&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Cette start-up blockchain n’a pas de token et n’est pas cotée.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/mit-media-lab/certificates-reputation-and-the-blockchain-aee03622426f&quot;&gt;Lire l’article publié par MIT MEDIA LAB&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;blockstream&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-blockstream--permet-de-raliser-des-transactions-financires-confidentielles-et-des-micro-paiement-rapides-en-bitcoin&quot;&gt;:rocket: &lt;a href=&quot;https://blockstream.com/&quot;&gt;Blockstream&lt;/a&gt; : permet de réaliser des transactions financières confidentielles et des micro-paiement rapides en bitcoin&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;La start-up Blockstream a fait parlée d’elle pour avoir réussi à diffuser la blockchain Bitcoin par satellite&lt;/strong&gt;. Les Bitcoins deviennent utilisable dans des lieux et des zones géographiques du globe où la bande passante réseau est trop faible et dans des zones faiblement bancarisées.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;Pour info, synchroniser un PC connecté avec la fibre avec la blockchain Bitcoin prend plusieurs semaines.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;Blockstream offre un ensemble de technologies qui permettent d’interconnecter des blockchains comme Bitcoin avec des sidechains. La première sidechain créée par Blockstream s’appelle &lt;a href=&quot;https://blockstream.com/liquid/&quot;&gt;Liquid&lt;/a&gt; (en version Bêta pour le moment). Elle permet de réaliser des transactions confidentielles et des micro-paiement rapides.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Blockstream : &lt;strong&gt;développement économique des zones non bancarisées du globe, jusque là impossible&lt;/strong&gt;. Vous pouvez lire le très bon livre de Philippe Herlin &lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt; qui explique bien ce sujet.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;La startup Blockstream n’a pas émis de token. Elle a réalisée une &lt;a href=&quot;https://blockstream.com/2016/02/02/blockstream-new-investors-55-million-series-a.html&quot;&gt;levée de fonds ‘classique’ en séries A de 55M$&lt;/a&gt; auprès d’investisseurs incluants Horizons Ventures, Tokyo-based Digital Garage et AXA Strategic Ventures.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://blockstream.com/satellite/satellite/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/captureblockstreamsatelitestatus.png&quot; alt=&quot;blockstream satellite status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Voir aussi &lt;a href=&quot;https://lisk.io/&quot;&gt;Lisk&lt;/a&gt; la première crypto-monnaie modulaire utilisant des &lt;a href=&quot;https://www.bitcoinmining.com/sidechains-explained/&quot;&gt;Sidechain&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;civic&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-civic--contrler-et-protger-ses-informations-personnelles&quot;&gt;:rocket: &lt;a href=&quot;https://www.civic.com/&quot;&gt;Civic&lt;/a&gt; : contrôler et protéger ses informations personnelles.&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Civic est une plateforme sécurisée pour la gestion des identités et de l’ensemble des informations personnelles qui y sont associées comme le email, le téléphone ou encore le scan de sa carte d’identitée.&lt;/strong&gt; Civic permet de transmettre ces informations à des tiers sans avoir à tout ressaisir et garantissant l’authenticité. Son ‘identité’ Civic peut aussi être utilisée pour s’authentifier sur internet. Quelques sociétés utilisent déjà Civic comme wikiHow ou TokenMarket.&lt;/p&gt;
+
+    &lt;p&gt;Civic promet d’apporter une solution au &lt;a href=&quot;https://techcrunch.com/2016/07/19/civic-launches-a-free-service-that-aims-to-stop-identity-theft-before-it-happens/&quot;&gt;vol d’informations personnelles qui est un réel fléau&lt;/a&gt; sur internet.&lt;/p&gt;
+
+    &lt;p&gt;Grâce au réseau et à l’influence de &lt;a href=&quot;https://en.wikipedia.org/wiki/Vinny_Lingham&quot;&gt;Vinny Lingham&lt;/a&gt; la société a levée 33M€ sans plan marketing particulier.&lt;/p&gt;
+
+    &lt;p&gt;Civic s’appuie sur la technologie &lt;a href=&quot;https://www.smithandcrown.com/sale/civic/&quot;&gt;Rootstock&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Civic : &lt;strong&gt;évite la fraude et le vol d’informations personnelles&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/capturetokenmarketcivic.png&quot; alt=&quot;tokenmarket civic signin&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/Civic&quot;&gt;CVC sur ethereum&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;everledger&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-everledger--traabilit-des-diamants-avec-certificat&quot;&gt;:rocket: &lt;a href=&quot;https://www.everledger.io/&quot;&gt;Everledger&lt;/a&gt; : traçabilité des diamants avec certificat&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;980 000 diamants ont été enregistrés dans la blockchain Everledger, avec pour chacun un scan de 40 points uniques servant d’empreinte.&lt;/strong&gt; Le certificat et le propriétaire de chaque pièce est enregistré et tracé dans la blockchain.&lt;/p&gt;
+
+    &lt;p&gt;Everledger est une blockchain privée réalisée avec le framework hyperledger soutenu par IBM.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché d’Everledger : &lt;strong&gt;évite l’escroquerie aux assurances sur les bijoux, évaluée à 2 milliards de Dollars par an.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.altoros.com/blog/a-close-look-at-everledger-how-blockchain-secures-luxury-goods/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/captureeverledgerdiamond.png&quot; alt=&quot;everledger diamond track&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot; title=&quot;block explorer en développement&quot;&gt;&lt;a href=&quot;https://www.hyperledger.org/projects/explorer&quot;&gt;Block explorer sur Hyperledger&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;golem&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-golem--location-de-capacit-de-calcul&quot;&gt;:rocket: &lt;a href=&quot;https://golem.network/&quot;&gt;Golem&lt;/a&gt; : location de capacité de calcul&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+
+    &lt;p&gt;&lt;strong&gt;Golem est une sorte de superordinateur décentralisé et accessible par tous.&lt;/strong&gt; Il est constitué de la puissance combinée des machines des membres du réseau, depuis le simple laptop jusqu’au datacenter. Tous ceux qui ont des machines ‘dormantes’ peuvent louer leur capacité de calcul sur Golem. Cela permet à des petites entreprises d’avoir accès à une capacité de calcul sans avoir à investir massivement dans des supercalculateurs. Le marché est énorme : rendu graphique pour des films, machine learning, calculs scientifiques, analyses bigdata…&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Golem : &lt;strong&gt;la mutualisation de ressources à une échelle sans précédent et un accès à ces ressources par tous et à un coût marginal&lt;/strong&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/Golem&quot;&gt;ethereum&lt;/a&gt;&lt;/span&gt; ♦ &lt;a href=&quot;https://github.com/golemfactory/golem/wiki/Roadmap&quot;&gt;Roadmap&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;iota&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-iota--la-blockchain-des-objets-connects&quot;&gt;:rocket: &lt;a href=&quot;https://iota.org/&quot;&gt;IOTA&lt;/a&gt; : la blockchain des objets connectés&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+
+    &lt;p&gt;&lt;strong&gt;La promesse n’est ni plus ni moins que de permettre l’exécution de transactions sans frais, dans une architecture nativement scalable, avec un système de consensus décentralisé au niveau des membres eux mêmes et non plus relégué à des mineurs&lt;/strong&gt;. L’innovation principale d’IOTA est le ‘Tangle’, une technologie de blockchain que l’on pourrait appeler de 3ème génération (Bitcoin étant la 1ere, et Ethereum la 2ème avec les smart contracts). Il n’y a plus de mineurs, c’est la raison pour laquelle il n’y a plus de frais de transaction. Les blocks tous liés les uns autres et formant une chaîne est remplacé par des liens entre transactions sur le principe des &lt;a href=&quot;https://fr.wikipedia.org/wiki/Graphe_orient%C3%A9_acyclique&quot;&gt;graphes orientés acycliques&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de IOTA : &lt;strong&gt;une base de données partagée, sécurisée, immuable, permettant de réaliser une infinité de transactions en temps réel&lt;/strong&gt;. Elle induit la confiance dans les échanges.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://iota.org/IOTA_Whitepaper.pdf&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/iotatangle.jpeg&quot; alt=&quot;iota tangle&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;http://www.iota.tips/&quot;&gt;IOTA Tangle Explorer&lt;/a&gt;&lt;/span&gt; ♦ &lt;a href=&quot;https://blog.iota.org/iota-development-roadmap-74741f37ed01&quot;&gt;Roadmap&lt;/a&gt; ♦ &lt;a href=&quot;http://cyrilgrunspan.fr/index.php/2016/08/27/&quot;&gt;A lire en Français&lt;/a&gt; ♦ &lt;a href=&quot;https://blog.iota.org/the-transparency-compendium-26aa5bb8e260&quot;&gt;En savoir plus&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;lbry&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-lbry--partager-et-vendre-le-contenu-numrique-des-artistes-musiques-film-sans-intermdiaire&quot;&gt;:rocket: &lt;a href=&quot;https://lbry.io/&quot;&gt;Lbry&lt;/a&gt; : partager et vendre le contenu numérique des artistes (musiques, film…) sans intermédiaire&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Lbry permet à tous les artistes créateurs de contenu numérique, principalement les musiciens et les vidéastes, de partager leurs oeuvres et d’être rémunérer.&lt;/strong&gt; Chaque artiste fixe le prix (en crypto-monnaie LBRY) pour une consultation en streeming ou pour un téléchargement et il reçoit directement la totalité des revenus, sans intermédiaire (comparé aux 30% de commission que prend iTune par exemple). En outre Lbry offre des fonctionnalités qui permet aux jeunes artistes d’être découvert par la communauté. Les youtuber monétisant leur contenu sont également dans le cible de Lbry.&lt;/p&gt;
+
+    &lt;p&gt;L’idée à terme de Lbry est de devenir une plateforme de vente en ligne de contenu numérique.&lt;/p&gt;
+
+    &lt;p&gt;Lbry se matérialise par un application à installer sur votre PC ou MAC et qui permet d’accéder au contenu, en streaming ou en téléchargement, d’une excellente qualité.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Lbry : &lt;strong&gt;une répartition équitable des gains générées par la production artistique&lt;/strong&gt;, et la suppression des intermédiaires comme les maisons de disques&lt;/p&gt;
+
+    &lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/capturelbry.png&quot; alt=&quot;lbry capture&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://explorer.lbry.io/&quot;&gt;lbry chain explorer&lt;/a&gt;&lt;/span&gt; ♦ Voir aussi &lt;a href=&quot;https://www.coinspeaker.com/2017/08/15/viberate-crryptocurrency-payments-music-artists-ico-starts-in-september&quot;&gt;Viberate&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;populous&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-populous--affacturage-cession-de-crances&quot;&gt;:rocket: &lt;a href=&quot;http://populous.co/&quot;&gt;Populous&lt;/a&gt; : affacturage, cession de créances&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Populous est une solution d’affacturage reprenant les classiques de ce métier&lt;/strong&gt;. Vous pouvez uploader vos factures et transférer la créance, contre du cash, à un autre membre du réseau qui se chargera de la recouvrer à sa date d’échéance. La solvabilité du créancier est évaluée au travers d’un système de scoring traditionnel puis la créance est mise aux enchères sur la plateforme.&lt;/p&gt;
+
+    &lt;p&gt;Populous est développé sur le réseau Ethereum, avec un Smart Contrat.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Populous : la mise aux enchères des créances était un service inexistant jusque lors. L&lt;strong&gt;‘utilisation de la blockchain permet d’adresser immédiatement un marché mondial&lt;/strong&gt; et de simplifier la problématique des taux de changes.&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a&quot;&gt;token PPT sur ethereum&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;steem&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-steem--rseau-social-dans-lequel-tout-le-monde-peut-tre-rcompens&quot;&gt;:rocket: &lt;a href=&quot;https://steem.io/&quot;&gt;Steem&lt;/a&gt; : réseau social dans lequel tout le monde peut être récompensé&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Steem c’est un peu de Facebook avec les likes récompensés et c’est un peu comme Medium avec les meilleurs articles récompensés.&lt;/strong&gt; L’utilisation de la blockchain permet ici de récompenser les membres utilisateurs ou contributeurs du réseau. Steem inclus un système de réputation pris en compte dans l’attribution des récompenses.&lt;/p&gt;
+
+    &lt;p&gt;Ce mécanisme présente deux effets intéressants qui est (1) de tirer la qualité des articles vers le haut, (2) d’attirer les producteurs de contenu.&lt;/p&gt;
+
+    &lt;p&gt;Steem est développé sur sa propre technologie de blockchain. On notera que les adresses utilisées pour les transactions sont des noms alphanumériques choisis par les utilisateurs eux-mêmes, ce ne sont pas des chaînes non-significatives comme pour bitcoin et pour Ethereum. On notera également que les transactions sont validées par un protocole de ‘Delegated Proof Of Stake’ (DPOS) plutôt que l’onéreuse ‘Proof Of Work’ (POW) utilisée par Bitcoin.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Steem : &lt;strong&gt;une redistribution équitable des revenus issus de la production de contenu&lt;/strong&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/capturesteemit.png&quot; alt=&quot;steemit capture&quot; /&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;storj&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-storj--stockage-distribu-rparti-scuris-et-en-trs-haute-disponibilit&quot;&gt;:rocket: &lt;a href=&quot;https://storj.io/&quot;&gt;Storj&lt;/a&gt; : stockage distribué, réparti, sécurisé et en très haute disponibilité&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Storj est une solution de stockage amélioré sur le cloud&lt;/strong&gt; a l’instar de Microsoft Azur ou d’AWS S3 mais avec des caractéristiques intéressantes et des &lt;a href=&quot;https://storj.io/pricing.html&quot;&gt;tarifs compétitifs&lt;/a&gt; jusqu’à deux fois moins cher. Tout d’abord le stockage est distribué ce qui lui offre une résilience exceptionnel, avec un uptime considérable pour ne pas dire 100%. Ensuite, outre le cryptage des données, le stockage est réparti, c’est à dire que chaque fichier est découpé en petit bouts et chaque bout, crypté, est stocké sur des serveurs différents du réseau. De fait les accès en lecture peuvent être servis par plusieurs serveurs et donc gagner en rapidité. Enfin, comme toutes les technologies blockchain il n’existe pas d’organisme centralisateur donc vos données sont protégées contre la censure et vous seul êtes responsables de votre mot de passe (clé privée). Les membres peuvent aussi louer leur propre capacité de stockage excédentaire.&lt;/p&gt;
+
+    &lt;p&gt;StoreJ est en cours d’intégration à Filezilla. Cela va rendre son utilisation très user friendly et donne un accès immédiat à un marché de plus de 15 millions d’utilisateurs à travers le monde.&lt;/p&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de StoreJ : &lt;strong&gt;le stockage inaltérable et inaliénable d’informations, jusque là impossible.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.storj.io/post/145305561698/how-storj-increases-object-storage-security&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/storejnetwork.jpg&quot; alt=&quot;storej notwork&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/Storj&quot;&gt;ethereum&lt;/a&gt;&lt;/span&gt; ♦ Voir Aussi &lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt; a decentralized file storage system with a native token called &lt;a href=&quot;http://filecoin.io/&quot;&gt;Filecoin&lt;/a&gt; ♦ &lt;a href=&quot;https://medium.com/tokenreport/filecoin-v-sia-storj-maidsafe-the-crowded-push-for-decentralized-storage-7157eb5060c9&quot;&gt;Comparaison StorJ FileCoin, Sia, MaidSafe&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span id=&quot;tenx&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;card mb-3&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &lt;h3 id=&quot;rocket-tenx--plateforme-de-paiement-universelle-en-crypto-monnaie--tous-types-de-dpenses-dans-tous-les-pays&quot;&gt;:rocket: &lt;a href=&quot;https://www.tenx.tech/&quot;&gt;TenX&lt;/a&gt; : plateforme de paiement ‘universelle’ en crypto-monnaie : tous types de dépenses, dans tous les pays&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;card-block&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;La promesse de TenX est de rendre utilisable les crypto-monnaies dans le “monde réel”, c’est à dire en dehors de l’écosystème blockchain.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;TenX s’appuie sur le protocole &lt;a href=&quot;http://www.comit.network/&quot;&gt;COMIT&lt;/a&gt; qui permet d’interconnecter plusieurs blockchains et qui permet de réaliser des transactions instantanées et à faible coût.&lt;/p&gt;
+
+    &lt;p&gt;TenX est émetteur d’une carte de paiement et dispose d’une licence bancaire. Une commission de 0.1% est reversée sur les paiements réalisés avec la carte, et un dividende de 0,5% est reversé aux détenteurs des token TenX.&lt;/p&gt;
+
+    &lt;p&gt;Pour l’utilisateur final, TenX offre un portefeuille de crypto disponible sur Smartphone. Il peut échanger ses crypto-monnaies directement à partir de son smartphone sans les convertir au préalable en devises classiques.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;De mon point de vue la proposition de valeur n’est pas évidente. La banque en ligne Revolut offre déjà une application qui permet de gérer son compte en multi-devises, de gérer des cartes de paiement virtuelles et est entrain d’intégrer les crypto.&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de TenX : &lt;strong&gt;pouvoir payer dans la devise (ou crypto monnaie) de son choix, avec des frais dérisoires de transaction et de conversion de change.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/TenXPay&quot;&gt;ethereum&lt;/a&gt;&lt;/span&gt; ♦ A lire &lt;a href=&quot;https://steemit.com/cryptocurrency/@pandorasbox/why-i-sold-my-tenx-pay-tokens-and-what-i-am-investing-in-next&quot;&gt;Why I sold my TenX/Pay tokens&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Retrouvez sur tweeter le &lt;a href=&quot;https://twitter.com/laurentlourenco/lists/startup-blockchain-list-1&quot;&gt;Fils d’actualité des start-up de cette liste&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Si vous avez déjà testé leurs services ou leurs produits, n’hésitez pas à partager dans les commentaires ci-dessous.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;:link: &lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;Liste des crypto-monnaies cotées&lt;/a&gt;&lt;br /&gt;
+:link: &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Liste des tokens Ethereum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2gg7Rv6&quot;&gt;:book: ‘La Sagesse des Foules’&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">Conférences hi-tech à ne pas rater</title><link href="https://www.laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html" rel="alternate" type="text/html" title="Conférences hi-tech à ne pas rater" /><published>2017-09-01T00:00:00+02:00</published><updated>2017-09-01T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html">&lt;p&gt;A ne pas rater :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;WebSummit&lt;/li&gt;
+  &lt;li&gt;Web2days&lt;/li&gt;
+  &lt;li&gt;USI event&lt;/li&gt;
+  &lt;li&gt;API days&lt;/li&gt;
+  &lt;li&gt;Viva Tech&lt;/li&gt;
+  &lt;li&gt;Blockchain Summit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Vous trouverez également les liens vers toutes les vidéos des éditions précedentes, de quoi occuper vos longues soirées d’hier.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;websummit&quot;&gt;&lt;a href=&quot;https://websummit.com/&quot;&gt;WebSummit&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The largest tech conference in the world&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;4 jours à Lisbonne du 6 au 9 Novembre 2017. Plus de 60 000 visiteurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://websummit.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/evtwebsum16.jpg&quot; alt=&quot;web summit event&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:clubs: &lt;a href=&quot;https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ/videos&quot;&gt;Vidéos de l’édition 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;web2days&quot;&gt;&lt;a href=&quot;https://web2day.co/&quot;&gt;web2days&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Start-up &amp;amp; Tech Festival&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;3 jours à Nantes du 13 au 15 juin 2018. Plus de 4 000 visiteurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://web2day.co/&quot;&gt;&lt;img src=&quot;/assets/noindex/snip_20170820104404.png&quot; alt=&quot;web2day event&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:clubs: &lt;a href=&quot;https://www.youtube.com/channel/UCCzfEV7NDD5OvkE3Ua7pcxQ/videos&quot;&gt;Vidéos de l’édition 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;usi&quot;&gt;&lt;a href=&quot;http://www.usievents.com/fr&quot;&gt;USI&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Unexpected Sources of Inspiration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2 jours à Paris, en Juin. 1700 visiteurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.usievents.com/fr&quot;&gt;&lt;img src=&quot;/assets/noindex/usi.jpg&quot; alt=&quot;usi event&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:clubs: &lt;a href=&quot;https://www.youtube.com/user/usievents/videos&quot;&gt;Vidéos des éditions précedentes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;api-days&quot;&gt;&lt;a href=&quot;http://www.apidays.io/&quot;&gt;API Days&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The world leading API conferences&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2 jours dans les plus grandes villes du monde. Pratiquement une tous les mois. Plus de 1000 participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.apidays.io/&quot;&gt;&lt;img src=&quot;/assets/noindex/apidays.png&quot; alt=&quot;API days&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:clubs: &lt;a href=&quot;http://blog.d2-si.fr/2017/01/05/api-days-paris/&quot;&gt;Article à lire sur l’édition Parisienne 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;viva-tech&quot;&gt;&lt;a href=&quot;https://vivatechnology.com/&quot;&gt;VIVA Tech&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;VivaTech is a hub for the world’s innovators&lt;/strong&gt;, tech-lovers and pioneers of the future - we exist to create relationships that will change business and society for tomorrow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vivatechnology.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/viva-technology.png&quot; alt=&quot;vivatech&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:clubs: &lt;a href=&quot;https://vivatechnology.com/program/program/&quot;&gt;Programme de 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;blockchain-summit-london&quot;&gt;&lt;a href=&quot;http://blockchainsummitlondon.com/&quot;&gt;blockchain summit london&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The Blockchain for business event&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blockchainsummitlondon.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/9738bcsummitlo.png&quot; alt=&quot;blockchain summit london&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="events" /></entry><entry><title type="html">T’as les jetons ? La blockchain, l’effet token et les ICO</title><link href="https://www.laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html" rel="alternate" type="text/html" title="T'as les jetons ? La blockchain, l'effet token et les ICO" /><published>2017-08-23T00:00:00+02:00</published><updated>2017-08-23T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/blockchain-effet-token-et-ico</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html">&lt;p&gt;&lt;em&gt;Cet article s’inspire de l’article publié en Anglais par Ramon Recuero sur Y-Combinator : &lt;a href=&quot;http://blog.ycombinator.com/the-token-effect/&quot;&gt;The Token Effect&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;contexte-de-la-blockchain&quot;&gt;Contexte de la blockchain&lt;/h2&gt;
+
+&lt;p&gt;Des décennies après le lancement du web et dix-sept ans après l’effondrement de la bulle internet, nous sommes finalement entré dans &lt;strong&gt;l’âge d’or des applications Internet.&lt;/strong&gt; Des entreprises comme Airbnb, Uber ou BlaBlaCar peuvent être décrites comme des entités centralisées dirigeant un réseau qui alloue une ressource rare, i.e un logement en un lieu et à une date précise, un trajet entre A et B à une heure précise. Cette allocation de ressource se traduit par un service facturé par la plateforme web conçue et gérée par ces entreprises. Les communautés fédérées autour de ces services sont construites sur des effets de réseau puissants - où, selon la loi de Metcalfe&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, la &lt;strong&gt;valeur du réseau augmente exponentiellement avec le nombre d’utilisateurs&lt;/strong&gt; qui y participent. Et dans ce cas là, la valeur produite par les utilisateurs bénéficie directement aux entreprises et à leurs actionnaires.&lt;/p&gt;
+
+&lt;p&gt;D’autre part, les projets open source et décentralisés qui alimentent Internet comme TCP/IP, Wikipedia ou Linux ont généré énormement de valeurs, mais ils ont toujours du mal à en bénéficier économiquement eux-mêmes. Le succès de l’open source se mesure par le niveau d’adoption des utilisateurs, et non pas par les revenus qu’il génére. Par exemple, les protocoles Internet comme TCP/IP et HTTP (web) ou SMTP (email) ont été largement sous-financés malgré leur utilisation par des millions de personnes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Les entreprises utilisent énormément ces protocoles open source&lt;/strong&gt; tout en générant de la valeur au niveau de leur propre couche utilisateurs, via leur application utlisée par les consommateurs finaux&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. L’inconvénient c’est que lesdits protocoles open source restent eux toujours massivement sous-financés.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bitcoin&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; a créé le premier réseau décentralisé “équitable” et partagé (public&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;)&lt;/strong&gt;. Bitcoin permet de faire transiter de l’argent de façon &lt;em&gt;sécurisée&lt;/em&gt; entre des parties, &lt;em&gt;sans autorité centrale&lt;/em&gt; (sans banque et sans même une entreprise qui gère une plateforme) et en toute &lt;em&gt;transparence&lt;/em&gt;. Tout le monde vérifie les transactions de tout le monde. L’équité est définie en récompensant les bons acteurs de manière monétaire pour leur contribution au fonctionnement du réseau. Ces acteurs s’appellent les &lt;em&gt;mineurs&lt;/em&gt;. Ils contribuent au fonctionnement du réseau en enregistrant et en sécurisant toutes les transactions avec des preuves cryptographiques. Le concept sur laquelle repose Bitcoin s’appelle la blockchain.&lt;/p&gt;
+
+&lt;h2 id=&quot;ethereum-et-les-tokens--létincelle&quot;&gt;Ethereum et les tokens : l’étincelle&lt;/h2&gt;
+
+&lt;p&gt;Ethereum&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; a repris le concept Bitcoin en allant un plus loin. Ethereum est un réseau décentralisé de millions d’ordinateurs (les noeuds du réseau) qui exécutent du code en même temps. Lorsque quelqu’un veut executer une transaction, tous les nœuds l’exécutent et mettent à jour le registre public des transactions. &lt;strong&gt;Contrairement à Bitcoin, ces noeuds Ethereum peuvent exécuter presque n’importe quel programme décrit dans la transaction&lt;/strong&gt;. Plus précisement son code est défini dans des &lt;em&gt;‘Smart Contracts’&lt;/em&gt;. Un ‘Smart Contract’&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; est un ensemble d’engagements, spécifiées sous forme numérique, incluant les règles qui régissent ces engagements. Les applications directes sont par exemple la numérisation d’instruments financiers complexes comme les dérivés, le stockage de fichier réparti, .&lt;/p&gt;
+
+&lt;p&gt;Plus important encore, vous pouvez utiliser un ‘Smart Contract’ pour créer votre propre crypto-monnaie : les tokens&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Les &lt;strong&gt;tokens permettent aux protocoles décentralisés de tirer les bénéfices financiers du réseau&lt;/strong&gt;. Un token est l’unité économique de base dans l’écosystème Ethereum et devrait s’appuyer ou correspondre à une ressource rare. Les tokens sont dépenser pour utiliser cette ressource et sont gagnés en contribuant au fonctionnement du réseau. Par exemple, avec Filecoin, vous gagnez des tokens en prêtant votre espace de disque dur inutilisé. En résumé, les tokens coordonnent les efforts dans le réseau et motivent une participation responsable.&lt;/p&gt;
+
+&lt;h2 id=&quot;ico--excitation-et-ruée-vers-lor&quot;&gt;ICO : excitation et ruée vers l’or&lt;/h2&gt;
+
+&lt;p&gt;À l’heure actuelle, l’ICO&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; est le principal cas d’utilisation d’Ethereum. &lt;strong&gt;Une ICO (Offre Initiale de ‘crypto-monnaie’) est pour un réseau ce qu’est une IPO (Introduction en bourse) pour une entreprise&lt;/strong&gt;, mais avec des différences majeures. Les ICO offrent une liquidité considérable. Contrairement aux entreprises traditionnelles, vous pouvez faire correspondre la valeur de vos actifs avec des Tokens liquides et échangeables, dès le premier jour. En outre, vous pouvez attirer des milliers d’early adopters’ qui mettent leur peau en jeu et qui croient et soutiennent votre projet dès le début. Une autre différence est que la détention Token ne vous donnes aucun droit de propriété sur l’entreprise (ce n’est pas une action en d’autres termes). Enfin l’injection de capital et la spéculation initiale attirent l’attention des développeurs, une autre ressource rare, permettant de déclencher le démarrage du réseau.&lt;/p&gt;
+
+&lt;p&gt;Malheureusement, de nombreuses start-up qui ne sont pas de l’univers des réseaux se tournent vers les ICO pour lever des fonds seulement pour avoir un accès plus rapide et facile à l’argent. Mais &lt;strong&gt;seules quelques start-up nécessiteraient réellement un Token pour démarrer et valoriser leur réseau&lt;/strong&gt;. Les Tokens de protocole comme Ethereum sont des exemples de crypto-monnaies avec un effet de réseau puissant. Leur modèle ne fonctionnerait tout simplement pas sans cet effet symbolique. Le Token et son ICO sont la seule façon pour le protocole de créer et retenir les bénéfices financiers de son utilisation.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-révolution-blockchain-est-en-marche&quot;&gt;La révolution blockchain est en marche&lt;/h2&gt;
+
+&lt;p&gt;Le web a pris des décennies pour mûrir. Il a traversé des périodes de spéculations élevées et des crashs significatifs. Il est important de se rappeler que même pendant ces périodes, de grandes entreprises comme Amazon ou Google ont été fondées. Il est raisonnable de s’attendre à ce que l’écosystème Blockchain suive le même chemin.&lt;/p&gt;
+
+&lt;p&gt;Crypto-monnaies et Tokens ont généré un record de 1,27 milliard de dollars au premier semestre de 2017 grâce à des ICO&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. La plupart d’entre eux ne survivront pas, mais quelques-uns oui, jetant les bases d’un nouvel âge.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Les Blockchains nous donnent de nouvelles façons de gouverner les réseaux. Pour la banque. Pour les éléctions et les systèmes de votes. Pour la recherche. Pour les médias sociaux. Pour les réseaux téléphoniques et énergétiques. Les places de marché basées sur la blockchain vont remplacer les réseaux existants. Lentement, Petità petit, puis tout à coup. Dans un seul domaine, et puis alors dans beaucoup de domaines.” – Naval Ravikant&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Loi_de_Metcalfe&quot;&gt;loi de Metcalfe&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.usv.com/blog/fat-protocols&quot;&gt;Fat Protocols&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://bitcoin.org/fr/&quot;&gt;Bitcoin&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Il existe aussi des blockchain privées. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ethereum-france.com/&quot;&gt;Ethereum&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ethereum-france.com/smart-contract-ou-le-contrat-auto-executant/&quot;&gt;Smart Contract&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Marché des tokens&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://marianne2.fr/quest-ico-initial-coin-offering-explication-exemple&quot;&gt;Qu’est-ce qu’une ICO&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.coindesk.com/ico-tracker/&quot;&gt;CoinDesk ICO Tracker&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="blockchain" /></entry><entry><title type="html">Allons dénicher la start-up de vos rêves</title><link href="https://www.laurentlourenco.pro/blog/travailler-investir-startup.html" rel="alternate" type="text/html" title="Allons dénicher la start-up de vos rêves" /><published>2017-08-20T00:00:00+02:00</published><updated>2017-08-20T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/travailler-investir-startup</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/travailler-investir-startup.html">&lt;h2 id=&quot;travailler-dans-une-start-up&quot;&gt;Travailler dans une start-up&lt;/h2&gt;
+
+&lt;p&gt;Vous rêvez de travailler et vous investir dans une start-up, super, mais laquelle ? Si l’on se réfère à &lt;a href=&quot;http://1001startups.fr/chiffres-cles-startups-france/&quot;&gt;l’étude de 1001 Startup&lt;/a&gt; de 2016 il y en aurait plus de 10 000 rien qu’en France. Même sans cette étude il suffit de suivre l’actualité hebdomadaire du secteur pour voir qu’il y en a pléthore, et le marché n’est pas du tout local. Dans cette même étude on apprend que 25% des startup ont à leur capital des fonds de capital-risque, et que seules 10% survivent.&lt;/p&gt;
+
+&lt;p&gt;C’est bien de vouloir travailler dans un environnement jeune, dynamique, qui veut révolutionner le monde, mais à quel prix ? Car c’est bien là le premier écueil. Tous ceux qui ont créés leur boite avec de la &lt;code class=&quot;highlighter-rouge&quot;&gt;love money&lt;/code&gt; n’ont pas de quoi payer des salaires pour des personnes expérimentées. Il va donc falloir se tourner vers les entreprises qui ont &lt;strong&gt;déjà réalisées une première levée de fonds&lt;/strong&gt;, ou bien qui ont déjà un produit qui a trouvé son marché (le fameux &lt;code class=&quot;highlighter-rouge&quot;&gt;PMF : Product Market Fit&lt;/code&gt;) et qui lui permet de générer du chiffre d’affaires.&lt;/p&gt;
+
+&lt;p&gt;Ensuite qui dit startup dit idée et produit innovant. Il y en a donc pour tous les goûts et dans tous les domaines et tous les secteurs : &lt;code class=&quot;highlighter-rouge&quot;&gt;FinTech&lt;/code&gt; (finance), &lt;code class=&quot;highlighter-rouge&quot;&gt;FoodTech&lt;/code&gt; (agroalimentaire et restauration), &lt;code class=&quot;highlighter-rouge&quot;&gt;Healthcare&lt;/code&gt; (Santé), &lt;code class=&quot;highlighter-rouge&quot;&gt;CleanTech&lt;/code&gt; (bio, agriculture, energie, smart grid)… Il va donc falloir vous orienter avant tout vers &lt;strong&gt;un domaine qui vous inspire&lt;/strong&gt; ou dans lequel vous vous sentez à l’aise. Enfin il faut que le produit ou le service vous parle, à vous de faire vos enquêtes ou de demander des démos quand c’est possible.&lt;/p&gt;
+
+&lt;p&gt;Enfin il faut que le courant passe. Une startup c’est souvent une petite ou une très petite structure, en mutation permanente et où chacun doit &lt;strong&gt;trouver sa place dans l’équipe existante&lt;/strong&gt;. Rencontrer les personnes en place est un passage obligé.&lt;/p&gt;
+
+&lt;p&gt;Alors je vous propose trois pistes d’investigation pour dénicher la start-up de vos rêves :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les sites spécialisés dans la mise en relation des start-up&lt;/li&gt;
+  &lt;li&gt;Les accélérateurs de start-up&lt;/li&gt;
+  &lt;li&gt;Les plateforme de crowdFunding&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;mises-en-relations-des-start-up&quot;&gt;Mises en relations des start-up&lt;/h2&gt;
+
+&lt;p&gt;Les start-up ont rapidement deux difficultés à surmonter : trouver du cash et trouver des talents. Aussi quelques structures se sont spécialisées pour la mise en relation des fondateurs de start-up avec les investisseurs, les accélérateurs et toutes personnes qui cherchent un job dans cet univers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.f6s.com/&quot;&gt;F6s&lt;/a&gt; Helps you grow&lt;/strong&gt; : Find Accelerators &amp;amp; Funds, &lt;a href=&quot;https://www.f6s.com/jobs&quot;&gt;Find a Startup Job&lt;/a&gt;, Recruit Talent.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://angel.co/&quot;&gt;angelList&lt;/a&gt; Where the world meets startups.&lt;/strong&gt; &lt;a href=&quot;https://angel.co/jobs&quot;&gt;Find a Startup Job&lt;/a&gt;. &lt;a href=&quot;https://angel.co/markets&quot;&gt;Companies by market&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://index.co/&quot;&gt;INDEX&lt;/a&gt; Connecting startups, corporate brands, and investors.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.ecap-partner.com/&quot;&gt;eCap-Parner&lt;/a&gt; Assist Start-up in growing.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;A noter&lt;/strong&gt; eCap-Partner publie hebdomadairement la liste des levés de fonds de la semaine dans le numérique. Abonnez-vous à leur mailing liste.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En suivant les actualités sur ces sites vous pouvez identifier les start-up qui sont dynamiques et où elles en sont de leurs levés de fonds.&lt;/p&gt;
+
+&lt;h2 id=&quot;accélérateurs-de-start-up&quot;&gt;Accélérateurs de start-up&lt;/h2&gt;
+
+&lt;p&gt;Les accélérateurs ce sont des structures qui offrent un programme court et intensif dédié aux start-up, avec pour objectif d’accélérer leur croissance. Ils offrent par ailleurs de nombreux services utiles au lancement de la jeune pousse : mentorat, services juridiques, services comptables, conseil… en contrepartie d’une prise de participation. Les société sélectionnées sont donc triées sur le volet, c’est donc un très bon vivier pour dénicher une pépite.&lt;/p&gt;
+
+&lt;p&gt;Depuis le lancement du concept en 2005 les accélérateurs pullulent ces dernières années. Aussi j’ai fait une sélection drastique. Vous trouverez une liste plus exhaustive dans la &lt;a href=&quot;https://www.maddyness.com/category/business/accelerateurs/&quot;&gt;catégorie accélérateur sur MaddyNess&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ycombinator.com/&quot;&gt;Y Combinator&lt;/a&gt;, dans la Silicon Valley.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thefamily.co/&quot;&gt;The Family&lt;/a&gt;, à Paris.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.startup-palace.com/&quot;&gt;Startup Palace&lt;/a&gt;, à Nantes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;:exclamation: Pour ceux qui sont intéressés pour monter une start-up je recommande vivement la &lt;strong&gt;&lt;a href=&quot;http://playbook.samaltman.com/&quot;&gt;bible des startuper&lt;/a&gt;&lt;/strong&gt; réalisée par ‘Y Combinator’.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;plateformes-de-crowdfunding&quot;&gt;Plateformes de crowdFunding&lt;/h2&gt;
+
+&lt;p&gt;Les plateformes de crowdFunding mettent en relation des porteurs de projets (innovant) avec le grand public pour permettre de financer le lancement de l’entreprise. Les projets et équipes qui arrivent à obtenir des financement important ont de sérieuses chances de réussir et ont pour le coup besoin de monde pour développer leur produit.&lt;/p&gt;
+
+&lt;p&gt;Vous avec un très bon article et une liste assez détaillée des différents types de &lt;a href=&quot;http://1001startups.fr/sites-crowdfunding/&quot;&gt;plateformes de crowdfunding&lt;/a&gt; sur 1001startups.&lt;/p&gt;
+
+&lt;p&gt;Là encore je n’en ai sélectionné que trois, très arbitrairement.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kisskissbankbank.com/&quot;&gt;KissKissBankBank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.ulule.com/&quot;&gt;Ulule&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/&quot;&gt;Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;:exclamation: L’initiative &lt;a href=&quot;https://tousnosprojets.bpifrance.fr/&quot;&gt;TousNosProjets.fr&lt;/a&gt; de la BPI qui répertorie 40 plateformes de don, prêt et investissement est une bonne source pour aller plus loin.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A vous de jouer et bonnes recherches.&lt;/p&gt;
+
+&lt;p&gt;N’hésitez pas à partager dans les commentaires ci-dessous les start-up qui ont retenu votre attention.&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="start-up" /><category term="veille" /><category term="job" /></entry></feed>

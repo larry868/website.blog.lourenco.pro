@@ -1,0 +1,21 @@
+{
+    "short_name": "blogLourenco",
+    "name": "Blog Laurent Lourenço",
+    "description": "Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.",
+    "icons": [
+        {
+            "src":"/apple-touch-icon.png",
+            "sizes":"144x144",
+            "type":"image/png"
+        },
+        {
+            "src":"/splashicon.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }        
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#B2A37B",
+    "theme_color": "#375BB0",
+    "display": "standalone"
+}
