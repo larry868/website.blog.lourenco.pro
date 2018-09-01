@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <title>{{ title }}</title>
+    <meta name="title" content="{{ title }}">
+    <link rel="canonical" href="{{url}}">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--page-description-->
+    <meta name="author" content="Laurent Lourenco">
+    <meta name="description" content="{{description}}">
+    <meta name="keywords" content="{{ tags }}">
+    <meta name="robots" content="index, follow">
+    <link rel="alternate" type="application/rss+xml" title="{{ title }}" href="/feed.xml">
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-icons.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/custom.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+  <body>
+    <main class="inside">
+    {{ content }}
+    </main>
+    {{ _footer }}
+  <script src="/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
