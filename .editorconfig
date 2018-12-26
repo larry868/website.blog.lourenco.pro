@@ -1,0 +1,11 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# utf-8 _SANS BOM_ requis par Ruby/Jekyll
+[*.html,*.css,*.scss,*.js,*.htm,*.md,*.markdown]
+end_of_line = crlf
+insert_final_newline = true
+charset = utf-8
+indent_style = space
