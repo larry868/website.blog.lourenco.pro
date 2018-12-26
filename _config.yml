@@ -1,0 +1,172 @@
+# Bienvenue dans StudioJekyll 
+#
+# Ce fichier de configuration est utilisé pour définir les paramètres qui 
+# affectent tout votre site / blog. Ces valeurs n'ont pas vocation à être
+# modifiées souvent.
+
+########################
+# Configuration initiale
+########################
+# C'est ici que vous définissez les paramètres initiaux de vore nouveau site. 
+# Sivous regardez dans vos fichiers HTML, vous verrez qu'ils y accedent
+# via {{ site.title }}, {{ site.email }}, et ainsi de suite.
+# shortname must be 12 car max
+
+brand: Laurent Lourenço
+shortname: blogLourenco
+title: Blog Laurent Lourenço
+tagline: Le futur numérique se décide maintenant. Allons-y !
+description: Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.
+phone: +33(0)622120139
+
+copyright:
+  name: MSFT S.A.S.
+  url: http://www.msft-consulting.com
+  licence: Tous droits réservés CC-BY-SA-4.0.
+
+author:
+  name: Laurent Lourenço
+  url: https://twitter.com/laurentlourenco
+
+# id utilisés pour faire apparaitre les boutons réseaux sociaux sur le site
+email: contact@lourenco.pro
+twitter_userid: laurentlourenco
+#github_userid:  mikemaggire
+#gplus_userid: +mikemaggire
+#facebook_userid: mikemaggire
+linkedin_userid: laurentlourenco
+
+############################################################ SHARE THIS
+share_by_twitter: true
+share_by_linkedin: true
+share_by_facebook: true
+
+############################################################ THEME GRAPHIQUE
+# Personalisez le theme graphique de votre site
+# certaines couleurs sont prédéfinies dans le fichier _sass/_newcolors.scss
+# primarycolor est utilisé pour le fond de la barre de navigation.
+# par default primarycolor est $color-aqua
+# secondarycolor est utilisé pour les liens URL
+# par defaut secondarycolor est égale à primarycolor 
+# mais vous pouvez choisir n'importe quelle couleur au format CSS : https://www.w3schools.com/cssref/css_colors_legal.asp
+# Par default la couleur principale est 'grey', sans texture de fond et une couleur de fond 'white'
+# Pour choissir une texture pour le fond : https://www.toptal.com/designers/subtlepatterns/
+# puis ajoutez l'image dans le repertoire 'assets/img'
+
+graphicaltheme:
+  primarycolor: '#375BB0'
+  secondarycolor: '#B2A37B' #'#C1B38E'
+  backgroundtexture: white_wall.png
+#masthead-bgcolor: 'white'
+
+############################################################ URL SITE
+# A noter que l'URL de votre site publié doit être configurer dans le fichier 
+# de configuration des publication, _config_test.yml et _config_prod.yml qui
+# se trouvent dans le repertoire _studiojekyll
+
+############################################################ VERSION
+# NOTA : Le numéro de version V:x.y.z du site est géré automatiquement 
+# au moment du deploiement en test et en prod
+# Le numéro z est incrémenté à chaque build de l'environnement de test
+# Le numéro y est incrémenté à chaque build de l'environnement de prod
+# Pour incrémenter le numéro de version majeur (x), utilisez la commande
+# 'npm version major' en ouvrant une console au niveau du repertoire racine de votre sire
+
+############################################################ COMMENTAIRES
+# Pour activer DISQUS à la fin des articles 
+# renseignez votre identifiant DISQUS (voir https://disqus.com/) 
+# en face de la variable 'shortname' ci-après.
+# Plus d'explications : http://wiki.maggire.net/blogging-studio-jekyll/2017/06/25/comment-activer-commentaires.html
+# Pour désactiver DISQUS, mettez les deux lignes suivantes en commentaire
+disqus:
+  shortname: blog-laurent-lourenco
+
+############################################################ ANALYTICS
+# Pour activer Google Analytics sur vos pages
+# Sinon mettez cette ligne en commentaire
+google_analytics: UA-23118933-8
+
+############################################################ DESIGN CUSTOMIZATION
+
+# Défini si la barre de navigation doit inclure un lien vers la page de votre blog
+# Utile si la page principale de votre site n'affiche pas le blog
+showbloginnavbar: /blog/index.html
+#showbloginnavbar: /index.html
+
+# nombre maximum d'articles sur la page de blog
+paginate: 7
+
+############################################################
+# Les variables suivantes ne sont pas à modifier
+############################################################
+
+# encoding & format
+# se référer à http://shopify.github.io/liquid/filters/date/ pour personnaliser le format de date
+encoding: utf-8
+lang: fr-FR
+date_format: "%d/%m/%Y"
+timezone: Europe/Paris
+markdown: kramdown
+paginate_path: "/blog/pages/page:num"
+excerpt_separator: ""
+
+# le format type des permalink
+permalink: /:categories/blog/:title.html
+
+# Extension utilisées
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-paginate
+ - jemoji
+
+# Forcer le traitement de robots
+include: 
+  - robots.txt
+
+# transpiler saas
+sass:
+  sass_dir: _sass
+
+# Exclusions spécifiques à VS
+# Ces fichiers ne seront pas générés dans le repertoire de destination _site ou _site2deploy
+exclude: 
+ - TODO.md
+ - README.md
+ - package.json
+ - bs-config.json
+ - deploy2prod.bat
+ - deploy2test.bat
+ - Gemfile
+ - Gemfile.lock
+ - node_modules
+ - .bat
+ - deploy2*.*
+
+# Traitement du repertoire _pages et _restricted
+# https://jekyllrb.com/docs/collections/
+collections:
+  pages:
+    output: true
+    permalink: /:categories/:title.html
+
+kramdown:
+#  auto_ids:       true
+#  entity_output:  as_char
+#  toc_levels:     1..6
+#  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+#  input:          GFM
+#  hard_wrap:      false
+#  footnote_nr:    1
+  parse_block_html: true
+
+# http://jch.penibelst.de/
+compress_html:
+  clippings: [div, p, ul, td, h1, h2]
+  comments: all
+  endings: all
+  ignore:
+    envs: [development]
+  #blanklines: false
+  profile: false
+  #startings: []

@@ -1,0 +1,81 @@
+---
+layout: page
+navbar: Crypto-monnaies
+navbarindex: 70
+title: Crypto-monnaies
+subtitle: Les crypto-monnaies (Bitcoin, Ethereum, Monero...) sont la première application de la blockchain, et un passage obligé pour utiliser les nouveaux services à base de tokens.
+category: blockchain
+---
+
+<div class="row justify-content-center mx-1 py-3">
+
+    <div class="col text-center">
+        <div id="coindesk-widget" data-align="center"></div>
+        <script type="text/javascript" src="https://widget.coindesk.com/bpiticker/coindesk-widget.min.js"></script>
+    </div>
+    <div class="w-100"><hr></div>
+    <div class="col-sm-4 text-center mt-3">
+        <h3>Actu</h3>
+        <p>Sources pour rester informer en continu sur l'actualité des crypto-monnaies et des tokens.</p>
+        <p><a href="https://twitter.com/laurentlourenco/lists/crypto-news" class="btn btn-primary-jekyll btn-sm" role="button">twitter feed</a></p>
+        <p><a href="{{ site.baseurl }}/blockchain/bc-news-videos.html" class="btn btn-outline-jekyll btn-sm" role="button">liste de chaines youtubes</a></p>
+        <p><a href="https://www.facebook.com/groups/cryptotraderslounge/" class="btn btn-outline-jekyll btn-sm" role="button">The Cryptocurrency Traders Lounge sur facebook</a></p>
+    </div>
+    
+    <div class="col-sm-4 text-center mt-3">
+        <h3>Crypto Market</h3>
+        <p>Marché du Bitcoin, de toutes les crypto-monnaies et des acteurs de la blockchain.</p>
+        <p><a href="https://coinmarketcap.com/" class="btn btn-primary-jekyll btn-sm" role="button">Coin Market Cap</a>
+        <a href="https://cryptocoincharts.info/markets/info" class="btn btn-primary-jekyll btn-sm" role="button">Crypto Coin Info</a>
+        <a href="https://www.cryptocompare.com/" class="btn btn-primary-jekyll btn-sm" role="button">Crypto Compare</a>
+        <a href="https://www.cryptosomniac.com/" class="btn btn-primary-jekyll btn-sm" role="button">Crypto Somniac</a>
+    </p>
+    </div>
+
+    <div class="col-sm-4 text-center mt-3">
+        <h3>Trading</h3>
+        <p>Outils et solutions pour négocier, acheter, vendre, échanger, des Bitcoins et des crypto-monnaies.</p>
+        <p><a href="{{ site.baseurl }}/blockchain/bc-trading.html" class="btn btn-outline-jekyll btn-sm" role="button">J'achète !</a></p>
+    </div>
+
+    <!--div class="w-100"></div-->
+    <div class="col-sm-4 text-center mt-3">
+        <h3>Wallets</h3>
+        <p>Solutions pour gérer ses comptes Bitcoins, Ethereum et autres crypto-monnaies.</p>
+        <p><a href="https://www.cryptocompare.com/wallets/#/overview" class="btn btn-primary-jekyll btn-sm" role="button">Tous les wallets</a></p>
+    </div>
+
+    <div class="col-sm-4 text-center mt-3">
+        <h3>ICO</h3>
+        <p>Levées de fonds des start-up blockchain réalisées par l'émission de 'tokens'.</p>
+        <p><a href="{{ site.baseurl }}/blockchain/bc-ico.html" class="btn btn-outline-jekyll btn-sm" role="button">Vous saurez tout, tout, tout sur les ICO</a></p>
+    </div>
+
+    <div class="col-sm-4 text-center mt-3">
+        <h3>Blockchain Explorers</h3>
+        <p>Outils pour explorer les blockchains publiques, et statistiques diverses.</p>
+        <p><a href="{{ site.baseurl }}/blockchain/bc-explorers.html" class="btn btn-outline-jekyll btn-sm" role="button">J'explore</a></p>
+    </div>
+</div>
+
+<hr>
+
+<!-- liste des post blockchain -->
+<div class="container">
+    <div id="archives">
+    {% for tag in site.tags %}
+        {% capture tag_name %}{{ tag | first }}{% endcapture %}
+        {% if tag_name == "blockchain" %}
+        <div class="archive-group">
+            <h3>Articles de blog sur le sujet de la blockchain et des crypto-monnaies</h3>
+            {% for post in site.tags[tag_name] %}
+                <article class="archive-item">
+                <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+                </article>
+            {% endfor %}
+        </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+<hr>

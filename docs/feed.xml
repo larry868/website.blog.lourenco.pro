@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="https://www.laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-09-01T19:54:37+02:00</updated><id>https://www.laurentlourenco.pro/</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Comment expliquer la blockchain à votre comité de direction ?</title><link href="https://www.laurentlourenco.pro/blog/introduction-blockchain.html" rel="alternate" type="text/html" title="Comment expliquer la blockchain à votre comité de direction ?" /><published>2017-10-17T00:00:00+02:00</published><updated>2017-10-17T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/introduction-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/introduction-blockchain.html">&lt;p&gt;S’il y a bien un exercice difficile avec la blockchain c’est bien de vulgariser cette technologie. C’est nouveau, c’est virtuel et ça ne ressemble à rien de bien connu. Mais voilà, les médias commencent à en parler de plus et vous ne pourrez pas échapper à une présentation auprès de votre comité de direction.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-12-26T18:38:10+01:00</updated><id>https://laurentlourenco.pro/feed.xml</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?</title><link href="https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes.html" rel="alternate" type="text/html" title="Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?" /><published>2018-09-01T00:00:00+01:00</published><updated>2018-09-01T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes</id><content type="html" xml:base="https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes.html">&lt;h3 id=&quot;pourquoi-pas-&quot;&gt;Pourquoi pas ?&lt;/h3&gt;
+
+&lt;p&gt;Vous avez des compétences dans le domaine du développement informatique et vous voulez quitter l’ ESN qui vous a embauchée en sortant de l’école. Vous voulez néanmoins participer au développement d’un logiciel. Vous avez alors le choix entre :&lt;/p&gt;
+
+&lt;p&gt;– une &lt;strong&gt;start-up hi-tech&lt;/strong&gt; et dont le produit est un soft. Tout est à créer ! En contrepartie c’est plutôt le bazzar et les nuits sont généralement courtes. Si vous aimez l’aventure et que les pivots ne vous font pas peur, foncez…&lt;/p&gt;
+
+&lt;p&gt;– une &lt;strong&gt;plateforme SaaS&lt;/strong&gt; développée par une entreprise innovante et qui offre des services exclusifs en ligne (comme UBER ou RBnB par exemple). Ce type d’entreprise a déjà trouvé son business model (sinon ce serait toujours une start-up :wink:), elle est structurée avec des process plutôt établis et une équipe déjà en place. La plateforme doit être UP H24 et en période de forte croissance la pression reste élevée, à vous de voir…&lt;/p&gt;
+
+&lt;p&gt;– un &lt;strong&gt;éditeur de logiciel ‘traditionnel’&lt;/strong&gt;. Il possède généralement une base client installée avec des revenus récurrents provenant des contrats de maintenance logiciel. Le logiciel évolue régulièrement avec la sortie de nouvelles versions. Les axes de développements sont doubles : nouvelles fonctionnalités d’un coté et évolution du socle technologique d’un autre coté. Les processus internes sont rodés, les techno stables, et les rôles dans les équipes sont bien répartis : help-desk, améliorations fonctionnelles, veille, spécifiques clients. Alors ? Pourquoi pas !&lt;/p&gt;
+
+&lt;p class=&quot;alert alert-warning&quot;&gt; &lt;strong&gt;A noter&lt;/strong&gt; Les compétences techniques requises, le savoir-faire et le savoir-être nécessaires sont en outre différents pour chacun de ces types d’entreprises.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-liste&quot;&gt;La liste&lt;/h3&gt;
+
+&lt;p&gt;Voici la liste de ces éditeurs ayant leur siège ou leurs équipes de développement sur le bassin Nantais :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.talend.com/&quot;&gt;TALEND&lt;/a&gt; ETL, Plateforme BigData, MDM. TALEND a installé son &lt;a href=&quot;http://www.nantes.fr/home/actualites/ville-de-nantes/economie/2016/talend.html&quot;&gt;centre de R&amp;amp;D à Nantes&lt;/a&gt; en 2016.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spacelephant.org/&quot;&gt;SPACE ELEPHANT&lt;/a&gt; Blockchain publiques et privées, DAPP (Decentralized App), Cyber Securité et protection de la vie privée. Space Elephant développe le protocole de ‘Naming’ Universel UNS adossé à un identifiant sécurisé : &lt;a href=&quot;https://www.unik-name.com&quot;&gt;@unik-name&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sodius.com/en/home&quot;&gt;SODIUS&lt;/a&gt; Développement dans secteurs Défense, Automobile et Transport des solutions pour la modélisation et l’ingénierie de produits et services complexes – Développement des technologies de « niche ».&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.vif.fr/&quot;&gt;VIF&lt;/a&gt; ERP et logiciels de gestion pour l’agroalimentaire.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.proginov.com/&quot;&gt;PROGINOV&lt;/a&gt; ERP.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.silog.fr/&quot;&gt;SILOG&lt;/a&gt; ERP.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sigma.fr/&quot;&gt;SIGMA&lt;/a&gt; - ERP : paie, compta, WMS, TMS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.prios.fr/&quot;&gt;PRIOS&lt;/a&gt; ERP verticlisé Agriculture, Boisson, Meunerie, Equipement de la personne.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.inovaxo.fr/&quot;&gt;INOVAXO&lt;/a&gt;  ERP vertical Négoce Pneumatique, Centre Auto, Pièce Détachée automobile.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.keendoo.com/&quot;&gt;KEENDOO&lt;/a&gt; PIM Agroalimentaire.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.akeneo.com/fr/&quot;&gt;AKENEO&lt;/a&gt; PIM Open Source.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bodet-software.com/fr/&quot;&gt;BODET Software&lt;/a&gt; - Gestion des temps, badgeuse, sirh, contrôle d’accès.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dimosoftware.fr/&quot;&gt;DIMO Software&lt;/a&gt; Logiciels de gestion RH, Compta et finance…&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rca.fr/&quot;&gt;RCA&lt;/a&gt; Logiciels pour les experts comptables.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jex-it.fr/accordance-reconciliation-interco-intra-groupe.html&quot;&gt;JEX-IT&lt;/a&gt; Réconciliation des opérations intra-groupe.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sitaci.fr/&quot;&gt;SITACI&lt;/a&gt; WMS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.algodata.fr/&quot;&gt;ALGO-DATA&lt;/a&gt; Gestion d’evenements et CMS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.arpege.tm.fr/&quot;&gt;ARPEGE&lt;/a&gt; Gestion Mairies.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jes.fr/&quot;&gt;JES&lt;/a&gt; - &lt;a href=&quot;https://www.jes.fr/nos-solutions/moneweb/&quot;&gt;MONEWEB&lt;/a&gt; Système encaissement pour la restauration collective.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kosmos.fr/&quot;&gt;KOSMOS&lt;/a&gt; Logiciels Web pour l’éducation.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.adoc-solutions.eu/&quot;&gt;ADOC-Solutions&lt;/a&gt; Gestion documentaire.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.isilog.fr/&quot;&gt;ISILOG&lt;/a&gt; Gestion Help-Desk &amp;amp; Asset-Management pour les services informatiques.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.proges.com/&quot;&gt;PROGES PLUS&lt;/a&gt; Gestion parc informatique, Traçabilité et surveillance de température.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.topsolid.fr/&quot;&gt;Missler Software / TopSolid&lt;/a&gt; - CFAO.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cette liste n’est probablement pas exhaustive. Si vous connaissez d’autres éditeurs Nantais n’hésitez pas à m’en faire part ci-dessous, je les ajouterai dans la liste.&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="marché-Digital-IT" /><category term="job" /></entry><entry><title type="html">Comment expliquer la blockchain à votre comité de direction ?</title><link href="https://laurentlourenco.pro/blog/introduction-blockchain.html" rel="alternate" type="text/html" title="Comment expliquer la blockchain à votre comité de direction ?" /><published>2017-10-17T00:00:00+01:00</published><updated>2017-10-17T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/introduction-blockchain</id><content type="html" xml:base="https://laurentlourenco.pro/blog/introduction-blockchain.html">&lt;p&gt;S’il y a bien un exercice difficile avec la blockchain c’est bien de vulgariser cette technologie. C’est nouveau, c’est virtuel et ça ne ressemble à rien de bien connu. Mais voilà, les médias commencent à en parler de plus et vous ne pourrez pas échapper à une présentation auprès de votre comité de direction.&lt;/p&gt;
 
 &lt;p&gt;De mon coté j’aborde le sujet selon trois angles différents : le marché, les aspects “disruptifs”, et la genèse pour comprendre les fondamentaux.&lt;/p&gt;
 
@@ -413,7 +466,7 @@
   &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/introduction-a-la-technologie-blockchain/&quot;&gt;Introduction à la technologie Blockchain&lt;/a&gt;. Octo Technologie.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Scanate/Ethlist&quot;&gt;Ethereum Reading List&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.contrepoints.org/2017/04/21/287233-blockchain-revolution-de-confiance&quot;&gt;Blockchain révolution de confiance&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /><category term="stratégie-IT" /></entry><entry><title type="html">Votre idée de produit blockchain est-elle pertinente ?</title><link href="https://www.laurentlourenco.pro/blog/tester-idee-produit-service-blockchain.html" rel="alternate" type="text/html" title="Votre idée de produit blockchain est-elle pertinente ?" /><published>2017-10-13T00:00:00+02:00</published><updated>2017-10-13T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/tester-idee-produit-service-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/tester-idee-produit-service-blockchain.html">&lt;h2 id=&quot;la-blockchain-est-la-réponse-mais-quelle-était-la-question-&quot;&gt;La blockchain est la réponse, mais quelle était la question ?&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /><category term="stratégie-IT" /></entry><entry><title type="html">Votre idée de produit blockchain est-elle pertinente ?</title><link href="https://laurentlourenco.pro/blog/tester-idee-produit-service-blockchain.html" rel="alternate" type="text/html" title="Votre idée de produit blockchain est-elle pertinente ?" /><published>2017-10-13T00:00:00+01:00</published><updated>2017-10-13T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/tester-idee-produit-service-blockchain</id><content type="html" xml:base="https://laurentlourenco.pro/blog/tester-idee-produit-service-blockchain.html">&lt;h2 id=&quot;la-blockchain-est-la-réponse-mais-quelle-était-la-question-&quot;&gt;La blockchain est la réponse, mais quelle était la question ?&lt;/h2&gt;
 
 &lt;p&gt;Sajida Zouarhi nous propose le ‘&lt;strong&gt;Canevas Blockchain&lt;/strong&gt;’ sur le modèle du ‘Business Model Canvas’ et du ‘Lean Canvas’. Ces modèles permettent de synthétiser rapidement les hypothèses d’un projet d’entreprise, très en avance de phase avant sont lancement. Ils obligent à se poser les questions principales.&lt;/p&gt;
 
@@ -429,7 +482,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/creative-wallonia-engine/acc%C3%A9l%C3%A9rateur-de-startup-m%C3%A9thode-du-lean-canvas-visualisez-vos-hypoth%C3%A8ses-critiques-d77e5ade3f62&quot;&gt;Accélérateur de Startup : Méthode du LEAN CANVAS — Visualisez vos hypothèses critiques !&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">La blockchain est elle vraiement une révolution technologique ?</title><link href="https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html" rel="alternate" type="text/html" title="La blockchain est elle vraiement une révolution technologique ?" /><published>2017-09-10T00:00:00+02:00</published><updated>2017-09-10T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html">&lt;p&gt;Il y a 6 technologies qui sont à la base de la plupart des blockchains. Elles sont assez anciennes et on peut même se demander pourquoi la blockchain n’a pas été inventé avant !&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">La blockchain est elle vraiement une révolution technologique ?</title><link href="https://laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html" rel="alternate" type="text/html" title="La blockchain est elle vraiement une révolution technologique ?" /><published>2017-09-10T00:00:00+01:00</published><updated>2017-09-10T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique</id><content type="html" xml:base="https://laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html">&lt;p&gt;Il y a 6 technologies qui sont à la base de la plupart des blockchains. Elles sont assez anciennes et on peut même se demander pourquoi la blockchain n’a pas été inventé avant !&lt;/p&gt;
 
 &lt;p&gt;Dans cet article nous passons en revue chacune de ces technologies et du role qu’elles jouent dans la blockchain :&lt;/p&gt;
 
@@ -561,7 +614,7 @@
   &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Arbre_de_Merkle&quot;&gt;Arbres de Merkle&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Key-value_database&quot;&gt;Key-Value database&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fr.slideshare.net/straumat/bitcoin-comment-a-marche-et-pourquoi-cest-une-rvolution&quot;&gt;Bitcoin comment ça marche et pourquoi c’est une révolution&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Connaissez-vous le secteur dont le recrutement a triplé en moins d’un an ?</title><link href="https://www.laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain.html" rel="alternate" type="text/html" title="Connaissez-vous le secteur dont le recrutement a triplé en moins d'un an ?" /><published>2017-09-09T00:00:00+02:00</published><updated>2017-09-09T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain.html">&lt;h2 id=&quot;le-nombre-de-jobs-relatifs-à-la-blockchain-a-triplé-en-à-peine-un-an-sur-linkedin&quot;&gt;Le nombre de jobs relatifs à la blockchain a triplé en à peine un an sur Linkedin&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Connaissez-vous le secteur dont le recrutement a triplé en moins d’un an ?</title><link href="https://laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain.html" rel="alternate" type="text/html" title="Connaissez-vous le secteur dont le recrutement a triplé en moins d'un an ?" /><published>2017-09-09T00:00:00+01:00</published><updated>2017-09-09T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain</id><content type="html" xml:base="https://laurentlourenco.pro/blog/secteur-recrutement-tripple-jobs-linkedin-blockchain.html">&lt;h2 id=&quot;le-nombre-de-jobs-relatifs-à-la-blockchain-a-triplé-en-à-peine-un-an-sur-linkedin&quot;&gt;Le nombre de jobs relatifs à la blockchain a triplé en à peine un an sur Linkedin&lt;/h2&gt;
 
 &lt;p&gt;La demande explose pour les personnes qui ont des compétences qui permettent de maîtriser la technologie à la base des crypto-monnaies. Tous les secteurs d’activité sont concernés : les fintech, la foodtech, l’industrie, les jeux…&lt;/p&gt;
 
@@ -624,7 +677,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cointelegraph.com/news/is-there-blockchain-related-talent-bubble-linkedin-adverts-surge&quot;&gt;Blockchain-related job adverts surge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.computerworlduk.com/applications/how-get-job-as-blockchain-developer-3640764/&quot;&gt;How to get a job as a blockchain developer or engineer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="job" /><category term="blockchain" /></entry><entry><title type="html">Ecosystem Blockchain</title><link href="https://www.laurentlourenco.pro/blog/ecosystem-blockchain.html" rel="alternate" type="text/html" title="Ecosystem Blockchain" /><published>2017-09-08T00:00:00+02:00</published><updated>2017-09-08T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/ecosystem-blockchain</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/ecosystem-blockchain.html">&lt;h2 id=&quot;cartographie-de-lécosystème-blockchain&quot;&gt;Cartographie de l’écosystème blockchain&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="job" /><category term="blockchain" /></entry><entry><title type="html">Ecosystem Blockchain</title><link href="https://laurentlourenco.pro/blog/ecosystem-blockchain.html" rel="alternate" type="text/html" title="Ecosystem Blockchain" /><published>2017-09-08T00:00:00+01:00</published><updated>2017-09-08T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/ecosystem-blockchain</id><content type="html" xml:base="https://laurentlourenco.pro/blog/ecosystem-blockchain.html">&lt;h2 id=&quot;cartographie-de-lécosystème-blockchain&quot;&gt;Cartographie de l’écosystème blockchain&lt;/h2&gt;
 
 &lt;p&gt;VentureScanner a recensé 923 sociétés travaillant dans le domaine de la blockchain en Mai 2017. Ils ont réalisés une infographie qui représentent les acteurs les plus prometteurs dans les catégories suivantes :&lt;/p&gt;
 
@@ -655,7 +708,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.venturescanner.com/infographics&quot;&gt;Infographies VentureScanner&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Les start-up blockchain poussent comme des champignons. Leur consommation peut être mortelle… ou hallucinogène. Effet ICO garanti !</title><link href="https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html" rel="alternate" type="text/html" title="Les start-up blockchain poussent comme des champignons. Leur consommation peut être mortelle... ou hallucinogène. Effet ICO garanti !" /><published>2017-09-07T00:00:00+02:00</published><updated>2017-09-07T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html">&lt;h2 id=&quot;start-up-blockchain&quot;&gt;Start-up… blockchain&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Les start-up blockchain poussent comme des champignons. Leur consommation peut être mortelle… ou hallucinogène. Effet ICO garanti !</title><link href="https://laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html" rel="alternate" type="text/html" title="Les start-up blockchain poussent comme des champignons. Leur consommation peut être mortelle... ou hallucinogène. Effet ICO garanti !" /><published>2017-09-07T00:00:00+01:00</published><updated>2017-09-07T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique</id><content type="html" xml:base="https://laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html">&lt;h2 id=&quot;start-up-blockchain&quot;&gt;Start-up… blockchain&lt;/h2&gt;
 
 &lt;p&gt;Les start-up, vous savez ces jeunes entreprises innovantes à fort potentiel de croissance, qui démarrent leur activité dans un garage, font inévitablement penser à la Silicon Valley avec des noms devenus mythiques comme Apple, Google, Facebook, Intel. Les start-up ont aussi fait parlé d’elles avec l’explosion de la bulle internet en 2000, en rappelant s’il était nécessaire, qu’&lt;strong&gt;une start-up n’est pas une petite entreprise mais une entreprise qui n’a pas encore trouvé son Business Model&lt;/strong&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Aussi malgré quelques désenchantements, l’innovation et les entrepreneurs ne s’arrêtant pas par définition, les start-up sont revenues progressivement sur le devant de la scène mondiale, jusqu’à faire tourner les têtes depuis 2014. Pourquoi ? Elles sont de plus en plus nombreuses à conquérir des nouveaux marchés énormes, bien souvent avec &lt;strong&gt;des produits, des services et des Business Models disruptifs&lt;/strong&gt;. C’est ce que montre le graphique ci-dessous avec les &lt;em&gt;licornes&lt;/em&gt;, ces start-up dont la valorisation a dépassée 1 milliard de dollars. A noter que 2014 c’est aussi l’année du coup de pouce politique pour les start-up Françaises avec la FrenchTech.&lt;/p&gt;
 
@@ -703,7 +756,7 @@ Les premières #licornes #ICO sont là &lt;a href=&quot;https://t.co/ZwEHsp4XCH&
 
 &lt;p&gt;Un peu comme l’invention de la roue qui a été le déclencheur en son temps de l’invention de la brouette, de la voiture, du vélo… Certains s’aventurent même à la comparer à l’invention de l’écriture ou encore à l’invention d’internet.&lt;/p&gt;
 
-&lt;p&gt;Comme le montre des exemples avec Blockstream, Everledger, Golem, Steem… le potentiel de certaines &lt;a href=&quot;https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html&quot;&gt;start-up blockchain est impressionnant&lt;/a&gt;, et rend parfois possible ce qui ne l’était pas avant l’arrivée de cette technologie. Cette technologie ouvre non seulement la voie vers de nouvelles innovations et offre de nouvelles opportunités de business en changeant la donne sur la répartition de la valeur créée.&lt;/p&gt;
+&lt;p&gt;Comme le montre des exemples avec Blockstream, Everledger, Golem, Steem… le potentiel de certaines &lt;a href=&quot;https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html&quot;&gt;start-up blockchain est impressionnant&lt;/a&gt;, et rend parfois possible ce qui ne l’était pas avant l’arrivée de cette technologie. Cette technologie ouvre non seulement la voie vers de nouvelles innovations et offre de nouvelles opportunités de business en changeant la donne sur la répartition de la valeur créée.&lt;/p&gt;
 
 &lt;p&gt;:warning: &lt;strong&gt;Mais cela reste des start-up avant tout. Le taux de mortalité sera important.&lt;/strong&gt; Il sera même très important : la technologie est jeune, le sujet est très technique, complexe, et encore mal maîtrisé  comme le montre le naufrage ‘The DAO’ en juin 2016 et capitalisé alors à 150 M$.&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Ce qui est intéressant c’est que le marché de l’écosystème des crypto-monnaies et tokens a à peine ‘toussé’ dans les semaines qui ont suivi le piratage de The DAO et le vol des 50M$ par un inconnu&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, comme si rien ne s’était passé. Il y a avait déjà eu plusieurs problèmes avant comme la faillite de la société de crypto-trading Américaine MtGox ou Bitcurex en Pologne. Mais rien ne semble arrêter la progression de cette technologie. C’est qu’&lt;strong&gt;un phénomène mondial est en train d’apparaître&lt;/strong&gt; depuis mi 2017, avec la russie, la chine, la corée du sud et d’autres qui soutiennent les initiatives dans le domaine&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
@@ -771,7 +824,7 @@ de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
       &lt;p&gt;&lt;a href=&quot;https://www.lesechos.fr/finance-marches/marches-financiers/010173601222-comment-poutine-espere-doubler-pekin-sur-le-bitcoin-2107462.php&quot;&gt;Comment Poutine espère doubler Pékin sur le bitcoin&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">12 start-up blockchain au potentiel impressionnant</title><link href="https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html" rel="alternate" type="text/html" title="12 start-up blockchain au potentiel impressionnant" /><published>2017-09-05T00:00:00+02:00</published><updated>2017-09-05T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html">&lt;p&gt;Vous découvrez le phénomène Blockchain, ou vous en avez entendu parlé, et vous vous demandez bien ce que cette technologie, soit disant révolutionnaire, pourrait changer dans la Société.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">12 start-up blockchain au potentiel impressionnant</title><link href="https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html" rel="alternate" type="text/html" title="12 start-up blockchain au potentiel impressionnant" /><published>2017-09-05T00:00:00+01:00</published><updated>2017-09-05T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant</id><content type="html" xml:base="https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html">&lt;p&gt;Vous découvrez le phénomène Blockchain, ou vous en avez entendu parlé, et vous vous demandez bien ce que cette technologie, soit disant révolutionnaire, pourrait changer dans la Société.&lt;/p&gt;
 
 &lt;p&gt;Plutôt que de longues dissertations techniques et philosophiques, voici une présentation des promesses de quelques start-up blockchain dans des domaines variés.&lt;/p&gt;
 
@@ -1032,7 +1085,7 @@ de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
 :link: &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Liste des tokens Ethereum&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://amzn.to/2gg7Rv6&quot;&gt;:book: ‘La Sagesse des Foules’&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">Conférences hi-tech à ne pas rater</title><link href="https://www.laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html" rel="alternate" type="text/html" title="Conférences hi-tech à ne pas rater" /><published>2017-09-01T00:00:00+02:00</published><updated>2017-09-01T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html">&lt;p&gt;A ne pas rater :&lt;/p&gt;
+&lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">Conférences hi-tech à ne pas rater</title><link href="https://laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html" rel="alternate" type="text/html" title="Conférences hi-tech à ne pas rater" /><published>2017-09-01T00:00:00+01:00</published><updated>2017-09-01T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater</id><content type="html" xml:base="https://laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html">&lt;p&gt;A ne pas rater :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;WebSummit&lt;/li&gt;
@@ -1109,7 +1162,7 @@ de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
 
 &lt;p&gt;&lt;strong&gt;The Blockchain for business event&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://blockchainsummitlondon.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/9738bcsummitlo.png&quot; alt=&quot;blockchain summit london&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="events" /></entry><entry><title type="html">T’as les jetons ? La blockchain, l’effet token et les ICO</title><link href="https://www.laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html" rel="alternate" type="text/html" title="T'as les jetons ? La blockchain, l'effet token et les ICO" /><published>2017-08-23T00:00:00+02:00</published><updated>2017-08-23T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/blockchain-effet-token-et-ico</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html">&lt;p&gt;&lt;em&gt;Cet article s’inspire de l’article publié en Anglais par Ramon Recuero sur Y-Combinator : &lt;a href=&quot;http://blog.ycombinator.com/the-token-effect/&quot;&gt;The Token Effect&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blockchainsummitlondon.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/9738bcsummitlo.png&quot; alt=&quot;blockchain summit london&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="events" /></entry><entry><title type="html">T’as les jetons ? La blockchain, l’effet token et les ICO</title><link href="https://laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html" rel="alternate" type="text/html" title="T'as les jetons ? La blockchain, l'effet token et les ICO" /><published>2017-08-23T00:00:00+01:00</published><updated>2017-08-23T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/blockchain-effet-token-et-ico</id><content type="html" xml:base="https://laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html">&lt;p&gt;&lt;em&gt;Cet article s’inspire de l’article publié en Anglais par Ramon Recuero sur Y-Combinator : &lt;a href=&quot;http://blog.ycombinator.com/the-token-effect/&quot;&gt;The Token Effect&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;contexte-de-la-blockchain&quot;&gt;Contexte de la blockchain&lt;/h2&gt;
 
@@ -1177,75 +1230,4 @@ de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
       &lt;p&gt;&lt;a href=&quot;https://www.coindesk.com/ico-tracker/&quot;&gt;CoinDesk ICO Tracker&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="blockchain" /></entry><entry><title type="html">Allons dénicher la start-up de vos rêves</title><link href="https://www.laurentlourenco.pro/blog/travailler-investir-startup.html" rel="alternate" type="text/html" title="Allons dénicher la start-up de vos rêves" /><published>2017-08-20T00:00:00+02:00</published><updated>2017-08-20T00:00:00+02:00</updated><id>https://www.laurentlourenco.pro/blog/travailler-investir-startup</id><content type="html" xml:base="https://www.laurentlourenco.pro/blog/travailler-investir-startup.html">&lt;h2 id=&quot;travailler-dans-une-start-up&quot;&gt;Travailler dans une start-up&lt;/h2&gt;
-
-&lt;p&gt;Vous rêvez de travailler et vous investir dans une start-up, super, mais laquelle ? Si l’on se réfère à &lt;a href=&quot;http://1001startups.fr/chiffres-cles-startups-france/&quot;&gt;l’étude de 1001 Startup&lt;/a&gt; de 2016 il y en aurait plus de 10 000 rien qu’en France. Même sans cette étude il suffit de suivre l’actualité hebdomadaire du secteur pour voir qu’il y en a pléthore, et le marché n’est pas du tout local. Dans cette même étude on apprend que 25% des startup ont à leur capital des fonds de capital-risque, et que seules 10% survivent.&lt;/p&gt;
-
-&lt;p&gt;C’est bien de vouloir travailler dans un environnement jeune, dynamique, qui veut révolutionner le monde, mais à quel prix ? Car c’est bien là le premier écueil. Tous ceux qui ont créés leur boite avec de la &lt;code class=&quot;highlighter-rouge&quot;&gt;love money&lt;/code&gt; n’ont pas de quoi payer des salaires pour des personnes expérimentées. Il va donc falloir se tourner vers les entreprises qui ont &lt;strong&gt;déjà réalisées une première levée de fonds&lt;/strong&gt;, ou bien qui ont déjà un produit qui a trouvé son marché (le fameux &lt;code class=&quot;highlighter-rouge&quot;&gt;PMF : Product Market Fit&lt;/code&gt;) et qui lui permet de générer du chiffre d’affaires.&lt;/p&gt;
-
-&lt;p&gt;Ensuite qui dit startup dit idée et produit innovant. Il y en a donc pour tous les goûts et dans tous les domaines et tous les secteurs : &lt;code class=&quot;highlighter-rouge&quot;&gt;FinTech&lt;/code&gt; (finance), &lt;code class=&quot;highlighter-rouge&quot;&gt;FoodTech&lt;/code&gt; (agroalimentaire et restauration), &lt;code class=&quot;highlighter-rouge&quot;&gt;Healthcare&lt;/code&gt; (Santé), &lt;code class=&quot;highlighter-rouge&quot;&gt;CleanTech&lt;/code&gt; (bio, agriculture, energie, smart grid)… Il va donc falloir vous orienter avant tout vers &lt;strong&gt;un domaine qui vous inspire&lt;/strong&gt; ou dans lequel vous vous sentez à l’aise. Enfin il faut que le produit ou le service vous parle, à vous de faire vos enquêtes ou de demander des démos quand c’est possible.&lt;/p&gt;
-
-&lt;p&gt;Enfin il faut que le courant passe. Une startup c’est souvent une petite ou une très petite structure, en mutation permanente et où chacun doit &lt;strong&gt;trouver sa place dans l’équipe existante&lt;/strong&gt;. Rencontrer les personnes en place est un passage obligé.&lt;/p&gt;
-
-&lt;p&gt;Alors je vous propose trois pistes d’investigation pour dénicher la start-up de vos rêves :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Les sites spécialisés dans la mise en relation des start-up&lt;/li&gt;
-  &lt;li&gt;Les accélérateurs de start-up&lt;/li&gt;
-  &lt;li&gt;Les plateforme de crowdFunding&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;mises-en-relations-des-start-up&quot;&gt;Mises en relations des start-up&lt;/h2&gt;
-
-&lt;p&gt;Les start-up ont rapidement deux difficultés à surmonter : trouver du cash et trouver des talents. Aussi quelques structures se sont spécialisées pour la mise en relation des fondateurs de start-up avec les investisseurs, les accélérateurs et toutes personnes qui cherchent un job dans cet univers.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.f6s.com/&quot;&gt;F6s&lt;/a&gt; Helps you grow&lt;/strong&gt; : Find Accelerators &amp;amp; Funds, &lt;a href=&quot;https://www.f6s.com/jobs&quot;&gt;Find a Startup Job&lt;/a&gt;, Recruit Talent.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://angel.co/&quot;&gt;angelList&lt;/a&gt; Where the world meets startups.&lt;/strong&gt; &lt;a href=&quot;https://angel.co/jobs&quot;&gt;Find a Startup Job&lt;/a&gt;. &lt;a href=&quot;https://angel.co/markets&quot;&gt;Companies by market&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://index.co/&quot;&gt;INDEX&lt;/a&gt; Connecting startups, corporate brands, and investors.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.ecap-partner.com/&quot;&gt;eCap-Parner&lt;/a&gt; Assist Start-up in growing.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;A noter&lt;/strong&gt; eCap-Partner publie hebdomadairement la liste des levés de fonds de la semaine dans le numérique. Abonnez-vous à leur mailing liste.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;En suivant les actualités sur ces sites vous pouvez identifier les start-up qui sont dynamiques et où elles en sont de leurs levés de fonds.&lt;/p&gt;
-
-&lt;h2 id=&quot;accélérateurs-de-start-up&quot;&gt;Accélérateurs de start-up&lt;/h2&gt;
-
-&lt;p&gt;Les accélérateurs ce sont des structures qui offrent un programme court et intensif dédié aux start-up, avec pour objectif d’accélérer leur croissance. Ils offrent par ailleurs de nombreux services utiles au lancement de la jeune pousse : mentorat, services juridiques, services comptables, conseil… en contrepartie d’une prise de participation. Les société sélectionnées sont donc triées sur le volet, c’est donc un très bon vivier pour dénicher une pépite.&lt;/p&gt;
-
-&lt;p&gt;Depuis le lancement du concept en 2005 les accélérateurs pullulent ces dernières années. Aussi j’ai fait une sélection drastique. Vous trouverez une liste plus exhaustive dans la &lt;a href=&quot;https://www.maddyness.com/category/business/accelerateurs/&quot;&gt;catégorie accélérateur sur MaddyNess&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ycombinator.com/&quot;&gt;Y Combinator&lt;/a&gt;, dans la Silicon Valley.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thefamily.co/&quot;&gt;The Family&lt;/a&gt;, à Paris.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.startup-palace.com/&quot;&gt;Startup Palace&lt;/a&gt;, à Nantes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;:exclamation: Pour ceux qui sont intéressés pour monter une start-up je recommande vivement la &lt;strong&gt;&lt;a href=&quot;http://playbook.samaltman.com/&quot;&gt;bible des startuper&lt;/a&gt;&lt;/strong&gt; réalisée par ‘Y Combinator’.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;plateformes-de-crowdfunding&quot;&gt;Plateformes de crowdFunding&lt;/h2&gt;
-
-&lt;p&gt;Les plateformes de crowdFunding mettent en relation des porteurs de projets (innovant) avec le grand public pour permettre de financer le lancement de l’entreprise. Les projets et équipes qui arrivent à obtenir des financement important ont de sérieuses chances de réussir et ont pour le coup besoin de monde pour développer leur produit.&lt;/p&gt;
-
-&lt;p&gt;Vous avec un très bon article et une liste assez détaillée des différents types de &lt;a href=&quot;http://1001startups.fr/sites-crowdfunding/&quot;&gt;plateformes de crowdfunding&lt;/a&gt; sur 1001startups.&lt;/p&gt;
-
-&lt;p&gt;Là encore je n’en ai sélectionné que trois, très arbitrairement.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kisskissbankbank.com/&quot;&gt;KissKissBankBank&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.ulule.com/&quot;&gt;Ulule&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/&quot;&gt;Kickstarter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;:exclamation: L’initiative &lt;a href=&quot;https://tousnosprojets.bpifrance.fr/&quot;&gt;TousNosProjets.fr&lt;/a&gt; de la BPI qui répertorie 40 plateformes de don, prêt et investissement est une bonne source pour aller plus loin.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A vous de jouer et bonnes recherches.&lt;/p&gt;
-
-&lt;p&gt;N’hésitez pas à partager dans les commentaires ci-dessous les start-up qui ont retenu votre attention.&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="start-up" /><category term="veille" /><category term="job" /></entry></feed>
+&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="blockchain" /></entry></feed>

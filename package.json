@@ -1,0 +1,29 @@
+{
+        "//": "scripts js à lancer avec la commande 'npm run ...' ou via le 'task runner' de VScode pour automatiser les build et les deploiements",
+        "name": "automation-studiojekyll",
+        "title": "Automation Studiojekyll",
+        "version": "3.28.0",
+        "authors": "mike.maggire",
+        "scripts": {
+                "clean:jekyll": "bundle exec jekyll clean && rimraf _site_ready2deploy && rimraf docs",
+                "build": "bundle exec jekyll build -V",
+                "prelivebuild:jekyll": "bundle exec jekyll clean && md _site && ping -n 3 127.0.0.1 > nul",
+                "livebuild:jekyll": "bundle exec jekyll build --watch --incremental --drafts --future",
+                "liveserve": "ping -n 6 127.0.0.1 > nul && lite-server -c _studiojekyll/bs-config.json",
+                "liverender": "parallelshell \"npm run livebuild:jekyll\" \"npm run liveserve\"",
+
+                "prebuild:step0": "bundle exec jekyll clean && rimraf _site_ready2deploy && rimraf docs",
+                "build:step0": "bundle exec jekyll build",
+
+                "build:prod": "SET JEKYLL_ENV=production&& npm run build:step0 -- --config _config.yml,_studiojekyll\\_config_prod.yml,_studiojekyll\\_version.yml",
+                "postbuild:prod": "opn https://laurentlourenco.pro/index.html --ext=html",
+
+                "createversionfile": "node _studiojekyll\\createSiteVersionFile.js && git describe --abbrev=0 --tags >> _studiojekyll\\_version.yml",
+                "version-patch++": "npm version patch && git push origin --tags && npm run createversionfile",
+                "version-minor++": "npm version minor && git push origin --tags && npm run createversionfile",
+                "version-major++": "npm version major && git push origin --tags && npm run createversionfile"
+        },
+        "dependencies": {
+                "write": "^0.3.3"
+        }
+}

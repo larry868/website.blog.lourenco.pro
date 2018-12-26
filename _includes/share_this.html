@@ -1,0 +1,19 @@
+<!-- share this buttons -->
+{% if site.share_by_twitter or site.share_by_linkedin or site.share_by_facebook %}
+    <div class="pb-2">
+        {% if site.share_by_twitter == true %}
+            {% if page.tags.size == 0 %}
+                <a class="btn btn-primary-jekyll btn-sm" href="https://twitter.com/intent/tweet?text={{page.title | normalize_whitespace | strip_html | escape | url_encode}}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}{%- if site.twitter_userid -%}&via={{ site.twitter_userid }}{% endif %}" role="button" data-network="twitter" title="Partager sur twitter"><span class="fa fa-twitter"></span> Twitter</a>
+            {% else %}
+                <!--a class="btn btn-primary-jekyll btn-sm" href="https://twitter.com/intent/tweet?hashtags={{ site.title | remove: ' ' | slugify: none | strip_html | escape }}&text={{page.title | normalize_whitespace | strip_html | escape }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}{%- if site.twitter_userid -%}&via={{ site.twitter_userid }}{% endif %}" role="button" data-network="twitter" title="Partager sur twitter"><span class="fa fa-twitter"></span> Twitter</a-->
+                <a class="btn btn-primary-jekyll btn-sm" href="https://twitter.com/intent/tweet?hashtags={{ page.tags | join: "," | escape | url_encode }}&text={{page.title | normalize_whitespace | strip_html | escape | url_encode}}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}{%- if site.twitter_userid -%}&via={{ site.twitter_userid }}{% endif %}" role="button" data-network="twitter" title="Partager sur twitter"><span class="fa fa-twitter"></span> Twitter</a>
+            {% endif %}
+        {% endif %}
+        {% if site.share_by_linkedin == true %}
+            <a class="btn btn-primary-jekyll btn-sm" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{page.title | normalize_whitespace | strip_html | escape | url_encode }}&summary={{ page.excerpt | default: page.subtitle | default: site.description | strip_html | normalize_whitespace | escape | url_encode }}&source={{ site.title | strip_html | normalize_whitespace | escape | url_encode }}" role="button" data-network="linkedin" title="Partager sur linkedin"><span class="fa fa-linkedin"></span> Partager</a>
+        {% endif %}
+        {% if site.share_by_facebook == true %}
+            <a class="btn btn-primary-jekyll btn-sm" href="https://www.facebook.com/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" role="button" data-network="facebook" title="Partager sur facebook"><span class="fa fa-facebook"></span> Partager</a>
+        {% endif %}           
+    </div>
+{% endif %}

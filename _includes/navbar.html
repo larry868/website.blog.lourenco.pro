@@ -1,0 +1,44 @@
+<div class="noprint">
+<!-- navbar : use navbar-inverse or navbar-light-->
+<nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top">
+
+    <!-- toggle button -->
+    <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#mynavbar" aria-controls="mynavbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- brand logo and name -->
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    {{ site.brand }}
+    </a>
+
+    <div class="navbar-collapse collapse" id="mynavbar" aria-expanded="false" role="navigation">
+    <ul class="navbar-nav mr-auto">
+
+        <!-- index -->
+        <li class="nav-item {% if page.url == '' or page.url == '/index.html' or page.url == '/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/">Accueil</a>
+        </li>
+
+        <!-- blog -->
+        {% if site.showbloginnavbar %}
+        <li class="nav-item {% if page.url contains '/blog/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}{{ site.showbloginnavbar }}">Blog</a>
+        </li>
+        {% endif %}
+
+        <!-- pages with 'navbar:' defined in yaml front matter, order by 'navbarindex:' -->
+        {%- assign pages_list = site.pages | sort:"navbarindex" -%}
+        {%- for node in pages_list -%}
+        {%- if node.navbar != null -%}
+        <li class="nav-item {% if page.url == node.url %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}{{ node.url }}">{{ node.navbar }}</a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+
+    </ul>
+    </div>
+</nav>  
+<div class="mb-1"></div>  
+</div>

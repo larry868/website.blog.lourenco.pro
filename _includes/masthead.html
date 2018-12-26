@@ -1,0 +1,65 @@
+    <!-- master head image and color--> 
+    {% if page.masthead-img %}
+    <div class="masthead-img" style="background-image: url('{{ site.baseurl }}/assets/img/{{ page.masthead-img }}'); background-position: center;">
+        <header class="masthead">
+    {% else %}
+        <header class="masthead" style="background-color: {{ page.masthead-bgcolor | site.masthead-bgcolor | default: 'white' }};">
+    {% endif %}
+
+            <!-- watermark : draft of future -->
+            {% if page.draft %}
+            <div class="stamp">
+                brouillon
+            </div>
+            {% else %}
+                {% if page.date > site.time %} 
+                <div class="stamp">
+                    publication future
+                </div>
+                {% endif %}
+            {% endif %}
+
+            <!-- header content -->
+            <div class="container">
+
+                <!-- title & subtitle -->
+                {% if page.title %}
+                <h1 class="page-title">{{ page.title }}</h1>
+                <div class="lead page-subtitle">{{- page.subtitle -}}</div>
+                {% else %}
+                <h1 class="page-title">{{ site.title }}</h1>
+                <div class="lead page-subtitle">{{- site.tagline -}}</div>
+                {% endif %}
+
+                <!-- page meta -->
+                {% if page.layout == 'post' %}
+                <div class="page-meta">
+                    {% if page.issue_date %}Mis à jour{% else %}Publié{% endif %}
+                    {%- if site.author.name -%}
+                        &nbsp;par&nbsp;<a href="{{ site.baseurl }}{{ site.author.url }}">{{ site.author.name }}</a>
+                    {% endif %}
+                    {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+                    {% if page.issue_date %}
+                            le {{ page.date | date: date_format }}
+                    {% else %}
+                        {% if page.date %}
+                            le {{ page.date | date: date_format }}
+                        {% endif %}
+                    {% endif %}
+                </div>
+                {% endif %}
+
+                <!-- tags -->
+                <div class="page-tags">
+                    {% for tag in page.tags %}
+                        <span class="badge badge-default">
+                            <a href="{{ site.baseurl }}/tags.html#{{ tag | slugize }}">{{ tag }}</a>
+                        </span>
+                    {% endfor %}
+                </div>
+            </div> <!-- container / header content -->
+        </header>
+
+    {% if page.masthead-img %}
+    </div> <!-- masthear-img -->
+    {% endif %}

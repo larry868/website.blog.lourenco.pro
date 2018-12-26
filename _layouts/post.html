@@ -1,0 +1,91 @@
+---
+layout: default
+---
+{% assign defaultcomments = true %}
+<article class="post">
+
+    <!-- default master head -->
+    {% include masthead.html %}
+
+    <!-- content -->
+    <div class="container">
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+
+        <div class="noprint">
+        <!-- share this -->
+        {% include share_this.html %}
+
+        <!-- Pager -->
+        <hr>
+        <nav class="blog-pagination d-flex justify-content-between">
+            {% if page.previous.url %}
+                <a class="btn btn-outline-jekyll" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}" href="{{ site.baseurl }}{{ page.previous.url}}">&larr; Article précédent</a>
+            {% endif %}
+            {% if page.next.url %}
+                <a class="btn btn-outline-jekyll" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}" href="{{ site.baseurl }}{{ page.next.url }}">Article suivant &rarr;</a>
+            {% endif %}
+        </nav>
+
+        <!-- comments -->
+        {% include disqus_comments.html %}
+
+        </div> <!-- pager / noprint -->
+
+    </div> <!-- container / content -->
+
+</article>
+
+<!-- structured data -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    },
+    "headline": "{{ page.title }}",
+    "description": "{{ page.subtitle }}",
+    {% if page.masthead-img %}
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{site.url}}{{ site.baseurl }}/assets/img/{{ page.masthead-img }}",
+            "width": 1900,
+            "height": 1080
+        },
+    {% else %}
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{site.url}}{{ site.baseurl }}/assets/img/defaultimg.jpg",
+            "width": 800,
+            "height": 600
+        },
+    {% endif %}
+    {% if page.issue_date %}
+        "datePublished": "{{ page.issue_date | date_to_xmlschema }}",
+        "dateModified": "{{ page.date | date_to_xmlschema }}",
+    {% else %}
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        "dateModified": "{{ page.date | date_to_xmlschema }}",
+    {% endif %}
+    "author": {
+        "@type": "Person",
+        "name": "{{ site.author.name }}",
+        "url": "{{ site.baseurl }}{{ site.author.url }}"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.brand }}",
+        "url": "{{ site.baseurl }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{site.url}}{{ site.baseurl }}/organizationlogo.jpg",
+            "width": 600,
+            "height": 60
+        }
+    }
+}
+</script>

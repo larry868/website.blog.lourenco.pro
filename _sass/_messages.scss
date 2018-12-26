@@ -1,0 +1,54 @@
+/*
+ * Messages
+ *
+ * Show alert messages to users. You may add it to single elements like a `<p>`,
+ * or to a parent if there are multiple elements to show.
+ */
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: $color-grey;
+}
+
+.message-navy {  @extend .message;
+  background-color: lighten($color-navy, 25%);
+  color: white; }
+.message-blue {  @extend .message;
+  background-color: lighten($color-blue, 25%); }
+.message-aqua {  @extend .message;
+  background-color: lighten($color-aqua, 15%); }
+.message-teal {  @extend .message;
+  background-color: lighten($color-teal, 25%); }
+.message-olive {  @extend .message;
+  background-color: lighten($color-olive, 25%); }
+.message-green {  @extend .message;
+  background-color: lighten($color-green, 25%); }
+.message-lime {  @extend .message;
+  background-color: lighten($color-lime, 25%); }
+.message-yellow {  @extend .message;
+  background-color: lighten($color-yellow, 25%); }
+.message-orange {  @extend .message;
+  background-color: lighten($color-orange, 20%); }
+.message-red {  @extend .message;
+  background-color: lighten($color-red, 20%); }
+.message-maroon {  @extend .message;
+  background-color: #DEB887; }
+.message-fuschia {  @extend .message;
+  background-color: lighten($color-fuschia, 20%); }
+.message-purple {  @extend .message;
+  background-color: lighten($color-purple, 35%); }
+.message-black {  @extend .message;
+  background-color: lighten($color-black, 35%); 
+  color: white; }
+.message-gray {  @extend .message;
+  background-color: lighten($color-grey, 15%); }
+.message-silver {  @extend .message;
+  background-color: lighten($color-silver, 10%); }
+.message-white {  @extend .message;
+  background-color: lighten($color-white, 25%); }
+

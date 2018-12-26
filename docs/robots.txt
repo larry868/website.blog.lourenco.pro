@@ -5,4 +5,4 @@
 
 User-agent: *
 Disallow: /assets/noindex/
-Sitemap: https://www.laurentlourenco.pro/sitemap.xml
+Sitemap: https://laurentlourenco.pro/sitemap.xml

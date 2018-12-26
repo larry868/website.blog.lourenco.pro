@@ -1,0 +1,52 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "sjekyll build once",
+            "type": "npm",
+            "script": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "sjekyll live rendering",
+            "type": "npm",
+            "script": "liverender",
+            "isBackground": true,
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "dedicated"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "sjekyll clean",
+            "type": "npm",
+            "script": "clean:jekyll",
+            "presentation": {
+                "echo": false,
+                "reveal": "never",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "sjekyll deploy to TEST env.",
+            "type": "npm",
+            "script": "deploy:test",
+            "problemMatcher": []
+        },
+        {
+            "label": "sjekyll build PROD env.",
+            "type": "npm",
+            "script": "deploy:prod",
+            "problemMatcher": []
+        }
+    ]
+}

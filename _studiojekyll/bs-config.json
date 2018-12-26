@@ -1,0 +1,12 @@
+{ 
+    "port": 3300,
+    "injectChanges": false,
+    "files": [ "_site/**/*.{html,htm,css,js,png,jpg}" ],
+    "server": {
+        "baseDir": "_site"
+    },
+    "middleware": {
+        "0": null
+    },
+    "loglevel": "silent"
+}

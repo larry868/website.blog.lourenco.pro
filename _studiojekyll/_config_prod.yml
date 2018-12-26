@@ -1,0 +1,25 @@
+# (c) mike.maggire 2017
+# Créé à partir de maggire jekyll fast-start template
+
+########################
+# URL absolue et relative de votre site sur le machine de **PRODUCTION**
+# Vous devez configurer ces valeurs
+########################
+url: https://laurentlourenco.pro
+baseurl: ''
+
+########################
+# Les variables suivantes ne sont pas à modifier
+########################
+
+# Configuration des variables pour génerer le site dans une version prête à être déployée sur un serveur de PRODUCTION
+strict_front_matter: true
+#destination: _site_ready2deploy
+
+#docs is the path used by githubpages
+destination: docs
+
+# transpiler saas
+sass:
+  sass_dir:          _sass
+  style:            :compressed

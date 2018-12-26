@@ -1,0 +1,88 @@
+<footer class="pagefooter">
+
+  <div class="container">
+
+    <div class="noprint">
+
+      <!-- social buttons -->
+      <div class="row">
+        <div class="col">
+          <div class="socialbutton">
+            {%- if site.twitter_userid -%}
+              <a href="https://twitter.com/{{ site.twitter_userid }}" class="fa fa-twitter" title="twitter"></a>
+            {%- endif -%}
+            {%- if site.linkedin_userid -%}
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_userid }}" class="fa fa-linkedin" title="linkedin"></a>
+            {%- endif -%}
+            {%- if site.gplus_userid -%}
+              <a href="https://plus.google.com/{{ site.gplus_userid }}" class="fa fa-google" title="gplus"></a>
+            {%- endif -%}
+            {%- if site.facebook_userid -%}
+              <a href="https://www.facebook.com/{{ site.facebook_userid }}" class="fa fa-facebook" title="facebook"></a>
+            {%- endif -%}
+            {%- if site.github_userid -%}
+              <a href="https://github.com/{{ site.github_userid }}" class="fa fa-github" title="github"></a>
+            {%- endif -%}
+            {%- if site.email -%}
+              <a href="mailto:{{ site.email }}" class="fa fa-envelope" title="email"></a>
+            {%- endif -%}
+            <a href="{{ site.basurl }}/feed.xml" class="fa fa-rss" title="rss"></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- description -->
+      <!--div class="row">
+        <div class="col">
+          <div style="max-height: 50px; overflow: hidden; line-height: 80%">
+          <p><small><em>{{ site.description }}</em></small></p>
+          </div>
+        </div>
+      </div-->
+
+    </div> <!-- noprint -->
+
+    <div class="row">
+
+      <!-- copyright -->
+      <div class="col">
+        <small>
+          &copy; {{ site.time | date: '%Y' }} 
+          {%- if site.copyright.url -%}
+            &nbsp;<a href="{{ site.copyright.url }}">{{ site.copyright.name }}</a>
+          {%- else -%}
+            &nbsp;{{ site.copyright.name }}
+          {%- endif -%}
+          &nbsp;•&nbsp;
+          <a href="{{ site.baseurl }}/LICENSE.txt">{{ site.copyright.licence }}</a>
+          {% if site.phone %}
+            &nbsp;•&nbsp;Tel {{ site.phone }}
+          {% endif %}
+        </small>
+      </div>
+
+    </div>
+
+    <div class="row">
+
+      <!-- version -->
+      <div class="col text-nowrap">
+        {%- assign env = jekyll.environment -%}
+        <small><strong>{{ env }} </strong></small>
+      
+        {%- if site.version -%}
+          {%- if env == blank or env == 'development' -%}basée sur {% endif %}
+          <small>&#151; {{ site.version }}</small>
+        {%- endif -%}
+      </div>
+
+      <!-- powered -->
+      <div class="col text-right text-nowrap">
+        <small>Propulsé par <a href="https://mikemaggire.github.io/blogging-studio-jekyll/">StudioJekyll</a></small>
+      </div>
+
+    </div>
+    
+  </div> <!-- container -->
+
+</footer>
