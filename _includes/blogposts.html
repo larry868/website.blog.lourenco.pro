@@ -39,7 +39,7 @@
 
                     {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
                     {% if post.issue_date %}
-                        le {{ post.issue_date | date: date_format }}
+                        le {{ post.date | date: date_format }}
                     {% else %}
                         {% if post.date %}
                             le {{ post.date | date: date_format }}
