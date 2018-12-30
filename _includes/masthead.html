@@ -46,7 +46,8 @@
                             le {{ page.date | date: date_format }}
                         {% endif %}
                     {% endif %}
-                </div>
+                    - Temps de lecture estimé : {% include read_time.html %}
+                                </div>
                 {% endif %}
 
                 <!-- tags -->
