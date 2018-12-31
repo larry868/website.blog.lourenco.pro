@@ -37,15 +37,9 @@
             "problemMatcher": []
         },
         {
-            "label": "sjekyll deploy to TEST env.",
-            "type": "npm",
-            "script": "deploy:test",
-            "problemMatcher": []
-        },
-        {
             "label": "sjekyll build PROD env.",
             "type": "npm",
-            "script": "deploy:prod",
+            "script": "build:prod", 
             "problemMatcher": []
         }
     ]
