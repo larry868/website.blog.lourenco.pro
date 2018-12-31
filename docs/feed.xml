@@ -1,4 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-12-31T18:00:07+01:00</updated><id>https://laurentlourenco.pro/feed.xml</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Tendances crypto et blockchain 2019 (Partie-I) : Hodler ou revendre ?</title><link href="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I.html" rel="alternate" type="text/html" title="Tendances crypto et blockchain 2019 (Partie-I) : Hodler ou revendre ?" /><published>2018-12-19T00:00:00+01:00</published><updated>2018-12-19T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I</id><content type="html" xml:base="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I.html">&lt;h2 id=&quot;blockchain--société&quot;&gt;Blockchain &amp;amp; Société&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-12-31T18:04:02+01:00</updated><id>https://laurentlourenco.pro/feed.xml</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Tendances crypto et blockchain 2019 (Partie-II) : DEX, STO, NFT, Stablecoin…</title><link href="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-II.html" rel="alternate" type="text/html" title="Tendances crypto et blockchain 2019 (Partie-II) : DEX, STO, NFT, Stablecoin..." /><published>2018-12-20T00:00:00+01:00</published><updated>2018-12-20T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-II</id><content type="html" xml:base="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-II.html">&lt;h2 id=&quot;blockchain--société&quot;&gt;Blockchain &amp;amp; Société&lt;/h2&gt;
+
+&lt;p&gt;Une fois n’est pas coutume, les membres de l’association Nantaise &lt;a href=&quot;https://blockchainsociete.org/&quot;&gt;“Blockchain &amp;amp; Société”&lt;/a&gt; (plus de 800 membres) m’ont demandé de présenter le bilan de l’année 2018 et les tendances pour l’année 2019 dans le monde la blockchain et de la crypto. J’ai donc accepté de me livrer à cet exercice lors de notre dernier meetup mensuel de l’année 2018 qui s’est tenu le 19 décembre chez notre sponsor &lt;a href=&quot;https://www.ynov.com/&quot;&gt;YNOV Campus&lt;/a&gt;. Je vous restitue l’essence de cette conférence au travers de deux articles.&lt;/p&gt;
+
+&lt;p&gt;Dans &lt;a href=&quot;/blog/tendances-crypto-blockchain-2019-Partie-I.html&quot;&gt;un premier article&lt;/a&gt; je revenais sur quelques événements qui ont marqués l’année 2018 : la professionnalisation du marché, l’éclatement de la bulle, la chute brutale des ICO et que faire de ses tokens en 2019.&lt;/p&gt;
+
+&lt;p&gt;Dans ce deuxième article je parle des tendances pour 2019 : le décollage attendu du nouveau type de levée de fonds appelé STO, l’engouement pour les Stablecoin, ces cryptomonnaies indexées sur le prix d’une autre devise, et les tokens uniques appelés les NFT. Je parle aussi des Exchanges décentralisés qui sont très attendus par la communauté en 2019.&lt;/p&gt;
+
+&lt;h2 id=&quot;2019-une-année-de-transition-pour-le-marché-de-la-crypto-et-de-la-blockchain&quot;&gt;2019, une année de transition pour le marché de la crypto et de la blockchain&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Après l’éclatement de la bulle, où en somme nous réellement du niveau d’adoption de cette technologie blockchain ?&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/MustStopMurad/status/1022169639386836992&quot;&gt;@Murad Mahmudov&lt;/a&gt; nous aide à répondre à cette question avec son graphique.&lt;/p&gt;
+
+&lt;p&gt;On y retrouve les trois fonctions essentielles d’une monnaie : (i) servir de réserve de valeur, (ii) être un média d’échange, (iii) servir d’unité de compte.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-lindyeffect.jpg&quot; alt=&quot;lindy effect&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Il reste encore ne nombreuses étapes à franchir&lt;/strong&gt; avant que le Bitcoin et autres cryptos deviennent complètement des monnaies internationales à part entière.&lt;/p&gt;
+
+&lt;p&gt;“une plus grande décentralisation” et “une clarification de la réglementation et de la financiarisation” risquent de marquer 2019 avec :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les places de change décentralisées (DEX)&lt;/li&gt;
+  &lt;li&gt;les Tokens uniques (NFT)&lt;/li&gt;
+  &lt;li&gt;les émissions réglementées de tokens (STO)&lt;/li&gt;
+  &lt;li&gt;les StableCoin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2019 sera donc une année de transition.&lt;/p&gt;
+
+&lt;h2 id=&quot;dex---places-de-change-décentralisées&quot;&gt;DEX - Places de change décentralisées&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Les places de change sont toujours principalement centralisées&lt;/strong&gt; avec &lt;code class=&quot;highlighter-rouge&quot;&gt;Binance&lt;/code&gt; en tête des volumes, &lt;code class=&quot;highlighter-rouge&quot;&gt;HitBtc&lt;/code&gt; qui offre le plus large choix de crypto, ou encore &lt;code class=&quot;highlighter-rouge&quot;&gt;Bitstamp&lt;/code&gt; la plus ancienne en service (Juillet 2011).&lt;/p&gt;
+
+&lt;p&gt;On ne dénombre pas moins de 230 places de change actives !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L’enjeux principal pour l’univers de la crypto et de la blockchain sont les exchanges décentralisés&lt;/strong&gt; qui permettront à chacun d’échanger sa crypto-monnaie sous sa propre responsabilité, sans dépendre d’un système central qui vous impose les mêmes contraintes et les mêmes risques que le système bancaire.&lt;/p&gt;
+
+&lt;p&gt;Parmi les acteurs du secteur il faut distinguer les DEX purement crypto comme &lt;code class=&quot;highlighter-rouge&quot;&gt;IDEX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Etherdelta&lt;/code&gt; ou &lt;code class=&quot;highlighter-rouge&quot;&gt;OpenLedger&lt;/code&gt; (ex. Bitshare) et les DEX crypto-fiat qui vous permettent de changer avec des devises classiques Dollars, Euros, Yen… Ces exchanges sont encore très peu nombreux.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Bisq&lt;/code&gt; (ex. BitSquare) est un très petit exchange qui s’est positionné sur ce marché avec des volumes qui ont été multipliés par trois ces deux derniers mois. &lt;em&gt;Voir l’activité sur &lt;a href=&quot;https://bisq.network/markets/&quot;&gt;Bisq.network&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-dex.png&quot; alt=&quot;DEX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Binance le plus gros exchange classique, s’est aussi fait remarquer en se positionnant sur le marché des DEX&lt;/strong&gt; avec &lt;a href=&quot;https://www.youtube.com/watch?v=wN1Uvor4Hd8&quot;&gt;Binance Dex&lt;/a&gt; comme le montre leur vidéo. C’est signe que les exchanges centralisés ont compris que le futur de la crypto allait leur échapper s’ils ne revenaient pas sur les valeurs fondamentales.&lt;/p&gt;
+
+&lt;p&gt;On notera le Français &lt;code class=&quot;highlighter-rouge&quot;&gt;LGO&lt;/code&gt; (ex. Legolas) qui travaille activement sur un exchange Hybride avec comme slogan : le meilleur du centralisé et le meilleur du décentralisé.&lt;/p&gt;
+
+&lt;p&gt;Les DEX sont à suivre de près donc en 2019…&lt;/p&gt;
+
+&lt;h2 id=&quot;sto---emissions-réglementées-de-tokens-successeurs-des-ico&quot;&gt;STO - Emissions réglementées de tokens, successeurs des ICO&lt;/h2&gt;
+
+&lt;p&gt;L’autre sujet phare pour 2019 concerne un nouveau type de levées de fonds avec le décollage prévu des STO (Security Token Offering).&lt;/p&gt;
+
+&lt;p&gt;Voici quelques acteurs particulièrement actifs : &lt;code class=&quot;highlighter-rouge&quot;&gt;Harbor&lt;/code&gt; qui a levé 38M$ et qui a annoncé en novembre le financement d’un projet de 100M$ ! &lt;code class=&quot;highlighter-rouge&quot;&gt;Securitize&lt;/code&gt; qui vient de lever 13M$ en Serie A ou encore &lt;code class=&quot;highlighter-rouge&quot;&gt;Tokeny&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-acteurs-STO.png&quot; alt=&quot;Acteurs du marché des STO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La particularité des STO c’est qu’elles sont très proches des levées de fonds classiques en Equity&lt;/strong&gt; et qu’elles permettent de financer des projets sans rapport avec la blockchain et sans token. Les souscripteurs reçoivent un Token de type security (un produit financier) en contrepartie de leur mise de fonds. Ils ne possèdent pas de titres de la société à proprement parler.&lt;/p&gt;
+
+&lt;p&gt;Il est évident que les STO seront moins spéculatifs que les ICO et intéresseront des types d’investisseurs différents.&lt;/p&gt;
+
+&lt;p&gt;Les différences entre les STO et les ICO sont si importantes qu’elles méritent un article à part entière.&lt;/p&gt;
+
+&lt;h2 id=&quot;stablecoin&quot;&gt;StableCoin&lt;/h2&gt;
+
+&lt;p&gt;Les Stablecoin sont connus avec &lt;code class=&quot;highlighter-rouge&quot;&gt;Theter&lt;/code&gt; depuis debut de l’année 2015. Cette crypto est indexée sur le Dollar, c’est à dire que 1 Theter vaut 1 Dollar. Concrètement à quoi cela sert ?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Vous pouvez convertir vos crypto en Stablecoin lorsque vous voulez sortir du marché momentanément&lt;/strong&gt; et que vous êtes sur un exchange qui ne permet pas de convertir en Dollar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vous pouvez utiliser votre Stablecoin dans des solutions de paiement,&lt;/strong&gt; des wallet et dans des smartcontract. Pas besoin de manipuler des cartes bancaires, vos utilisateurs restent dans leurs applications décentralisées.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vous pouvez le transferer d’un pays à un autre&lt;/strong&gt; quasiment sans frais.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Alors &lt;code class=&quot;highlighter-rouge&quot;&gt;Tether&lt;/code&gt; a donné des idées et il existe un réel engouement avec l’arrivée de plusieurs acteurs comme &lt;code class=&quot;highlighter-rouge&quot;&gt;TrueUSD&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;USDCoin&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;HAVEN&lt;/code&gt;, ou encore &lt;code class=&quot;highlighter-rouge&quot;&gt;Terra&lt;/code&gt; et &lt;code class=&quot;highlighter-rouge&quot;&gt;Carbon&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-stablecoin.png&quot; alt=&quot;Stablecoin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mais voilà les Stablecoin ne sont pas du tout bien vu par le système bancaire qui y voit là un risque de perte de contrôle de l’émission de monnaie. &lt;code class=&quot;highlighter-rouge&quot;&gt;BASIS&lt;/code&gt; en a fait les frais et vient d’annoncer le remboursement des 125M$ à ses investisseurs. &lt;code class=&quot;highlighter-rouge&quot;&gt;BASIS&lt;/code&gt; avait la particularité de proposer un protocole qui lui évitait d’avoir à posséder des vrais Dollars en face de chaque Coin émis.&lt;/p&gt;
+
+&lt;p&gt;Imaginez un pays, disons la chine par exemple, qui autoriserait la création d’un Stablecoin Dollar non adossé à des vrais dollars ! Cela reviendrait à dire qu’un pays non américain pourrait émettre des simili-Dollars ! Humm, techniquement possible. Mais alors possible aussi à l’inverse, les américains qui émettraient des simili-Yen !&lt;/p&gt;
+
+&lt;p&gt;Je pense que le marché des Stablecoin va être sinon tué dans l’oeuf, sinon très ‘chahuté’. Le secteur fait beaucoup parler de lui et sera à suivre en 2019.&lt;/p&gt;
+
+&lt;h2 id=&quot;nft---tokens-uniques&quot;&gt;NFT - Tokens uniques&lt;/h2&gt;
+
+&lt;p&gt;Enfin l’autre sujet de l’année 2019 sera les Non Fungible Token, les NFT, les tokens uniques aussi appelés parfois les ‘collectibles’ ou les actifs numériques uniques.&lt;/p&gt;
+
+&lt;p&gt;Un token non fongible est un token qui porte un numéro unique, matérialisé par une adresse publique sur une réseau blockchain, et un propriétaire, le possesseur de la clé privée. Cela ressemble beaucoup à un token classique si ce n’est que (i) il n’est pas divisible, (ii) il possède des propriétés uniques. Ces propriétés sont d’ailleurs l’élément clé qui leur confère leur valeur, unique elle aussi.&lt;/p&gt;
+
+&lt;p&gt;A l’instar de CoinMarketCap, la plateforme &lt;a href=&quot;https://nonfungible.com/&quot;&gt;nonfungible.com&lt;/a&gt; fait l’état du marché de ces tokens. Avec environ 100M$ on est loin des 100Md$ des tokens fungibles que sont les crypto-monnaies, mais c’est un marché émergent plein de potentiels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-NFT.png&quot; alt=&quot;NFT Non Fungible Token&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CryptoKitties&lt;/code&gt; a été un pionnier en la matière avec le jeu de vente de chattons aux graphiques originaux et qui peuvent s’accoupler.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Decentraland&lt;/code&gt; est une plateforme de jeux virtuel où chacun peut acquérir une parcelle unique et la faire fructifier.&lt;/p&gt;
+
+&lt;p&gt;En dehors des domaines des jeux de nombreux acteurs sont actifs. Une organisation dédiée a été créé par les acteurs du secteur, la &lt;a href=&quot;https://nonfungiblealliance.org/&quot;&gt;Non Fungible Alliance&lt;/a&gt; qui regroupe déjà 72 membres.&lt;/p&gt;
+
+&lt;p&gt;Le projet &lt;a href=&quot;https://www.unik-name.com/&quot;&gt;@unik-name&lt;/a&gt; se positionne sur ce marché avec des identifiants numériques uniques sécurisés qui permettent de se connecter partout sur internet en protégeant la vie privée des utilisateurs. Chaque identifiant est techniquement un token non fongible, un NFT garanti unique, et propriété du seul détenteur de la clé privée. C’est un autre aspect du développement des tokens non-fongibles.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;L’année 2019 sera une année de transition marquée par une plus grande décentralisation avec le développement des Exchanges décentralisés, les DEX, et les actifs numériques uniques, les Token NFT. On s’attend également au décollage des du nouveau type de levée de fonds appelé STO, et un engouement pour les Stablecoin.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dans cet article j’utilise le terme &lt;code class=&quot;highlighter-rouge&quot;&gt;crypto&lt;/code&gt; pour désigner non seulement la crypto-monnaie mais aussi toute l’économie dite décentralisée basée sur les algorithmes de chiffrement cryptographiques. Quelques précisions &lt;a href=&quot;/blog/crypto-blockchain-cryptomonnaie-dlt.html&quot;&gt;dans cet autre article&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cbinsights.com/research/report/blockchain-trends-2019/&quot;&gt;blockchain trends 2019&lt;/a&gt; CBInsight - Dec 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/a-crash-course-in-stable-tokens-3d9e32760f2b&quot;&gt;What You Need to Know about Stablecoin&lt;/a&gt; - Nov 2017&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://steemit.com/decentralizedexchange/@kryptonizer/how-to-buy-sell-any-crypto-and-fiat-currency-on-a-true-decentralized-exchange&quot;&gt;How to buy sell any crypto and fiat currency on a true decentralized exchange&lt;/a&gt; - Kryptonizer - 2017&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theblockcrypto.com/2018/12/12/stablecoin-project-basis-is-shutting-down-and-returning-the-majority-of-capital-raised-to-investors/&quot;&gt;stablecoin project BASIS is shutting down&lt;/a&gt; - Frank Chaparro - Dec 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/datadriveninvestor/the-future-of-tokens-belongs-to-securities-d4b128c2455&quot;&gt;Does the future of tokens belong to securities?&lt;/a&gt; - Alex Stargame - Oct 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coindesk.com/2019-the-year-digital-securities-offerings-become-the-new-icos&quot;&gt;2019: The Year Digital Securities Offerings Become the New ICOs&lt;/a&gt; - Carlos Domingo - Dec 2018&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Tendances crypto et blockchain 2019 (Partie-I) : Hodler ou revendre ?</title><link href="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I.html" rel="alternate" type="text/html" title="Tendances crypto et blockchain 2019 (Partie-I) : Hodler ou revendre ?" /><published>2018-12-19T00:00:00+01:00</published><updated>2018-12-19T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I</id><content type="html" xml:base="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I.html">&lt;h2 id=&quot;blockchain--société&quot;&gt;Blockchain &amp;amp; Société&lt;/h2&gt;
 
 &lt;p&gt;Une fois n’est pas coutume, les membres de l’association Nantaise &lt;a href=&quot;https://blockchainsociete.org/&quot;&gt;“Blockchain &amp;amp; Société”&lt;/a&gt; (plus de 800 membres) m’ont demandé de présenter le bilan de l’année 2018 et les tendances pour l’année 2019 dans le monde la blockchain et de la crypto. J’ai donc accepté de me livrer à cet exercice lors de notre dernier meetup mensuel de l’année 2018 qui s’est tenu le 19 décembre chez notre sponsor &lt;a href=&quot;https://www.ynov.com/&quot;&gt;YNOV Campus&lt;/a&gt;. Je vous restitue l’essence de cette conférence au travers de deux articles.&lt;/p&gt;
 
@@ -1059,265 +1179,4 @@ de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
       &lt;p&gt;&lt;a href=&quot;https://www.lesechos.fr/finance-marches/marches-financiers/010173601222-comment-poutine-espere-doubler-pekin-sur-le-bitcoin-2107462.php&quot;&gt;Comment Poutine espère doubler Pékin sur le bitcoin&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">12 start-up blockchain au potentiel impressionnant</title><link href="https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html" rel="alternate" type="text/html" title="12 start-up blockchain au potentiel impressionnant" /><published>2017-09-05T00:00:00+01:00</published><updated>2017-09-05T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant</id><content type="html" xml:base="https://laurentlourenco.pro/blog/liste-startup-blockchain-potentiel-impressionnant.html">&lt;p&gt;Vous découvrez le phénomène Blockchain, ou vous en avez entendu parlé, et vous vous demandez bien ce que cette technologie, soit disant révolutionnaire, pourrait changer dans la Société.&lt;/p&gt;
-
-&lt;p&gt;Plutôt que de longues dissertations techniques et philosophiques, voici une présentation des promesses de quelques start-up blockchain dans des domaines variés.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Les start-up présentés ci-dessous sont à des stades de développement différents, que ce soit au niveau des produits, du financement, ou du business modèle. Cette sélection a été réalisée à partir de la &lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;liste des crypto-monnaies cotées&lt;/a&gt;, de la &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;liste des tokens Ethereum&lt;/a&gt;, et de l’actualité blockchain.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;start-up-blockchain-à-découvrir&quot;&gt;Start-up blockchain à découvrir&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;sélection du 5 Septembre 2017&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;augur&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-augur--utiliser-la-prdiction-de-la-foule-pour-raliser-des-prvisions&quot;&gt;:rocket: &lt;a href=&quot;https://augur.net/&quot;&gt;Augur&lt;/a&gt; : utiliser la prédiction de la foule pour réaliser des prévisions&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;La promesse d’Augur est d’utiliser la prédiction des masses pour fiabiliser des prévisions.&lt;/strong&gt; Demandez à 1000 personnes au hasard de devinez le montant contenu dans un vase rempli de billets, faites en la moyenne et vous obtenez assez précisément le montant réel ! Il existe de nombreux exemples comme celui-ci. Sur ce sujet je vous recommande le très bon livre de James Surowiecki &lt;a href=&quot;http://amzn.to/2gg7Rv6&quot;&gt;:book: ‘La Sagesse des Foules’&lt;/a&gt; qui explique très bien le phénomène. Le token Augur permet de récompenser ceux qui réalisent les meilleurs prévisions. A noter que ce sont les membres qui lancent les paris qu’ils souhaitent.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché d’Augur : de mon point de vue on est très proche d’un bookmaker d’un nouveau genre : &lt;strong&gt;paris décentralisés sans censure possible, transparence sur les règles et sur la répartition des gains, et ou chacun peut lancer des paris&lt;/strong&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/REP&quot;&gt;REP sur ethereum&lt;/a&gt;&lt;/span&gt; ♦ 
-&lt;a href=&quot;https://medium.com/@AugurProject/a-roadmap-for-augur-and-whats-next-930fe6c7f75a&quot;&gt;Roadmap&lt;/a&gt; ♦ Voir aussi &lt;a href=&quot;https://gnosis.pm/&quot;&gt;Gnosis&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;blockcerts&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-blockcerts--vrification-de-diplmes-et-de-certifications&quot;&gt;:rocket: &lt;a href=&quot;https://www.blockcerts.org/&quot;&gt;Blockcerts&lt;/a&gt; : vérification de diplômes et de certifications&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Avec blockcert vos diplômes et vos certifications sont stockées dans le réseau et vous pouvez en garantir l’authenticité&lt;/strong&gt;. Blockcert est une sorte de framework, utilisant les réseaux de blockchain existants, utilisable par d’autres pour développer des webapp de gestion des diplômes.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Blockcert : &lt;strong&gt;informations authentiques et non falsifiables&lt;/strong&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;Cette start-up blockchain n’a pas de token et n’est pas cotée.&lt;/em&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://medium.com/mit-media-lab/certificates-reputation-and-the-blockchain-aee03622426f&quot;&gt;Lire l’article publié par MIT MEDIA LAB&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;blockstream&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-blockstream--permet-de-raliser-des-transactions-financires-confidentielles-et-des-micro-paiement-rapides-en-bitcoin&quot;&gt;:rocket: &lt;a href=&quot;https://blockstream.com/&quot;&gt;Blockstream&lt;/a&gt; : permet de réaliser des transactions financières confidentielles et des micro-paiement rapides en bitcoin&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;La start-up Blockstream a fait parlée d’elle pour avoir réussi à diffuser la blockchain Bitcoin par satellite&lt;/strong&gt;. Les Bitcoins deviennent utilisable dans des lieux et des zones géographiques du globe où la bande passante réseau est trop faible et dans des zones faiblement bancarisées.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;Pour info, synchroniser un PC connecté avec la fibre avec la blockchain Bitcoin prend plusieurs semaines.&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;Blockstream offre un ensemble de technologies qui permettent d’interconnecter des blockchains comme Bitcoin avec des sidechains. La première sidechain créée par Blockstream s’appelle &lt;a href=&quot;https://blockstream.com/liquid/&quot;&gt;Liquid&lt;/a&gt; (en version Bêta pour le moment). Elle permet de réaliser des transactions confidentielles et des micro-paiement rapides.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Blockstream : &lt;strong&gt;développement économique des zones non bancarisées du globe, jusque là impossible&lt;/strong&gt;. Vous pouvez lire le très bon livre de Philippe Herlin &lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt; qui explique bien ce sujet.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;La startup Blockstream n’a pas émis de token. Elle a réalisée une &lt;a href=&quot;https://blockstream.com/2016/02/02/blockstream-new-investors-55-million-series-a.html&quot;&gt;levée de fonds ‘classique’ en séries A de 55M$&lt;/a&gt; auprès d’investisseurs incluants Horizons Ventures, Tokyo-based Digital Garage et AXA Strategic Ventures.&lt;/em&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://blockstream.com/satellite/satellite/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/captureblockstreamsatelitestatus.png&quot; alt=&quot;blockstream satellite status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;Voir aussi &lt;a href=&quot;https://lisk.io/&quot;&gt;Lisk&lt;/a&gt; la première crypto-monnaie modulaire utilisant des &lt;a href=&quot;https://www.bitcoinmining.com/sidechains-explained/&quot;&gt;Sidechain&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;civic&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-civic--contrler-et-protger-ses-informations-personnelles&quot;&gt;:rocket: &lt;a href=&quot;https://www.civic.com/&quot;&gt;Civic&lt;/a&gt; : contrôler et protéger ses informations personnelles.&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Civic est une plateforme sécurisée pour la gestion des identités et de l’ensemble des informations personnelles qui y sont associées comme le email, le téléphone ou encore le scan de sa carte d’identitée.&lt;/strong&gt; Civic permet de transmettre ces informations à des tiers sans avoir à tout ressaisir et garantissant l’authenticité. Son ‘identité’ Civic peut aussi être utilisée pour s’authentifier sur internet. Quelques sociétés utilisent déjà Civic comme wikiHow ou TokenMarket.&lt;/p&gt;
-
-    &lt;p&gt;Civic promet d’apporter une solution au &lt;a href=&quot;https://techcrunch.com/2016/07/19/civic-launches-a-free-service-that-aims-to-stop-identity-theft-before-it-happens/&quot;&gt;vol d’informations personnelles qui est un réel fléau&lt;/a&gt; sur internet.&lt;/p&gt;
-
-    &lt;p&gt;Grâce au réseau et à l’influence de &lt;a href=&quot;https://en.wikipedia.org/wiki/Vinny_Lingham&quot;&gt;Vinny Lingham&lt;/a&gt; la société a levée 33M€ sans plan marketing particulier.&lt;/p&gt;
-
-    &lt;p&gt;Civic s’appuie sur la technologie &lt;a href=&quot;https://www.smithandcrown.com/sale/civic/&quot;&gt;Rootstock&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Civic : &lt;strong&gt;évite la fraude et le vol d’informations personnelles&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/capturetokenmarketcivic.png&quot; alt=&quot;tokenmarket civic signin&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/Civic&quot;&gt;CVC sur ethereum&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;everledger&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-everledger--traabilit-des-diamants-avec-certificat&quot;&gt;:rocket: &lt;a href=&quot;https://www.everledger.io/&quot;&gt;Everledger&lt;/a&gt; : traçabilité des diamants avec certificat&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;980 000 diamants ont été enregistrés dans la blockchain Everledger, avec pour chacun un scan de 40 points uniques servant d’empreinte.&lt;/strong&gt; Le certificat et le propriétaire de chaque pièce est enregistré et tracé dans la blockchain.&lt;/p&gt;
-
-    &lt;p&gt;Everledger est une blockchain privée réalisée avec le framework hyperledger soutenu par IBM.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché d’Everledger : &lt;strong&gt;évite l’escroquerie aux assurances sur les bijoux, évaluée à 2 milliards de Dollars par an.&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://www.altoros.com/blog/a-close-look-at-everledger-how-blockchain-secures-luxury-goods/&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/captureeverledgerdiamond.png&quot; alt=&quot;everledger diamond track&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot; title=&quot;block explorer en développement&quot;&gt;&lt;a href=&quot;https://www.hyperledger.org/projects/explorer&quot;&gt;Block explorer sur Hyperledger&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;golem&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-golem--location-de-capacit-de-calcul&quot;&gt;:rocket: &lt;a href=&quot;https://golem.network/&quot;&gt;Golem&lt;/a&gt; : location de capacité de calcul&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-
-    &lt;p&gt;&lt;strong&gt;Golem est une sorte de superordinateur décentralisé et accessible par tous.&lt;/strong&gt; Il est constitué de la puissance combinée des machines des membres du réseau, depuis le simple laptop jusqu’au datacenter. Tous ceux qui ont des machines ‘dormantes’ peuvent louer leur capacité de calcul sur Golem. Cela permet à des petites entreprises d’avoir accès à une capacité de calcul sans avoir à investir massivement dans des supercalculateurs. Le marché est énorme : rendu graphique pour des films, machine learning, calculs scientifiques, analyses bigdata…&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Golem : &lt;strong&gt;la mutualisation de ressources à une échelle sans précédent et un accès à ces ressources par tous et à un coût marginal&lt;/strong&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/Golem&quot;&gt;ethereum&lt;/a&gt;&lt;/span&gt; ♦ &lt;a href=&quot;https://github.com/golemfactory/golem/wiki/Roadmap&quot;&gt;Roadmap&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;iota&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-iota--la-blockchain-des-objets-connects&quot;&gt;:rocket: &lt;a href=&quot;https://iota.org/&quot;&gt;IOTA&lt;/a&gt; : la blockchain des objets connectés&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-
-    &lt;p&gt;&lt;strong&gt;La promesse n’est ni plus ni moins que de permettre l’exécution de transactions sans frais, dans une architecture nativement scalable, avec un système de consensus décentralisé au niveau des membres eux mêmes et non plus relégué à des mineurs&lt;/strong&gt;. L’innovation principale d’IOTA est le ‘Tangle’, une technologie de blockchain que l’on pourrait appeler de 3ème génération (Bitcoin étant la 1ere, et Ethereum la 2ème avec les smart contracts). Il n’y a plus de mineurs, c’est la raison pour laquelle il n’y a plus de frais de transaction. Les blocks tous liés les uns autres et formant une chaîne est remplacé par des liens entre transactions sur le principe des &lt;a href=&quot;https://fr.wikipedia.org/wiki/Graphe_orient%C3%A9_acyclique&quot;&gt;graphes orientés acycliques&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de IOTA : &lt;strong&gt;une base de données partagée, sécurisée, immuable, permettant de réaliser une infinité de transactions en temps réel&lt;/strong&gt;. Elle induit la confiance dans les échanges.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://iota.org/IOTA_Whitepaper.pdf&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/iotatangle.jpeg&quot; alt=&quot;iota tangle&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;http://www.iota.tips/&quot;&gt;IOTA Tangle Explorer&lt;/a&gt;&lt;/span&gt; ♦ &lt;a href=&quot;https://blog.iota.org/iota-development-roadmap-74741f37ed01&quot;&gt;Roadmap&lt;/a&gt; ♦ &lt;a href=&quot;http://cyrilgrunspan.fr/index.php/2016/08/27/&quot;&gt;A lire en Français&lt;/a&gt; ♦ &lt;a href=&quot;https://blog.iota.org/the-transparency-compendium-26aa5bb8e260&quot;&gt;En savoir plus&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;lbry&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-lbry--partager-et-vendre-le-contenu-numrique-des-artistes-musiques-film-sans-intermdiaire&quot;&gt;:rocket: &lt;a href=&quot;https://lbry.io/&quot;&gt;Lbry&lt;/a&gt; : partager et vendre le contenu numérique des artistes (musiques, film…) sans intermédiaire&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Lbry permet à tous les artistes créateurs de contenu numérique, principalement les musiciens et les vidéastes, de partager leurs oeuvres et d’être rémunérer.&lt;/strong&gt; Chaque artiste fixe le prix (en crypto-monnaie LBRY) pour une consultation en streeming ou pour un téléchargement et il reçoit directement la totalité des revenus, sans intermédiaire (comparé aux 30% de commission que prend iTune par exemple). En outre Lbry offre des fonctionnalités qui permet aux jeunes artistes d’être découvert par la communauté. Les youtuber monétisant leur contenu sont également dans le cible de Lbry.&lt;/p&gt;
-
-    &lt;p&gt;L’idée à terme de Lbry est de devenir une plateforme de vente en ligne de contenu numérique.&lt;/p&gt;
-
-    &lt;p&gt;Lbry se matérialise par un application à installer sur votre PC ou MAC et qui permet d’accéder au contenu, en streaming ou en téléchargement, d’une excellente qualité.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Lbry : &lt;strong&gt;une répartition équitable des gains générées par la production artistique&lt;/strong&gt;, et la suppression des intermédiaires comme les maisons de disques&lt;/p&gt;
-
-    &lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/capturelbry.png&quot; alt=&quot;lbry capture&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://explorer.lbry.io/&quot;&gt;lbry chain explorer&lt;/a&gt;&lt;/span&gt; ♦ Voir aussi &lt;a href=&quot;https://www.coinspeaker.com/2017/08/15/viberate-crryptocurrency-payments-music-artists-ico-starts-in-september&quot;&gt;Viberate&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;populous&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-populous--affacturage-cession-de-crances&quot;&gt;:rocket: &lt;a href=&quot;http://populous.co/&quot;&gt;Populous&lt;/a&gt; : affacturage, cession de créances&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Populous est une solution d’affacturage reprenant les classiques de ce métier&lt;/strong&gt;. Vous pouvez uploader vos factures et transférer la créance, contre du cash, à un autre membre du réseau qui se chargera de la recouvrer à sa date d’échéance. La solvabilité du créancier est évaluée au travers d’un système de scoring traditionnel puis la créance est mise aux enchères sur la plateforme.&lt;/p&gt;
-
-    &lt;p&gt;Populous est développé sur le réseau Ethereum, avec un Smart Contrat.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Populous : la mise aux enchères des créances était un service inexistant jusque lors. L&lt;strong&gt;‘utilisation de la blockchain permet d’adresser immédiatement un marché mondial&lt;/strong&gt; et de simplifier la problématique des taux de changes.&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a&quot;&gt;token PPT sur ethereum&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;steem&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-steem--rseau-social-dans-lequel-tout-le-monde-peut-tre-rcompens&quot;&gt;:rocket: &lt;a href=&quot;https://steem.io/&quot;&gt;Steem&lt;/a&gt; : réseau social dans lequel tout le monde peut être récompensé&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Steem c’est un peu de Facebook avec les likes récompensés et c’est un peu comme Medium avec les meilleurs articles récompensés.&lt;/strong&gt; L’utilisation de la blockchain permet ici de récompenser les membres utilisateurs ou contributeurs du réseau. Steem inclus un système de réputation pris en compte dans l’attribution des récompenses.&lt;/p&gt;
-
-    &lt;p&gt;Ce mécanisme présente deux effets intéressants qui est (1) de tirer la qualité des articles vers le haut, (2) d’attirer les producteurs de contenu.&lt;/p&gt;
-
-    &lt;p&gt;Steem est développé sur sa propre technologie de blockchain. On notera que les adresses utilisées pour les transactions sont des noms alphanumériques choisis par les utilisateurs eux-mêmes, ce ne sont pas des chaînes non-significatives comme pour bitcoin et pour Ethereum. On notera également que les transactions sont validées par un protocole de ‘Delegated Proof Of Stake’ (DPOS) plutôt que l’onéreuse ‘Proof Of Work’ (POW) utilisée par Bitcoin.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de Steem : &lt;strong&gt;une redistribution équitable des revenus issus de la production de contenu&lt;/strong&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/capturesteemit.png&quot; alt=&quot;steemit capture&quot; /&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;storj&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-storj--stockage-distribu-rparti-scuris-et-en-trs-haute-disponibilit&quot;&gt;:rocket: &lt;a href=&quot;https://storj.io/&quot;&gt;Storj&lt;/a&gt; : stockage distribué, réparti, sécurisé et en très haute disponibilité&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Storj est une solution de stockage amélioré sur le cloud&lt;/strong&gt; a l’instar de Microsoft Azur ou d’AWS S3 mais avec des caractéristiques intéressantes et des &lt;a href=&quot;https://storj.io/pricing.html&quot;&gt;tarifs compétitifs&lt;/a&gt; jusqu’à deux fois moins cher. Tout d’abord le stockage est distribué ce qui lui offre une résilience exceptionnel, avec un uptime considérable pour ne pas dire 100%. Ensuite, outre le cryptage des données, le stockage est réparti, c’est à dire que chaque fichier est découpé en petit bouts et chaque bout, crypté, est stocké sur des serveurs différents du réseau. De fait les accès en lecture peuvent être servis par plusieurs serveurs et donc gagner en rapidité. Enfin, comme toutes les technologies blockchain il n’existe pas d’organisme centralisateur donc vos données sont protégées contre la censure et vous seul êtes responsables de votre mot de passe (clé privée). Les membres peuvent aussi louer leur propre capacité de stockage excédentaire.&lt;/p&gt;
-
-    &lt;p&gt;StoreJ est en cours d’intégration à Filezilla. Cela va rendre son utilisation très user friendly et donne un accès immédiat à un marché de plus de 15 millions d’utilisateurs à travers le monde.&lt;/p&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de StoreJ : &lt;strong&gt;le stockage inaltérable et inaliénable d’informations, jusque là impossible.&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://blog.storj.io/post/145305561698/how-storj-increases-object-storage-security&quot;&gt;&lt;img class=&quot;img-shadow mx-auto d-block&quot; src=&quot;/assets/noindex/storejnetwork.jpg&quot; alt=&quot;storej notwork&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/Storj&quot;&gt;ethereum&lt;/a&gt;&lt;/span&gt; ♦ Voir Aussi &lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt; a decentralized file storage system with a native token called &lt;a href=&quot;http://filecoin.io/&quot;&gt;Filecoin&lt;/a&gt; ♦ &lt;a href=&quot;https://medium.com/tokenreport/filecoin-v-sia-storj-maidsafe-the-crowded-push-for-decentralized-storage-7157eb5060c9&quot;&gt;Comparaison StorJ FileCoin, Sia, MaidSafe&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span id=&quot;tenx&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;card mb-3&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &lt;h3 id=&quot;rocket-tenx--plateforme-de-paiement-universelle-en-crypto-monnaie--tous-types-de-dpenses-dans-tous-les-pays&quot;&gt;:rocket: &lt;a href=&quot;https://www.tenx.tech/&quot;&gt;TenX&lt;/a&gt; : plateforme de paiement ‘universelle’ en crypto-monnaie : tous types de dépenses, dans tous les pays&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;card-block&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;La promesse de TenX est de rendre utilisable les crypto-monnaies dans le “monde réel”, c’est à dire en dehors de l’écosystème blockchain.&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;TenX s’appuie sur le protocole &lt;a href=&quot;http://www.comit.network/&quot;&gt;COMIT&lt;/a&gt; qui permet d’interconnecter plusieurs blockchains et qui permet de réaliser des transactions instantanées et à faible coût.&lt;/p&gt;
-
-    &lt;p&gt;TenX est émetteur d’une carte de paiement et dispose d’une licence bancaire. Une commission de 0.1% est reversée sur les paiements réalisés avec la carte, et un dividende de 0,5% est reversé aux détenteurs des token TenX.&lt;/p&gt;
-
-    &lt;p&gt;Pour l’utilisateur final, TenX offre un portefeuille de crypto disponible sur Smartphone. Il peut échanger ses crypto-monnaies directement à partir de son smartphone sans les convertir au préalable en devises classiques.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;De mon point de vue la proposition de valeur n’est pas évidente. La banque en ligne Revolut offre déjà une application qui permet de gérer son compte en multi-devises, de gérer des cartes de paiement virtuelles et est entrain d’intégrer les crypto.&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;Ce qu’apporte la blockchain sur le marché de TenX : &lt;strong&gt;pouvoir payer dans la devise (ou crypto monnaie) de son choix, avec des frais dérisoires de transaction et de conversion de change.&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span class=&quot;badge badge-outline-s&quot;&gt;&lt;a href=&quot;https://etherscan.io/token/TenXPay&quot;&gt;ethereum&lt;/a&gt;&lt;/span&gt; ♦ A lire &lt;a href=&quot;https://steemit.com/cryptocurrency/@pandorasbox/why-i-sold-my-tenx-pay-tokens-and-what-i-am-investing-in-next&quot;&gt;Why I sold my TenX/Pay tokens&lt;/a&gt;&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Retrouvez sur tweeter le &lt;a href=&quot;https://twitter.com/laurentlourenco/lists/startup-blockchain-list-1&quot;&gt;Fils d’actualité des start-up de cette liste&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Si vous avez déjà testé leurs services ou leurs produits, n’hésitez pas à partager dans les commentaires ci-dessous.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;:link: &lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;Liste des crypto-monnaies cotées&lt;/a&gt;&lt;br /&gt;
-:link: &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Liste des tokens Ethereum&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://amzn.to/2gg7Rv6&quot;&gt;:book: ‘La Sagesse des Foules’&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry></feed>
+&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry></feed>
