@@ -1,4 +1,239 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-12-26T19:20:15+01:00</updated><id>https://laurentlourenco.pro/feed.xml</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?</title><link href="https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes.html" rel="alternate" type="text/html" title="Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?" /><published>2018-09-01T00:00:00+01:00</published><updated>2018-09-01T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes</id><content type="html" xml:base="https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes.html">&lt;h3 id=&quot;pourquoi-pas-&quot;&gt;Pourquoi pas ?&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-FR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://laurentlourenco.pro/feed.xml" rel="self" type="application/atom+xml" /><link href="https://laurentlourenco.pro/" rel="alternate" type="text/html" hreflang="fr-FR" /><updated>2018-12-31T14:59:30+01:00</updated><id>https://laurentlourenco.pro/feed.xml</id><title type="html">Blog Laurent Lourenço</title><subtitle>Blog autour du numérique et des changements qu'il induit dans la Société et dans les entreprises.</subtitle><author><name>Laurent Lourenço</name></author><entry><title type="html">Tendances crypto et blockchain 2019 (Partie-I):</title><link href="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I.html" rel="alternate" type="text/html" title="Tendances crypto et blockchain 2019 (Partie-I): " /><published>2018-12-19T00:00:00+01:00</published><updated>2018-12-19T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I</id><content type="html" xml:base="https://laurentlourenco.pro/blog/tendances-crypto-blockchain-2019-Partie-I.html">&lt;h2 id=&quot;blockchain--société&quot;&gt;Blockchain &amp;amp; Société&lt;/h2&gt;
+
+&lt;p&gt;Une fois n’est pas coutume, les membres de l’association Nantaise &lt;a href=&quot;https://blockchainsociete.org/&quot;&gt;“Blockchain &amp;amp; Société”&lt;/a&gt; (plus de 800 membres) m’ont demandé de présenter le bilan de l’année 2018 et les tendances pour l’année 2019 dans le monde la blockchain et de la crypto. J’ai donc accepté de me livrer à cet exercice lors de notre dernier meetup mensuel de l’année 2018 qui s’est tenu le 19 décembre chez notre sponsor &lt;a href=&quot;https://www.ynov.com/&quot;&gt;YNOV Campus&lt;/a&gt;. Je vous restitue l’essence de cette conférence au travers de deux articles.&lt;/p&gt;
+
+&lt;p&gt;Dans ce premier article je reviens sur quelques événements qui ont marqués l’année 2018 : la professionnalisation du marché, l’éclatement de la bulle, la chute brutale des ICO et que faire de ses tokens en 2019.&lt;/p&gt;
+
+&lt;p&gt;Dans &lt;a href=&quot;(/blog/tendances-crypto-blockchain-2019-Partie-II.html)&quot;&gt;un deuxième article&lt;/a&gt; je parle des tendances pour 2019 : nouveau type de levée de fonds appelé STO, engouement pour les Stablecoin, les cryptomonnaies indexées sur le prix d’une autre devise, et tokens uniques appelés les NFT (Non Fungible Token). Je parle aussi des Exchanges décentralisés qui sont très attendus par la communauté.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NOTA: dans cet article j’utilise le terme &lt;code class=&quot;highlighter-rouge&quot;&gt;crypto&lt;/code&gt; pour désigner non seulement la crypto-monnaie mais aussi toute l’économie dite décentralisée basée sur les algorithmes de chiffrement cryptographiques. J’y inclus donc tous les acteurs blockchain quel que soit la technologie utilisée et quel que soit leur finalité. Quelques précisions &lt;a href=&quot;/blog/crypto-blockchain-cryptomonnaie-dlt.html&quot;&gt;dans cet autre article&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;non-le-bitcoin-nest-pas-mort-&quot;&gt;Non, le Bitcoin n’est pas mort !&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;En 2018 le marché crypto a été sanglant&lt;/strong&gt; en passant de plus de 700M$ de capitalisation à 100Md$ et un cours du Bitcoin qui est passé de 20000$ à 3500$. A ces niveaux tout le monde ne s’en sort pas indemne. &lt;code class=&quot;highlighter-rouge&quot;&gt;BASIS&lt;/code&gt; a jeté l’éponge, &lt;code class=&quot;highlighter-rouge&quot;&gt;CONSENSYS&lt;/code&gt; coupe dans les effectifs, &lt;code class=&quot;highlighter-rouge&quot;&gt;SLP.Network&lt;/code&gt; n’arrive pas à terminer sa levé de fonds et annonce une ICO sans limite de durée… pour ne citer que quelques exemples.&lt;/p&gt;
+
+&lt;p&gt;Le site &lt;a href=&quot;https://99bitcoins.com/bitcoin-obituaries/&quot;&gt;99bictoins.com&lt;/a&gt; maintient la page mortuaire du Bitcoin ou l’on apprend qu’il a déjà été déclaré mort 337 fois. Donc tout va bien.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L’année 2018 a été morose mais le secteur fait toujours beaucoup parler de lui&lt;/strong&gt; comme l’atteste le site &lt;a href=&quot;https://blockference.com/&quot;&gt;BLOCKFERENCE&lt;/a&gt;. Ce site cartographie les conférences à venir sur la blockchain.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Au 27 décembre on dénombre déjà 315 conférences organisées sur 2019&lt;/strong&gt; ! Un coup d’oeil rapide et vous pouvez voir que la blockchain s’invite une 5eme année au World Economic Forum de Davos fin Janvier 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-conferencesT1.png&quot; alt=&quot;BLOCKFERENCE 2019&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alors non le marché n’est pas mort. Comme l’a expliqué Miguel Cuneta à plusieurs reprises :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La Blockchain Bitcoin ne se soucie pas du cours du Bitcoin ni de ce que les médias en disent. Il y a du travail à faire, maintenant, et toutes les dix minutes, aussi longtemps qu’elle fonctionnera. Cette blockchain ne fait que continuer d’avancer, un bloc à la fois.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Et si vous n’en êtes pas convaincu je vous invite à lire l’article intitulé ironiquement &lt;a href=&quot;https://medium.com/@thinkoutsidetheblox/why-bitcoin-and-crypto-have-no-future-4f95980bb774&quot;&gt;“Pourquoi le Bitcoin et la Crypto n’ont pas de futur”&lt;/a&gt; (en anglais).&lt;/p&gt;
+
+&lt;h2 id=&quot;le-système-bancaire-et-la-finance-internationale-sont-entrés-dans-larène&quot;&gt;Le système bancaire et la finance internationale sont entrés dans l’arène&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;En 2018 le marché crypto s’est professionnalisé grâce entre autres à l’arrivé des contrats futurs.&lt;/strong&gt; De fait le marché ne connaîtra plus d’euphories comme à ses débuts. Les traders en herbe font dorénavant face à des professionnels de la finance sur-outillés qui laissent peu de chances aux amateurs. Plus largement on voit naître une réelle intrication du système bancaire avec l’univers de la crypto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Malgré la chute des cours tout le monde n’a pas été perdant.&lt;/strong&gt; Mark Dow vient de fermer ses positions vendeuses (short position), ouvertes pendant un an, sur Bitcoin. Il avait fait le pari que le cours déclinerait en suivant le lancement des contrats futurs sur le Bitcoin aux US. Avec cette opération il a gagné… beaucoup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-mark-dow-position.png&quot; alt=&quot;Mark Dow Position Short 2018&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ce type d’opération n’a été rendu possible que depuis décembre 2017, date à laquelle les premiers contrats futurs sur le bitcoin sont apparus à la bourse de Chicago. Les contrats futurs, aussi appelés contrats à termes, sont des instruments financiers puissants qui permettent de parier sur le cours futur d’un actif, à la hausse comme à la baisse. Et ce type d’outils a ouvert le marché aux traders professionnels. Et comme l’explique cet article ‘&lt;a href=&quot;http://fortune.com/2018/07/02/bitcoin-futures-killed-bitcoin-rally-will-keep-coming-back-economists/&quot;&gt;Bitcoin Futures Killed the Bitcoin Rally (and Will Keep It from Returning)&lt;/a&gt;’, les contrats à termes sont des outils qui donne du pouvoir aux pessimistes. De fait on ne verra plus jamais d’envolée des cours uniquement tirée par les optimistes et early adopters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Une autre analyse montre qu’en fin d’année les professionnels réalisaient 50% des transactions&lt;/strong&gt;, contre 5% seulement en début d’année. Les autres étant des non professionnels : possesseurs de crypto de la première heure, particuliers, mineurs, crypto geeks…&lt;/p&gt;
+
+&lt;p&gt;L’évolution de la corrélation des cours de crypto-monnaies est un autre phénomène intéressant à analyser.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En deux ans les 10 plus importantes cryptomonnaies se sont entièrement corrélées entre elles&lt;/strong&gt; comme le montre les graphiques ci-dessous tirés de l’étude &lt;a href=&quot;https://cryptocurrencyhub.io/cryptocurrency-correlation-ec492cccf79f&quot;&gt;Cryptocurrency correlation&lt;/a&gt; réalisée en Août. A noter que ces 10 crypto représentent plus de 80% de la capitalisation du marché.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-correlation.png&quot; alt=&quot;Evolution de la correlation des crypto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Les professionnels diversifient leurs positions sur les actifs les plus liquides.&lt;/strong&gt; Il s’agit d’une stratégie de gestion de portefeuille d’actifs financiers pour limiter les risques associés à une seule crypto.&lt;/p&gt;
+
+&lt;p&gt;Un autre graphique (sifrdata.com) montre en revanche que le marché crypto n’est pas corrélé à celui des actions. Cet aspect est important parce qu’il explique à lui seul l’intérêt que peuvent porter les investisseurs professionnels à diversifier leur portefeuille actions avec de la cryptomonnaie.&lt;/p&gt;
+
+&lt;p&gt;Mais les contrats à terme n’ont été que le début de la ‘professionnalisation’ du marché.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La prochaine étape attendue par les pros de la finance concerne les ETF.&lt;/strong&gt; Le marché est suspendu à l’autorisation par la SEC, l’organisme de réglementation des marchés financiers américains, d’utiliser un autre instrument financier appelé ETF, plus couramment appelé Trackers en France, sur la crypto. Un ETF (Exchange-Trade-Fund) est un fond d’investissement qui réplique la performance d’un indice.&lt;/p&gt;
+
+&lt;p&gt;Les ETF sont par définition contraire à l’esprit du Bitcoin. Les ETF permettent de créer de la “fausse monnaie” sans limite et sans prendre en considération les spécificités du sous-jacent. En d’autres termes avec les ETF vous pouvez (i) créer des simili-Bitcoin ex-nihilo alors que l’émission des vrais Bitcoin est contrôlée par l’algorithme, et (ii) vous possédez des simili-bitcoin sans jamais en avoir le contrôle.&lt;/p&gt;
+
+&lt;p&gt;On peut donc se demander qui a intérêt au développement des ETF Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L’intrication du système bancaire avec l’univers de la cryptomonnaie&lt;/strong&gt; ressort bien sur cette infographie (anonyme, si qq’un retrouve la source je suis preneur).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-dcg.jpg&quot; alt=&quot;Controle marché crypto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans cet exemple ce qui est eloquent c’est le contrôle de la société Digital Currency Group par MasterCard. Devons-nous y voir là un cheval de Troie ? Est-ce que c’est une bonne ou une mauvaise chose ? En tout cas on voit bien la stratégie qui consiste à entrer dans le jeu d’une manière indirecte sinon insidieuse.&lt;/p&gt;
+
+&lt;p&gt;Par ailleurs à défaut de pouvoir stopper le développement de la crypto et de la blockchain, il est toujours possible de le ralentir. C’est ce que l’on a vu très clairement cette semaine au sujet de la réglementation du secteur en France.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-reglementation.png&quot; alt=&quot;Non Reglementation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je vous renvoie à la vidéo d’Andreas Antonopoulos et à mon tweet qui y fait référence :&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;fr&quot;&gt;
+  &lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;Que font les régulateurs contre un système qui ne peut pas être régulé ? Ils régulent les éléments qu'ils peuvent : &lt;a href=&quot;https://twitter.com/hashtag/EXCHANGE?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#EXCHANGE&lt;/a&gt; &amp;amp; comptes bancaires. Ils coupent les rampes d'accès et les bretelles. Extrait &quot;L'argent comme système de contrôle&quot; &lt;a href=&quot;https://t.co/wZdHgslBDC&quot;&gt;https://t.co/wZdHgslBDC&lt;/a&gt; par &lt;a href=&quot;https://twitter.com/aantonop?ref_src=twsrc%5Etfw&quot;&gt;@aantonop&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Laurent Lourenço (@laurentlourenco) &lt;a href=&quot;https://twitter.com/laurentlourenco/status/1079441087440269314?ref_src=twsrc%5Etfw&quot;&gt;30 décembre 2018&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;éclatement-de-la-bulle-crypto-monnaie&quot;&gt;Éclatement de la bulle crypto-monnaie&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Le marché crypto se construit depuis sa création au travers d’une succession de bulles spéculatives dont la dernière a éclaté au début 2018.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Une question qui revient souvent en cette fin d’année 2018 est se savoir quand le marché va repartir et quel est l’état réel du marché crypto pour se début de l’année 2019.&lt;/p&gt;
+
+&lt;p&gt;Le premier site que tout le monde consulte pour connaître le pouls du marché crypto c’est &lt;code class=&quot;highlighter-rouge&quot;&gt;coinmarketcap.com&lt;/code&gt;. Aujourd’hui je voudrais vous présenter deux alternatives qui me paraissent plus judicieuses, à savoir &lt;code class=&quot;highlighter-rouge&quot;&gt;On Chain FX&lt;/code&gt; et la &lt;code class=&quot;highlighter-rouge&quot;&gt;Crypto Heatmap&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On chain FX site calcule la capitalisation de chaque crypto en prenant en compte les tokens qui ne sont pas encore mis en circulation.&lt;/strong&gt; Ce service est rendu par &lt;code class=&quot;highlighter-rouge&quot;&gt;messari.io&lt;/code&gt;, une société dont la mission est de fournir des outils d’aide à la décision pour les investisseurs crypto. Vous trouverez également d’autres metrics comme l’activité de la communauté des développeurs sur Github ou encore le nombre d’adresses actives sur le réseau !&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-onchainfx.png&quot; alt=&quot;On Chain FX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour certaines crypto ce mode de calcul peut faire une grande différence dans le classement. Comme pour &lt;code class=&quot;highlighter-rouge&quot;&gt;Stellar&lt;/code&gt; par exemple qui passe de la 6ème à la 3ème crypto et supplante &lt;code class=&quot;highlighter-rouge&quot;&gt;Ethereum&lt;/code&gt; !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Une autre manière de représenter le marché à un instant ‘t’ est d’utiliser une heatmap&lt;/strong&gt; comme celle de &lt;a href=&quot;https://bitgur.com/map&quot;&gt;Bitgur&lt;/a&gt;. Vous voyez l’ensemble du marché en un coup d’oeil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-heatmap.png&quot; alt=&quot;crypto heat map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Et le 19 décembre 2018 tout était vert, signe d’un nouveau départ ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En fait tout est une question de point de vue et d’horizon temporel.&lt;/strong&gt; Le marché crypto se construit depuis sa création au travers d’une succession de bulles spéculatives, et des périodes de retournement qui vont avec. J’ai trouvé ce graphique en surfant sur internet qui illustre bien ce phénomène. L’évolution du marché représenté sur une échelle logarithmique depuis son origine, cela donne moins le vertige.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-bulles.png&quot; alt=&quot;crypto crypto bubble&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deux phénomènes majeurs ont contribué à l’éclatement brutal de cette bulle, la fin des ICO et la prise de conscience que les tokens utilitaires avaient peu de chance de prendre de la valeur.&lt;/strong&gt; Et l’éclatement de la bulle avait été prédit dans cet article du 1er novembre 2017 &lt;a href=&quot;https://medium.com/@dennyk/why-and-how-the-cryptobubble-will-burst-de9bc7fc5332&quot;&gt;‘why-and-how-the-cryptobubble-will-burst’&lt;/a&gt; par un anonyme au pseudo de DK. Il faisait le parallèle avec la bulle internet des années 2000 : des investisseurs non avertis, de nombreux projets qui sont des arnaques, un manque de cadre réglementaire.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-chute-brutale-des-ico-en-2018-&quot;&gt;La chute brutale des ICO en 2018 !&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Les ICO ont littéralement explosées en 2016, et ont été à leur apogée en 2017&lt;/strong&gt; (voir mon article ‘&lt;a href=&quot;https://laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html&quot;&gt;Les start-up blockchain poussent comme des champignons&lt;/a&gt;’). Pour les néophytes une ICO (Initial Coin Offering) est un mode de financement qui permet à une startup de lever des fonds très rapidement, sans diluer son capital, et en donnant en échange un actif numérique, les fameux Token. Ce mode de financement a été rendu possible grâce à la technologie des SmartContrat née avec la blockchain Ethereum en 2014, autant dire hier.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L’étude ICO Bench montre non seulement l’effondrement des montants levées via des ICO au cours de l’année 2018, mais aussi la corrélation avec la chute des cours d’Ethereum&lt;/strong&gt;. Et pour cause, 85% des ICO ont été réalisées sur la blockchain Ethereum. Les ICO ont été la première killing app d’Ethereum. Elles avaient largement tirées les cours du marché de la crypto en 2017. Sans ICO et sans killing app de remplacement Ethereum perd de son intérêt, entraînant de fait la chute du cours.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-fin-ico.png&quot; alt=&quot;fin ICO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mais pourquoi les ICO ont elles chutées ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tout d’abord pour des raisons liées au processus d’innovation que portent les startups dans leurs gènes.&lt;/strong&gt; Statistiquement seules 10% des startups réussissent réellement à décoller, 50% survivent ou vivotent et 40% sont des échecs. Ces chiffrent sont encore plus éloquents dans le domaine de la blockchain. Les projets ont vu le jour très souvent avec seulement un whitepaper, une phase de R&amp;amp;D très ambitieuse et des équipes sans expériences. Or 2018 correspondait à l’année des premières échéances annoncées dans les roadmaps des startups nées en 2016/2017. Nombreuses sont celles qui ont soit jeté l’éponge face à la complexité, soit repoussé les échéances, ou se sont tout simplement écharpées au sujet des principes de gouvernance inhérent à toute structure qui possède des fonds. Elles n’étaient pas préparées. Les investisseurs se sont rendus compte que l’argent ne suffis pas pour réussir à réaliser un projet, surtout quand il fait appel à des technologies complexes, dans un marché en pénurie de compétences. Ils se sont retirés du marché pour revenir à des modes de financement plus classique en trois phases correspondant aux stades de maturités des projets : Seed, Serie A et Serie B, ou attendent les STO qui réduiront leurs risques.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ensuite à cause des arnaques&lt;/strong&gt;. Lever des fonds sans contrainte et avec facilité a donné des idées à des escrocs sans scrupules. On se rappellera &lt;code class=&quot;highlighter-rouge&quot;&gt;Bitconnect&lt;/code&gt; ou &lt;code class=&quot;highlighter-rouge&quot;&gt;Plexcoin&lt;/code&gt;. Mais le coup de grâce est venu avec &lt;code class=&quot;highlighter-rouge&quot;&gt;Pincoin&lt;/code&gt; qui a réussi à extorquer 660 millions de dollars auprès de 32000 investisseurs en Janvier 2018. Cet épisode a réellement marqué les esprits et a (i) montré à quel point les investisseurs néophytes sont crédules, (ii) fait définitivement du tort au concept d’ICO.&lt;/p&gt;
+
+&lt;p&gt;Mais les arnaques ne sont pas les seules en cause. Comme l’illustre bien &lt;em&gt;Ivan On Tech&lt;/em&gt; dans son tweet, les marchés réglementés aussi sont victimes d’arnaques et de cours qui dévissent très sérieusement, et elles ne tirent pas pour autant tout le Nasdaq vers le bas.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;fr&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This is not ICOs, this is NASDAQ % drop from ATHs. Scam? 😅😂 &lt;br /&gt;&lt;br /&gt;GOPRO -95%&lt;br /&gt;FIT -92%&lt;br /&gt;LC -91%&lt;br /&gt;SNAP -83%&lt;br /&gt;P -80%&lt;br /&gt;ZNGA -77%&lt;br /&gt;HIVE -73%&lt;br /&gt;TRUE -66%&lt;br /&gt;TWTR -63%&lt;br /&gt;SONO -60%&lt;br /&gt;DBX -57%&lt;br /&gt;Z -57%&lt;br /&gt;PS -50%&lt;br /&gt;FTCH -49%&lt;br /&gt;PSTG -48%&lt;br /&gt;SPOT -48%&lt;br /&gt;BOX -46%&lt;br /&gt;DOCU -45%&lt;br /&gt;SVMK -45%&lt;br /&gt;FB -42%&lt;/p&gt;
+  &lt;p&gt;— Ivan on Tech (@IvanOnTech) &lt;a href=&quot;https://twitter.com/IvanOnTech/status/1077182511359422464?ref_src=twsrc%5Etfw&quot;&gt;24 décembre 2018&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Enfin, et c’est probablement la raison principale, parce que la plupart des token ne prendront jamais de valeur.&lt;/strong&gt; Les fameux tokens données en échange de l’argent apporté par les investisseurs étaient censés prendre de la valeur, qui plus est rapidement. Mais voilà, plusieurs têtes pensantes se sont penchées sur la question pour aboutir à la conclusion que les tokens ont souvent un fonctionnement antinomique avec le développement du produit. Plus la demande pour le produit augmente et plus le cours du token augmente, ce qui vient brider la demande. Du coup plusieurs analystes en sont venus à montrer que plus de 80% (certains parlent même de 95%) des tokens cotés ne prendront jamais de valeur de par leur conception. Il n’en a pas fallu plus pour que les investisseurs se retirent du marché.&lt;/p&gt;
+
+&lt;p&gt;Malheureusement tous les tokens ont été impactés, y compris ceux qui ont un réel intérêt et une réelle utilité.&lt;/p&gt;
+
+&lt;h2 id=&quot;quoi-faire-de-ses-tokens-en-2019-&quot;&gt;Quoi faire de ses tokens en 2019 ?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Dois-je Hodler, garder en attendant les jours meilleurs, ou revendre à perte ?&lt;/strong&gt; Nous sommes nombreux à avoir investis dans des ICO ou à avoir acquis des tokens sur les marchés. Souvent parce que le projet présente une réelle innovation digne d’intérêt et parfois par spéculation. Mais voilà après ce qui vient d’être dit sur la valorisation des tokens utilitaires, la question se pose.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour les tokens de protocole, comme Bitcoin, Stellar ou Ethereum, votre croyance en l’avenir du réseau&lt;/strong&gt; vous donne la réponse. Leur performance dépendra du niveau d’intégration dans des applications end-users qui sont encore à inventer.&lt;/p&gt;
+
+&lt;p&gt;Pour les tokens utilitaires il faut réussir à identifier les ~20% de ceux qui vont présenter une réelle utilité et dont leur token-economie leur permettra de prendre de la valeur sans entraver leur adoption.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour les autres, les tokens sont face à un dilemme.&lt;/strong&gt; Les FUTILITY comme les appelle Rocco (&lt;a href=&quot;https://tokeneconomy.co/futility-tokens-a-utility-based-post-mortem-d7b1712a5a4e&quot;&gt;“FUTILITY Tokens: A utility-based post-mortem”&lt;/a&gt;), n’ont aucune chance de gagner de la valeur dans le futur et le dilemme porte donc sur la combinaison des décisions que prendront les investisseurs d’un côté et la société qui porte le projet de l’autre.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/perspectives-crypto-2019-futility-token.png&quot; alt=&quot;Futility Token&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je vous laisse en tirer les conclusions par vous-même en fonction de votre portefeuille.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Alors non, malgré la chute vertigineuse du marché en 2018, le Bitcoin n’est pas re-mort, les nombreux investissements en cours dans le monde et les conférences à venir en 2019 en témoignent.&lt;/p&gt;
+
+&lt;p&gt;En 2018 le système bancaire et la finance internationale sont entrés dans l’arène pour tenter de contrôler un tant soit peu ce système qui échappe par construction à toute réglementation. Et le mouvement va continuer en 2019 avec l’arrivée probable des instruments financier appelés ETF, et encore plus de tentative de réglementation.&lt;/p&gt;
+
+&lt;p&gt;Le marché crypto se construit depuis sa création au travers d’une succession de bulles spéculatives, et des périodes de retournement qui vont avec. L’éclatement de la bulle en 2018 n’est qu’une de plus, mais la communauté reste très active.&lt;/p&gt;
+
+&lt;p&gt;L’éclatement de la bulle en 2018 aura été marqué par la chute brutale des ICO pour trois raisons : (i) des startups inexpérimentées et dans l’incapacité de tenir leurs promesses, (ii) un nombre d’arnaques d’une ampleur sans précédent, (iii) Enfin, et c’est probablement la raison principale, parce que des analystes ont démontrés que la plupart des token ne prendront jamais de valeur.&lt;/p&gt;
+
+&lt;p&gt;Si vous possédez encore des token et que vous vous posez la question &lt;em&gt;Dois-je Hodler, ou revendre à perte ?&lt;/em&gt;, vous devrez faire la part des choses entre les tokens de protocoles, dont la performance dépendra du potentiel des applications qui s’appuieront dessus, et les autres qui n’ont probablement aucune chance de gagner de la valeur dans le futur. Le marché devrait donc continuer de s’épurer.&lt;/p&gt;
+
+&lt;p&gt;Dans &lt;a href=&quot;(/blog/tendances-crypto-blockchain-2019-Partie-II.html)&quot;&gt;la deuxième partie&lt;/a&gt; je parle du nouveau type de levée de fonds appelé STO qui devrait prendre le pas sur les ICO, de l’engouement pour les Stablecoin, des tokens uniques NFT et des DEX, les exchanges décentralisés qui sont très attendus par la communauté.&lt;/p&gt;
+
+&lt;p&gt;Merci de partager cet article si la lecture vous a intéressée.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et références&lt;/em&gt;&lt;/small&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-will-bitcoin-look-like-in-twenty-years-7e75481a798c&quot;&gt;What will bitcoin look like in twenty years&lt;/a&gt; Daniel Jeffries - Oct 2017&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blackwellglobal.com/crypto-correlation-coefficient-strategy&quot;&gt;Crypto Correlation Coefficient Strategy&lt;/a&gt; Blackwell Global&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/investor/2018/10/16/the-price-of-bitcoin-and-equities-are-correlated/#55b5ba024ea5&quot;&gt;The Price Of Bitcoin And Equities Are Correlated&lt;/a&gt; Forbes - Oct 2016&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/nakamo-to/whats-the-difference-between-blockchain-and-dlt-e4b9312c75dd&quot;&gt;What’s the difference between blockchain and DLT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cmegroup.com/trading/equity-index/us-index/bitcoin.html&quot;&gt;Bitcoin Futur Quote&lt;/a&gt; CME Group&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zycrypto.com/etf-will-kill-bitcoin-for-good-investors-express-skepticism&quot;&gt;ETF will kill bitcoin for good investors express skepticism&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinexchangeguide.com/looking-at-the-crypto-glass-half-empty-will-a-bitcoin-etf-kill-bitcoin-or-allow-it-to-grow-further/&quot;&gt;Will A Bitcoin ETF Kill Bitcoin Or Allow It To Grow Further?&lt;/a&gt; Nov 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dennyk/a-checklist-for-the-crypto-price-bottom-118c23611391&quot;&gt;A checklist for the crypto price bottom&lt;/a&gt; 7 dec 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://icobench.com/reports/ICObench_ICO_Market_Analysis_November_2018.pdf&quot;&gt;ICO Market Analysis&lt;/a&gt; ICObench - Nov 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinexchangeguide.com/pincoin-ico-crypto-exit-scam-dupes-32000-investors-in-660-million-heist/&quot;&gt;Pincoin ICO crypto exit scam dupes 32000 investors in 660 million&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/bitcoin-is-dead-the-blockchain-didnt-get-the-memo-c5b03d8dc8d7&quot;&gt;Bitcoin is dead. The blockchain didn’t get the memo&lt;/a&gt; Miguel Cuneta - Feb 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@thinkoutsidetheblox/why-bitcoin-and-crypto-have-no-future-4f95980bb774&quot;&gt;Why bitcoin and crypto have no future&lt;/a&gt; Oct 2018&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Vous êtes plutôt pro Crypto, pro Blockchain, pro Crypto-monnaie ou pro DLT ?</title><link href="https://laurentlourenco.pro/blog/crypto-blockchain-cryptomonnaie-dlt.html" rel="alternate" type="text/html" title="Vous êtes plutôt pro Crypto, pro Blockchain, pro Crypto-monnaie ou pro DLT ?" /><published>2018-12-01T00:00:00+01:00</published><updated>2018-12-01T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/crypto-blockchain-cryptomonnaie-dlt</id><content type="html" xml:base="https://laurentlourenco.pro/blog/crypto-blockchain-cryptomonnaie-dlt.html">&lt;h2 id=&quot;crypto-vs-blockchain-vs-crypto-monnaie-vs-dlt&quot;&gt;Crypto vs Blockchain vs Crypto-monnaie vs DLT&lt;/h2&gt;
+
+&lt;p&gt;Au-delà de la sémantique pure, les enjeux derrière l’utilisation des mots Crypto, Blockchain, Crypto-monnaie ou DLT sont souvent de nature politique.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La crypto désigne à la fois la crypto-monnaie mais aussi plus globalement la cryptographie.&lt;/strong&gt; Aussi quand on utilise le terme crypto on peut faire référence soit à la crypto-monnaie soit à toute l’économie dite décentralisée.&lt;/p&gt;
+
+&lt;p&gt;Dans l’univers informatique, l’économie décentralisée englobe tout le business réalisé de pairs à pairs grâce à un système décentralisé et utilisant la pile de technologies s’appuyant sur la blockchain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/technology-stack-decentralized-systems.png&quot; alt=&quot;technology-stack-decentralized-systems&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les algorithmes de chiffrement cryptographiques en sont la pierre angulaire. Pas de cryptographie induit : pas de blockchain, pas de systèmes décentralisés et pas d’économie décentralisée.&lt;/p&gt;
+
+&lt;p&gt;Quand on parle de marché de la crypto on parle donc aussi bien du marché des crypto monnaies que de tous les acteurs liés à l’économie décentralisée : les app et DAPP, les systèmes de récompenses avec les tokens et les SmartContract, les protocoles, les réseaux…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En 2017 le terme &lt;em&gt;crypto-monnaie&lt;/em&gt; a été banni au profit du mot &lt;em&gt;blockchain&lt;/em&gt;&lt;/strong&gt; dans certains milieux, la banque et la finance pour ne citer qu’eux.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;C’est un peu comme si les vendeurs de bougies au début du XXè siècle avaient banni le terme &lt;em&gt;éclairage électrique&lt;/em&gt; mais pas le terme &lt;em&gt;électricité&lt;/em&gt; !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;La technologie sous-jacente au bitcoin posséderait des vertus que n’aurait pas le Bitcoin lui-même. En fait l’un ne peut pas aller sans l’autre.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Le premier ‘cas d’application’ qui montre le mieux les valeurs et les caractéristiques de la technologie blockchain c’est bien le transfert de monnaie avec la crypto-monnaie : &lt;strong&gt;non censurable, transparent, ouvert, ultra-sécurisé, infalsifiable&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Une blockchain publique ou semi-publique à besoin d’un token pour fonctionner et pour rétribuer les acteurs du réseau qui garantissent l’intégrité des données. C’est inhérent à cette technologie.&lt;/p&gt;
+
+&lt;p&gt;Voici quelques exemples d’acteurs du monde la crypto. Vous y trouverez des blockchain, des protocoles, des app, des crypto-monnaie à part entière, des token utilitaires, des stablecoins, des blockchain publiques et des semi-publiques…&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/crypto.png&quot; alt=&quot;crypto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En 2018 le mauvais buzz autour des ICO et de la technologie blockchain qui y est associé aura eu raison des deux termes au profit cette fois-ci du mot &lt;em&gt;DLT&lt;/em&gt;&lt;/strong&gt;. Ce terme serait plus neutre ?!&lt;/p&gt;
+
+&lt;p&gt;Le terme DLT qui signifie &lt;em&gt;Distributed Ledger Technology&lt;/em&gt; est un terme générique qui regroupe plusieurs technologies comme la Blockchain elle-même, mais aussi les DAG - Graphes Acycliques Dirigés (DAG) ou d’autres. C’est un terme chapeau.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-shadow mx-auto d-block my-5&quot; src=&quot;/assets/img/dlt.png&quot; alt=&quot;dlt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En effet, depuis la naissance de la blockchain avec le Bitcoin en 2008, la technologie a évolué. Les dernières avancées utilisent d’autres protocoles, comme les DAG, qui ne ressemblent en rien à une chaîne de blocs de transactions. Les vertus sont les mêmes et les caractéristiques bien meilleures : c’en est fini de la consommation massive d’énergie et du minage, une scalabilité beaucoup plus importante, des frais de transactions drastiquement réduits, des temps de validation éclairs… On parle de troisième génération. (La deuxième concerne les capacités à gérer des SmartContrat).&lt;/p&gt;
+
+&lt;p&gt;Le terme DLT est né avec cette troisième génération de technologie pour pouvoir avoir un terme générique. Mais voilà, DLT est quand même moins ‘sexy’ que le terme blockchain, alors par commodité on continu d’utiliser Blockchain pour tout englober.&lt;/p&gt;
+
+&lt;p&gt;En fait, certains détracteurs de crypto essayent de restreindre le terme DLT aux blockchains totalement privées, qui sont d’un usage beaucoup plus restreint, et surtout qui sont très loin d’avoir les propriétés de la blockchain. Une DLT privée c’est avant tout une base de données distribuée avec ses inconvénients : censurable, opaque, fermée, et falsifiable.&lt;/p&gt;
+
+&lt;p&gt;Au-delà de la sémantique pure et des différences techniques réelles, on voit surtout que l’utilisation de ces termes dépend avant tout du contexte et d’enjeux politiques. Pour ma part j’utilise souvent le terme crypto qui englobe tout, quitte à perturber les anti-crypto-monnaies.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/nakamo-to/whats-the-difference-between-blockchain-and-dlt-e4b9312c75dd&quot;&gt;What’s the difference between blockchain and DLT?&lt;/a&gt; Max Thake - Feb 2018&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smartcitiesdive.com/news/blockchain-decentralized-economy/511757/&quot;&gt;The decentralized economy is inevitable. Cities now need to prepare for impact&lt;/a&gt; - Sarah Wray - Nov 2017&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nweintraut/the-decentralized-economy-dacaf15c07da&quot;&gt;The Decentralized Economy&lt;/a&gt; - Neil Weintraut - April 2018&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Laurent Lourenço</name></author><category term="blockchain" /></entry><entry><title type="html">Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?</title><link href="https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes.html" rel="alternate" type="text/html" title="Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?" /><published>2018-09-01T00:00:00+01:00</published><updated>2018-09-01T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes</id><content type="html" xml:base="https://laurentlourenco.pro/blog/travailler-chez-editeurs-logiciel-nantes.html">&lt;h3 id=&quot;pourquoi-pas-&quot;&gt;Pourquoi pas ?&lt;/h3&gt;
 
 &lt;p&gt;Vous avez des compétences dans le domaine du développement informatique et vous voulez quitter l’ ESN qui vous a embauchée en sortant de l’école. Vous voulez néanmoins participer au développement d’un logiciel. Vous avez alors le choix entre :&lt;/p&gt;
 
@@ -1085,149 +1320,4 @@ de la start-up et ne manquent pas d’en faire la promotion.&lt;/li&gt;
 :link: &lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Liste des tokens Ethereum&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://amzn.to/2gg7Rv6&quot;&gt;:book: ‘La Sagesse des Foules’&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry><entry><title type="html">Conférences hi-tech à ne pas rater</title><link href="https://laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html" rel="alternate" type="text/html" title="Conférences hi-tech à ne pas rater" /><published>2017-09-01T00:00:00+01:00</published><updated>2017-09-01T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater</id><content type="html" xml:base="https://laurentlourenco.pro/blog/conferences-high-tech-a-ne-pas-rater.html">&lt;p&gt;A ne pas rater :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;WebSummit&lt;/li&gt;
-  &lt;li&gt;Web2days&lt;/li&gt;
-  &lt;li&gt;USI event&lt;/li&gt;
-  &lt;li&gt;API days&lt;/li&gt;
-  &lt;li&gt;Viva Tech&lt;/li&gt;
-  &lt;li&gt;Blockchain Summit&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Vous trouverez également les liens vers toutes les vidéos des éditions précedentes, de quoi occuper vos longues soirées d’hier.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;websummit&quot;&gt;&lt;a href=&quot;https://websummit.com/&quot;&gt;WebSummit&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;The largest tech conference in the world&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;4 jours à Lisbonne du 6 au 9 Novembre 2017. Plus de 60 000 visiteurs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://websummit.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/evtwebsum16.jpg&quot; alt=&quot;web summit event&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;:clubs: &lt;a href=&quot;https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ/videos&quot;&gt;Vidéos de l’édition 2016&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;web2days&quot;&gt;&lt;a href=&quot;https://web2day.co/&quot;&gt;web2days&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Start-up &amp;amp; Tech Festival&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;3 jours à Nantes du 13 au 15 juin 2018. Plus de 4 000 visiteurs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://web2day.co/&quot;&gt;&lt;img src=&quot;/assets/noindex/snip_20170820104404.png&quot; alt=&quot;web2day event&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;:clubs: &lt;a href=&quot;https://www.youtube.com/channel/UCCzfEV7NDD5OvkE3Ua7pcxQ/videos&quot;&gt;Vidéos de l’édition 2017&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;usi&quot;&gt;&lt;a href=&quot;http://www.usievents.com/fr&quot;&gt;USI&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Unexpected Sources of Inspiration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2 jours à Paris, en Juin. 1700 visiteurs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.usievents.com/fr&quot;&gt;&lt;img src=&quot;/assets/noindex/usi.jpg&quot; alt=&quot;usi event&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;:clubs: &lt;a href=&quot;https://www.youtube.com/user/usievents/videos&quot;&gt;Vidéos des éditions précedentes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;api-days&quot;&gt;&lt;a href=&quot;http://www.apidays.io/&quot;&gt;API Days&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;The world leading API conferences&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2 jours dans les plus grandes villes du monde. Pratiquement une tous les mois. Plus de 1000 participants.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.apidays.io/&quot;&gt;&lt;img src=&quot;/assets/noindex/apidays.png&quot; alt=&quot;API days&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;:clubs: &lt;a href=&quot;http://blog.d2-si.fr/2017/01/05/api-days-paris/&quot;&gt;Article à lire sur l’édition Parisienne 2017&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;viva-tech&quot;&gt;&lt;a href=&quot;https://vivatechnology.com/&quot;&gt;VIVA Tech&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;VivaTech is a hub for the world’s innovators&lt;/strong&gt;, tech-lovers and pioneers of the future - we exist to create relationships that will change business and society for tomorrow.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://vivatechnology.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/viva-technology.png&quot; alt=&quot;vivatech&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;:clubs: &lt;a href=&quot;https://vivatechnology.com/program/program/&quot;&gt;Programme de 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;blockchain-summit-london&quot;&gt;&lt;a href=&quot;http://blockchainsummitlondon.com/&quot;&gt;blockchain summit london&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;The Blockchain for business event&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://blockchainsummitlondon.com/&quot;&gt;&lt;img src=&quot;/assets/noindex/9738bcsummitlo.png&quot; alt=&quot;blockchain summit london&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="events" /></entry><entry><title type="html">T’as les jetons ? La blockchain, l’effet token et les ICO</title><link href="https://laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html" rel="alternate" type="text/html" title="T'as les jetons ? La blockchain, l'effet token et les ICO" /><published>2017-08-23T00:00:00+01:00</published><updated>2017-08-23T00:00:00+01:00</updated><id>https://laurentlourenco.pro/blog/blockchain-effet-token-et-ico</id><content type="html" xml:base="https://laurentlourenco.pro/blog/blockchain-effet-token-et-ico.html">&lt;p&gt;&lt;em&gt;Cet article s’inspire de l’article publié en Anglais par Ramon Recuero sur Y-Combinator : &lt;a href=&quot;http://blog.ycombinator.com/the-token-effect/&quot;&gt;The Token Effect&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contexte-de-la-blockchain&quot;&gt;Contexte de la blockchain&lt;/h2&gt;
-
-&lt;p&gt;Des décennies après le lancement du web et dix-sept ans après l’effondrement de la bulle internet, nous sommes finalement entré dans &lt;strong&gt;l’âge d’or des applications Internet.&lt;/strong&gt; Des entreprises comme Airbnb, Uber ou BlaBlaCar peuvent être décrites comme des entités centralisées dirigeant un réseau qui alloue une ressource rare, i.e un logement en un lieu et à une date précise, un trajet entre A et B à une heure précise. Cette allocation de ressource se traduit par un service facturé par la plateforme web conçue et gérée par ces entreprises. Les communautés fédérées autour de ces services sont construites sur des effets de réseau puissants - où, selon la loi de Metcalfe&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, la &lt;strong&gt;valeur du réseau augmente exponentiellement avec le nombre d’utilisateurs&lt;/strong&gt; qui y participent. Et dans ce cas là, la valeur produite par les utilisateurs bénéficie directement aux entreprises et à leurs actionnaires.&lt;/p&gt;
-
-&lt;p&gt;D’autre part, les projets open source et décentralisés qui alimentent Internet comme TCP/IP, Wikipedia ou Linux ont généré énormement de valeurs, mais ils ont toujours du mal à en bénéficier économiquement eux-mêmes. Le succès de l’open source se mesure par le niveau d’adoption des utilisateurs, et non pas par les revenus qu’il génére. Par exemple, les protocoles Internet comme TCP/IP et HTTP (web) ou SMTP (email) ont été largement sous-financés malgré leur utilisation par des millions de personnes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Les entreprises utilisent énormément ces protocoles open source&lt;/strong&gt; tout en générant de la valeur au niveau de leur propre couche utilisateurs, via leur application utlisée par les consommateurs finaux&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. L’inconvénient c’est que lesdits protocoles open source restent eux toujours massivement sous-financés.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bitcoin&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; a créé le premier réseau décentralisé “équitable” et partagé (public&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;)&lt;/strong&gt;. Bitcoin permet de faire transiter de l’argent de façon &lt;em&gt;sécurisée&lt;/em&gt; entre des parties, &lt;em&gt;sans autorité centrale&lt;/em&gt; (sans banque et sans même une entreprise qui gère une plateforme) et en toute &lt;em&gt;transparence&lt;/em&gt;. Tout le monde vérifie les transactions de tout le monde. L’équité est définie en récompensant les bons acteurs de manière monétaire pour leur contribution au fonctionnement du réseau. Ces acteurs s’appellent les &lt;em&gt;mineurs&lt;/em&gt;. Ils contribuent au fonctionnement du réseau en enregistrant et en sécurisant toutes les transactions avec des preuves cryptographiques. Le concept sur laquelle repose Bitcoin s’appelle la blockchain.&lt;/p&gt;
-
-&lt;h2 id=&quot;ethereum-et-les-tokens--létincelle&quot;&gt;Ethereum et les tokens : l’étincelle&lt;/h2&gt;
-
-&lt;p&gt;Ethereum&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; a repris le concept Bitcoin en allant un plus loin. Ethereum est un réseau décentralisé de millions d’ordinateurs (les noeuds du réseau) qui exécutent du code en même temps. Lorsque quelqu’un veut executer une transaction, tous les nœuds l’exécutent et mettent à jour le registre public des transactions. &lt;strong&gt;Contrairement à Bitcoin, ces noeuds Ethereum peuvent exécuter presque n’importe quel programme décrit dans la transaction&lt;/strong&gt;. Plus précisement son code est défini dans des &lt;em&gt;‘Smart Contracts’&lt;/em&gt;. Un ‘Smart Contract’&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; est un ensemble d’engagements, spécifiées sous forme numérique, incluant les règles qui régissent ces engagements. Les applications directes sont par exemple la numérisation d’instruments financiers complexes comme les dérivés, le stockage de fichier réparti, .&lt;/p&gt;
-
-&lt;p&gt;Plus important encore, vous pouvez utiliser un ‘Smart Contract’ pour créer votre propre crypto-monnaie : les tokens&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Les &lt;strong&gt;tokens permettent aux protocoles décentralisés de tirer les bénéfices financiers du réseau&lt;/strong&gt;. Un token est l’unité économique de base dans l’écosystème Ethereum et devrait s’appuyer ou correspondre à une ressource rare. Les tokens sont dépenser pour utiliser cette ressource et sont gagnés en contribuant au fonctionnement du réseau. Par exemple, avec Filecoin, vous gagnez des tokens en prêtant votre espace de disque dur inutilisé. En résumé, les tokens coordonnent les efforts dans le réseau et motivent une participation responsable.&lt;/p&gt;
-
-&lt;h2 id=&quot;ico--excitation-et-ruée-vers-lor&quot;&gt;ICO : excitation et ruée vers l’or&lt;/h2&gt;
-
-&lt;p&gt;À l’heure actuelle, l’ICO&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; est le principal cas d’utilisation d’Ethereum. &lt;strong&gt;Une ICO (Offre Initiale de ‘crypto-monnaie’) est pour un réseau ce qu’est une IPO (Introduction en bourse) pour une entreprise&lt;/strong&gt;, mais avec des différences majeures. Les ICO offrent une liquidité considérable. Contrairement aux entreprises traditionnelles, vous pouvez faire correspondre la valeur de vos actifs avec des Tokens liquides et échangeables, dès le premier jour. En outre, vous pouvez attirer des milliers d’early adopters’ qui mettent leur peau en jeu et qui croient et soutiennent votre projet dès le début. Une autre différence est que la détention Token ne vous donnes aucun droit de propriété sur l’entreprise (ce n’est pas une action en d’autres termes). Enfin l’injection de capital et la spéculation initiale attirent l’attention des développeurs, une autre ressource rare, permettant de déclencher le démarrage du réseau.&lt;/p&gt;
-
-&lt;p&gt;Malheureusement, de nombreuses start-up qui ne sont pas de l’univers des réseaux se tournent vers les ICO pour lever des fonds seulement pour avoir un accès plus rapide et facile à l’argent. Mais &lt;strong&gt;seules quelques start-up nécessiteraient réellement un Token pour démarrer et valoriser leur réseau&lt;/strong&gt;. Les Tokens de protocole comme Ethereum sont des exemples de crypto-monnaies avec un effet de réseau puissant. Leur modèle ne fonctionnerait tout simplement pas sans cet effet symbolique. Le Token et son ICO sont la seule façon pour le protocole de créer et retenir les bénéfices financiers de son utilisation.&lt;/p&gt;
-
-&lt;h2 id=&quot;la-révolution-blockchain-est-en-marche&quot;&gt;La révolution blockchain est en marche&lt;/h2&gt;
-
-&lt;p&gt;Le web a pris des décennies pour mûrir. Il a traversé des périodes de spéculations élevées et des crashs significatifs. Il est important de se rappeler que même pendant ces périodes, de grandes entreprises comme Amazon ou Google ont été fondées. Il est raisonnable de s’attendre à ce que l’écosystème Blockchain suive le même chemin.&lt;/p&gt;
-
-&lt;p&gt;Crypto-monnaies et Tokens ont généré un record de 1,27 milliard de dollars au premier semestre de 2017 grâce à des ICO&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. La plupart d’entre eux ne survivront pas, mais quelques-uns oui, jetant les bases d’un nouvel âge.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Les Blockchains nous donnent de nouvelles façons de gouverner les réseaux. Pour la banque. Pour les éléctions et les systèmes de votes. Pour la recherche. Pour les médias sociaux. Pour les réseaux téléphoniques et énergétiques. Les places de marché basées sur la blockchain vont remplacer les réseaux existants. Lentement, Petità petit, puis tout à coup. Dans un seul domaine, et puis alors dans beaucoup de domaines.” – Naval Ravikant&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;notes-et-références&quot;&gt;&lt;small&gt;&lt;em&gt;Notes et Références&lt;/em&gt;&lt;/small&gt;&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Loi_de_Metcalfe&quot;&gt;loi de Metcalfe&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.usv.com/blog/fat-protocols&quot;&gt;Fat Protocols&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://bitcoin.org/fr/&quot;&gt;Bitcoin&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Il existe aussi des blockchain privées. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.ethereum-france.com/&quot;&gt;Ethereum&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.ethereum-france.com/smart-contract-ou-le-contrat-auto-executant/&quot;&gt;Smart Contract&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://etherscan.io/tokens&quot;&gt;Marché des tokens&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://marianne2.fr/quest-ico-initial-coin-offering-explication-exemple&quot;&gt;Qu’est-ce qu’une ICO&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.coindesk.com/ico-tracker/&quot;&gt;CoinDesk ICO Tracker&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="blockchain" /></entry></feed>
+&lt;a href=&quot;http://amzn.to/2gLyUPd&quot;&gt;:book: ‘La fin des banques’&lt;/a&gt;&lt;/p&gt;</content><author><name>Laurent Lourenço</name></author><category term="stratégie-IT" /><category term="start-up" /><category term="blockchain" /></entry></feed>
