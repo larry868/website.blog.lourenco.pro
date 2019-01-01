@@ -50,7 +50,7 @@ L'évolution de la corrélation des cours de crypto-monnaies est un autre phéno
 
 **En deux ans les 10 plus importantes cryptomonnaies se sont entièrement corrélées entre elles** comme le montre les graphiques ci-dessous tirés de l'étude [Cryptocurrency correlation](https://cryptocurrencyhub.io/cryptocurrency-correlation-ec492cccf79f) réalisée en Août. A noter que ces 10 crypto représentent plus de 80% de la capitalisation du marché.
 
-<img class="img-shadow mx-auto d-block my-5" src="{{ site.baseurl }}/assets/img/perspectives-crypto-2019-correlation.png" alt="Evolution de la correlation des crypto">
+<img class="img-shadow mx-auto d-block my-5" src="{{ site.baseurl }}/assets/img/perspectives-crypto-2019-correlation1.png" alt="Evolution de la correlation des crypto">
 
 **Les professionnels diversifient leurs positions sur les actifs les plus liquides.** Il s'agit d'une stratégie de gestion de portefeuille d'actifs financiers pour limiter les risques associés à une seule crypto.
 
