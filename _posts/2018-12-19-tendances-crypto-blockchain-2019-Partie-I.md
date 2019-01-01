@@ -158,7 +158,7 @@ L'éclatement de la bulle en 2018 aura été marqué par la chute brutale des IC
 
 Si vous possédez encore des token et que vous vous posez la question _Dois-je Hodler, ou revendre à perte ?_, vous devrez faire la part des choses entre les tokens de protocoles, dont la performance dépendra du potentiel des applications qui s'appuieront dessus, et les autres qui n'ont probablement aucune chance de gagner de la valeur dans le futur. Le marché devrait donc continuer de s'épurer.
 
-Dans [la deuxième partie](({{ site.baseurl }}/blog/tendances-crypto-blockchain-2019-Partie-II.html)) je parle du nouveau type de levée de fonds appelé STO qui devrait prendre le pas sur les ICO, de l'engouement pour les Stablecoin, des tokens uniques NFT et des DEX, les exchanges décentralisés qui sont très attendus par la communauté.
+Dans [la deuxième partie]({{ site.baseurl }}/blog/tendances-crypto-blockchain-2019-Partie-II.html) je parle du nouveau type de levée de fonds appelé STO qui devrait prendre le pas sur les ICO, de l'engouement pour les Stablecoin, des tokens uniques NFT et des DEX, les exchanges décentralisés qui sont très attendus par la communauté.
 
 Merci de partager cet article si la lecture vous a intéressée.
 
