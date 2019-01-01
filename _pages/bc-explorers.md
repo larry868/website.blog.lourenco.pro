@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploration les blockchain
+title: Exploration des Blockchain
 Subtitle: Outils pour explorer les blockchains publiques
 tags: blockchain
 category: blockchain
