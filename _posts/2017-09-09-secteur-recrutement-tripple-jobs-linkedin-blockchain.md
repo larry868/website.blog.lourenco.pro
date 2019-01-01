@@ -12,7 +12,7 @@ La demande explose pour les personnes qui ont des compétences qui permettent de
 
 Il y a plus de 1000 start-up blockchain, sans compter les entreprises bien établies qui recrutent également pour porter leur projets de transformation numérique.
 
-Les meilleurs ingénieurs maîtrisant les technologies de la blockchain peuvent prétendre à un salaire de plus de 250 000 $/an selon Jerry Cuomo d'IBM : “C'est la fourchette haute de ce que peut gagner un vraiment bon consultant ou ingénieur logiciel.”. Au delà de ces exceptions, il est est clair que [l'explosion du nombre de start-up dans le domaine de la blockchain](https://www.laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html) et la [complexité de la technologie blockchain](https://www.laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html) crée une distorsion du marché de l'emploi avec une demande très supérieure à l'offre, et donc des salaires tirés vers le haut.
+Les meilleurs ingénieurs maîtrisant les technologies de la blockchain peuvent prétendre à un salaire de plus de 250 000 $/an selon Jerry Cuomo d'IBM : “C'est la fourchette haute de ce que peut gagner un vraiment bon consultant ou ingénieur logiciel.”. Au delà de ces exceptions, il est est clair que [l'explosion du nombre de start-up dans le domaine de la blockchain](https://laurentlourenco.pro/blog/startup-blockchain-ico-innovation-transformation-numerique.html) et la [complexité de la technologie blockchain](https://laurentlourenco.pro/blog/la-blockchain-est-elle-une-revolution-technologique.html) crée une distorsion du marché de l'emploi avec une demande très supérieure à l'offre, et donc des salaires tirés vers le haut.
 
 ## Qui recrute dans la blockchain ?
 
