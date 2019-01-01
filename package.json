@@ -16,14 +16,6 @@
                 "build:step0": "bundle exec jekyll build",
 
                 "build:prod": "SET JEKYLL_ENV=production&& npm run build:step0 -- --config _config.yml,_studiojekyll\\_config_prod.yml,_studiojekyll\\_version.yml",
-                "postbuild:prod": "opn https://laurentlourenco.pro/index.html --ext=html",
-
-                "createversionfile": "node _studiojekyll\\createSiteVersionFile.js && git describe --abbrev=0 --tags >> _studiojekyll\\_version.yml",
-                "version-patch++": "npm version patch && git push origin --tags && npm run createversionfile",
-                "version-minor++": "npm version minor && git push origin --tags && npm run createversionfile",
-                "version-major++": "npm version major && git push origin --tags && npm run createversionfile"
-        },
-        "dependencies": {
-                "write": "^0.3.3"
+                "postbuild:prod": "opn https://laurentlourenco.pro/index.html --ext=html"
         }
 }
