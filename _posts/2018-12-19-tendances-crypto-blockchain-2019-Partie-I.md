@@ -12,7 +12,7 @@ Une fois n'est pas coutume, les membres de l'association Nantaise ["Blockchain &
 
 Dans ce premier article je reviens sur quelques événements qui ont marqués l'année 2018 : la professionnalisation du marché, l'éclatement de la bulle, la chute brutale des ICO et que faire de ses tokens en 2019.
 
-Dans [un deuxième article](({{ site.baseurl }}/blog/tendances-crypto-blockchain-2019-Partie-II.html)) je parle des tendances pour 2019 : nouveau type de levée de fonds appelé STO, engouement pour les Stablecoin, les cryptomonnaies indexées sur le prix d'une autre devise, et tokens uniques appelés les NFT (Non Fungible Token). Je parle aussi des Exchanges décentralisés qui sont très attendus par la communauté.
+Dans [un deuxième article]({{ site.baseurl }}/blog/tendances-crypto-blockchain-2019-Partie-II.html) je parle des tendances pour 2019 : nouveau type de levée de fonds appelé STO, engouement pour les Stablecoin, les cryptomonnaies indexées sur le prix d'une autre devise, et tokens uniques appelés les NFT (Non Fungible Token). Je parle aussi des Exchanges décentralisés qui sont très attendus par la communauté.
 
 > NOTA: dans cet article j'utilise le terme `crypto` pour désigner non seulement la crypto-monnaie mais aussi toute l'économie dite décentralisée basée sur les algorithmes de chiffrement cryptographiques. J'y inclus donc tous les acteurs blockchain quel que soit la technologie utilisée et quel que soit leur finalité. Quelques précisions [dans cet autre article]({{ site.baseurl }}/blog/crypto-blockchain-cryptomonnaie-dlt.html).
 

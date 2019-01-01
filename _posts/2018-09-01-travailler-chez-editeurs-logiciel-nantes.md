@@ -22,7 +22,7 @@ Vous avez des compétences dans le domaine du développement informatique et vou
 
 Voici la liste de ces éditeurs ayant leur siège ou leurs équipes de développement sur le bassin Nantais :
 
-- [TALEND](https://fr.talend.com/) ETL, Plateforme BigData, MDM. TALEND a installé son [centre de R&D à Nantes](http://www.nantes.fr/home/actualites/ville-de-nantes/economie/2016/talend.html) en 2016.
+- [TALEND](https://fr.talend.com/) ETL, Plateforme BigData, MDM. TALEND a installé son centre de R&D à Nantes en 2016.
 - [SPACE ELEPHANT](https://www.spacelephant.org/) Blockchain publiques et privées, DAPP (Decentralized App), Cyber Securité et protection de la vie privée. Space Elephant développe le protocole de 'Naming' Universel UNS adossé à un identifiant sécurisé : [@unik-name](https://www.unik-name.com)
 - [SODIUS](https://www.sodius.com/en/home) Développement dans secteurs Défense, Automobile et Transport des solutions pour la modélisation et l’ingénierie de produits et services complexes – Développement des technologies de « niche ».
 

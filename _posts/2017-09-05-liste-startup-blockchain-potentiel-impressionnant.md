@@ -63,7 +63,7 @@ Ce qu'apporte la blockchain sur le marché de Blockstream : **développement éc
 
 _La startup Blockstream n'a pas émis de token. Elle a réalisée une [levée de fonds 'classique' en séries A de 55M$](https://blockstream.com/2016/02/02/blockstream-new-investors-55-million-series-a.html) auprès d'investisseurs incluants Horizons Ventures, Tokyo-based Digital Garage et AXA Strategic Ventures._
 
-<a href="https://blockstream.com/satellite/satellite/"><img class="img-shadow mx-auto d-block" src="{{ site.baseurl }}/assets/noindex/captureblockstreamsatelitestatus.png" alt="blockstream satellite status"></a>
+<a href="https://blockstream.com/satellite/"><img class="img-shadow mx-auto d-block" src="{{ site.baseurl }}/assets/noindex/captureblockstreamsatelitestatus.png" alt="blockstream satellite status"></a>
 
 Voir aussi [Lisk](https://lisk.io/) la première crypto-monnaie modulaire utilisant des [Sidechain](https://www.bitcoinmining.com/sidechains-explained/)
 
@@ -135,7 +135,7 @@ Ce qu'apporte la blockchain sur le marché de IOTA : **une base de données part
 
 <a href="https://iota.org/IOTA_Whitepaper.pdf"><img class="img-shadow mx-auto d-block" src="{{ site.baseurl }}/assets/noindex/iotatangle.jpeg" alt="iota tangle"></a>
 
-<span class="badge badge-outline-s">[IOTA Tangle Explorer](http://www.iota.tips/)</span> &diams; [Roadmap](https://blog.iota.org/iota-development-roadmap-74741f37ed01) &diams; [A lire en Français](http://cyrilgrunspan.fr/index.php/2016/08/27/) &diams; [En savoir plus](https://blog.iota.org/the-transparency-compendium-26aa5bb8e260)
+<span class="badge badge-outline-s">[IOTA Tangle Explorer](http://www.iota.org)</span> &diams; [Roadmap](https://blog.iota.org/iota-development-roadmap-74741f37ed01) &diams; [A lire en Français](http://cyrilgrunspan.fr/index.php/2016/08/27/) &diams; [En savoir plus](https://blog.iota.org/the-transparency-compendium-26aa5bb8e260)
 
 </div></div>
 
@@ -162,7 +162,7 @@ Ce qu'apporte la blockchain sur le marché de Lbry : **une répartition équitab
 <span id="populous"></span>
 <div class="card mb-3">
 <div class="card-header">
-### :rocket: [Populous](http://populous.co/) : affacturage, cession de créances
+### :rocket: [Populous](http://populous.world/) : affacturage, cession de créances
 </div>
 <div class="card-block">
 **Populous est une solution d'affacturage reprenant les classiques de ce métier**. Vous pouvez uploader vos factures et transférer la créance, contre du cash, à un autre membre du réseau qui se chargera de la recouvrer à sa date d'échéance. La solvabilité du créancier est évaluée au travers d'un système de scoring traditionnel puis la créance est mise aux enchères sur la plateforme.
@@ -199,7 +199,7 @@ Ce qu'apporte la blockchain sur le marché de Steem : **une redistribution équi
 ### :rocket: [Storj](https://storj.io/) : stockage distribué, réparti, sécurisé et en très haute disponibilité
 </div>
 <div class="card-block">
-**Storj est une solution de stockage amélioré sur le cloud** a l'instar de Microsoft Azur ou d'AWS S3 mais avec des caractéristiques intéressantes et des [tarifs compétitifs](https://storj.io/pricing.html) jusqu'à deux fois moins cher. Tout d'abord le stockage est distribué ce qui lui offre une résilience exceptionnel, avec un uptime considérable pour ne pas dire 100%. Ensuite, outre le cryptage des données, le stockage est réparti, c'est à dire que chaque fichier est découpé en petit bouts et chaque bout, crypté, est stocké sur des serveurs différents du réseau. De fait les accès en lecture peuvent être servis par plusieurs serveurs et donc gagner en rapidité. Enfin, comme toutes les technologies blockchain il n'existe pas d'organisme centralisateur donc vos données sont protégées contre la censure et vous seul êtes responsables de votre mot de passe (clé privée). Les membres peuvent aussi louer leur propre capacité de stockage excédentaire.
+**Storj est une solution de stockage amélioré sur le cloud** a l'instar de Microsoft Azur ou d'AWS S3 mais avec des caractéristiques intéressantes et des [tarifs compétitifs](https://storj.io) jusqu'à deux fois moins cher. Tout d'abord le stockage est distribué ce qui lui offre une résilience exceptionnel, avec un uptime considérable pour ne pas dire 100%. Ensuite, outre le cryptage des données, le stockage est réparti, c'est à dire que chaque fichier est découpé en petit bouts et chaque bout, crypté, est stocké sur des serveurs différents du réseau. De fait les accès en lecture peuvent être servis par plusieurs serveurs et donc gagner en rapidité. Enfin, comme toutes les technologies blockchain il n'existe pas d'organisme centralisateur donc vos données sont protégées contre la censure et vous seul êtes responsables de votre mot de passe (clé privée). Les membres peuvent aussi louer leur propre capacité de stockage excédentaire.
 
 StoreJ est en cours d'intégration à Filezilla. Cela va rendre son utilisation très user friendly et donne un accès immédiat à un marché de plus de 15 millions d'utilisateurs à travers le monde.
 

@@ -36,15 +36,6 @@ C'est le nouvel eldorado des investisseurs mais aussi des startupper.
 
 - [Startégie de communication des 4 meilleures ICO de 2017](http://www.coincatalyst.com/four-ico-communications-strategies/) sur coincatalyst.
 
----
-
-## Aides au lancement d'ICO
-
-- [Chaineum](http://www.chaineum.com/) Token Sale Organizer (France).
-
-- [BlockStarter](http://blockstarter.co/) a plateform for launching ICO campaigns.
-
-- [TokenMarket ICO launchpad](https://tokenmarket.net/ico-professional-services)
 
 ---
 

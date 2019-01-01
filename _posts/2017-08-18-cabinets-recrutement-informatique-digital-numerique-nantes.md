@@ -22,11 +22,11 @@ Alors voila, je vous propose ci-après une sélection des cabinets de recrutemen
 
 Pour recruter des informaticiens le processus est inversé, il faut commencé par **'vendre' le poste au candidat**, et cela commence avant le 1er entretien et avant de faire appel aux cabinets de recrutement. Il est nécessaire d'avoir un site web à jour, avec les offres disponibles, et surtout avec une page présentant l'équipe.
 
-Pour aller plus loin vous pouvez présenter votre entreprise et les postes ouverts sur **[welcome to the jungle](https://www.welcometothejungle.co/companies)**. Cette plateforme permet de fournir un max d'info sur votre boite et surtout en incluant des vidéos des salariés en place. Enfin le label **[Great Place To Work](http://www.greatplacetowork.fr/index.php)** peut aussi vous aider à faire la différence pour attirer les meilleurs.
+Pour aller plus loin vous pouvez présenter votre entreprise et les postes ouverts sur **[welcome to the jungle](https://www.welcometothejungle.co/companies)**. Cette plateforme permet de fournir un max d'info sur votre boite et surtout en incluant des vidéos des salariés en place. Enfin le label **[Great Place To Work](http://www.greatplacetowork.fr)** peut aussi vous aider à faire la différence pour attirer les meilleurs.
 
 Toujours dans la rubrique _attirons les candidats_ une bonne **page d'entreprise sur linkedin** n'est pas fortuite, avec des profils à jours de vos salariés. Même si nous savons selon une étude de 2015 que plus de 20% des développeurs n'ont pas de profils linkedin, 80% en ont donc un ! Aussi après avoir consulté le site web de l'entreprise, la plupart des candidats iront consulter le profil linkedin de leurs pairs qui travaillent dans votre société. (ensuite ils iront sur leurs fils twitter et enfin sur leurs profils github).
 
-En ce qui concerne le 1er entretien, comme le montre l'étude de StackOverflow sur le [marché du recrutement des développeurs](https://www.stackoverflowbusiness.com/fr/talent/ressources/marche-du-recrutement-des-developpeurs-2017) pensez à **offrir un café** :coffee: digne de ce nom à votre candidat et à lui **présenter l'équipe.**
+En ce qui concerne le 1er entretien, comme le montre l'étude de StackOverflow sur le [marché du recrutement des développeurs](https://www.stackoverflowbusiness.com/uk/talent/resources/global-developer-hiring-landscape-2018) pensez à **offrir un café** :coffee: digne de ce nom à votre candidat et à lui **présenter l'équipe.**
 
 Sinon, à vous de faire le job et assurez-vous que le candidat soit très motivé par le poste/l'entreprise avant de poursuivre.
 

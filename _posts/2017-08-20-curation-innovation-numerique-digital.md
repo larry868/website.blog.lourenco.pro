@@ -15,7 +15,6 @@ masthead-img: defaultimg.jpg
 - [1001 Startups](http://1001startups.fr/) média Français dédié à l'entrepreneuriat et l'écosystème startup.
 - [Futurism](https://futurism.com/) 
 - [L'Usine Digitale](http://www.usine-digitale.fr/) Le média de la transformation numérique.
-- [1 innovation par jours](https://www.facebook.com/1innov/) (n'existe que sur Facebook)
 
 Les tweets de ces sites sont agregées dans le fil suivant.
 

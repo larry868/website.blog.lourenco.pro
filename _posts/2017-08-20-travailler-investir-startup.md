@@ -38,7 +38,7 @@ En suivant les actualités sur ces sites vous pouvez identifier les start-up qui
 
 Les accélérateurs ce sont des structures qui offrent un programme court et intensif dédié aux start-up, avec pour objectif d'accélérer leur croissance. Ils offrent par ailleurs de nombreux services utiles au lancement de la jeune pousse : mentorat, services juridiques, services comptables, conseil… en contrepartie d'une prise de participation. Les société sélectionnées sont donc triées sur le volet, c'est donc un très bon vivier pour dénicher une pépite.
 
-Depuis le lancement du concept en 2005 les accélérateurs pullulent ces dernières années. Aussi j'ai fait une sélection drastique. Vous trouverez une liste plus exhaustive dans la [catégorie accélérateur sur MaddyNess](https://www.maddyness.com/category/business/accelerateurs/).
+Depuis le lancement du concept en 2005 les accélérateurs pullulent ces dernières années. Aussi j'ai fait une sélection drastique.
 
 - [Y Combinator](http://www.ycombinator.com/), dans la Silicon Valley.
 - [The Family](https://www.thefamily.co/), à Paris.
