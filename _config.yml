@@ -123,6 +123,7 @@ plugins:
 # Forcer le traitement de robots
 include: 
   - robots.txt
+  - .well-known
 
 # transpiler saas
 sass:
