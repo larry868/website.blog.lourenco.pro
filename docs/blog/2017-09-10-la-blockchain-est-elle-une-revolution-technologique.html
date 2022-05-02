@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <title>La blockchain est elle vraiement une révolution technologique ?</title>
+    <meta name="title" content="La blockchain est elle vraiement une révolution technologique ?">
+    <link rel="canonical" href="blog/2017-09-10-la-blockchain-est-elle-une-revolution-technologique.html">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--page-description-->
+    <meta name="author" content="Laurent Lourenco">
+    <meta name="description" content="">
+    <meta name="keywords" content="blockchain">
+    <meta name="robots" content="index, follow">
+    <link rel="alternate" type="application/rss+xml" title="La blockchain est elle vraiement une révolution technologique ?" href="/feed.xml">
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-icons.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/custom.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+  <body>
+    <div class="border-bottom">
+    <header class="container">
+      <div class="d-flex flex-wrap justify-content-start py-3">
+      <a href="/" class="d-flex align-items-center mb-md-0 me-md-auto text-dark text-decoration-none">
+        <img src="/assets/img/llcartoon1.png" alt="brand" height="50px" class="">
+        <span class="ps-3 fs-6">Blog sur les technologies numériques qui impactent la société.</span>
+      </a>
+      </div>
+    </header>
+  </div>
+    <article class="post container">
+      <div class="masthead p-3 border-bottom bg-light">
+        <h1>La blockchain est elle vraiement une révolution technologique ?</h1>
+        <div class="lead"></div>
+        <small class="tiny">
+            Publié&nbsp;par&nbsp;<a href="https://laurent.lourenco.pro">Laurent Lourenco</a>
+            le 10 09 2017
+        </small>
+      </div>
+      <main class="inside mt-5">
+        <p>Il y a 6 technologies qui sont à la base de la plupart des blockchains. Elles sont assez anciennes et on peut même se demander pourquoi la blockchain n&rsquo;a pas été inventé avant !</p>
+
+<p>Dans cet article nous passons en revue chacune de ces technologies et du role qu&rsquo;elles jouent dans la blockchain :</p>
+
+<ol>
+<li><strong>Cryptage asymetrique</strong> : utilisé pour signer les transactions de la blockchain,</li>
+<li><strong>Fonctions de hachage</strong> : utilisées pour vérifier l&rsquo;intégrité des transactions enregistrées et pour masquer les clés publiques,</li>
+<li><strong>Arbres de Merkle</strong> : utilisés pour vérifier les paiements d&rsquo;une manière sécurisée sans avoir à parcourir l&rsquo;intégralité de tout le registre de la blockchain,</li>
+<li><strong>Bases de données clé-valeur</strong> : utilisé pour rechercher si une transaction a déjà été dépensée et pour ajouter une nouvelle transaction,</li>
+<li><strong>Protocoles de communication P2P</strong> : le protocole de communication P2P permet de mettre tous les membres en réseau, sans aucune entitée centralisatrise,</li>
+<li><strong>Preuve de Travail (PoW)</strong> : utilisé pour parvenir à un consensus sur la validité des transactions enregistrées et distribuées.</li>
+</ol>
+
+<hr />
+
+<h2>1. Cryptage asymetrique (Asymmetric Encryption)</h2>
+
+<p><strong>Le cryptage asymétrique est utilisé pour signer les transactions de la blockchain.</strong> Les signatures cryptées asymétriquement ont des propriétés exceptionnelles :</p>
+
+<ol>
+<li>elles prouvent que le signataire a eu accès à la clé privée</li>
+<li>la clé publique n&rsquo;a pas besoin d&rsquo;être revelée</li>
+<li>elles sont facile à vérifier, mais impossible à corrompre</li>
+</ol>
+
+<p>La blockchain Bitcoin utilise les paramètres <a href="https://en.bitcoin.it/wiki/Secp256k1">secp256k1</a> de l&rsquo;Algorithme de signature numérique à clé publique ECDSA (Elliptic Curve Digital Signature Algorithm). ECDSA a été inventé en 1985 et est devenu une norme ISO, ANSI, IEEE et FIPS en 1998-2000. L&rsquo;avantage majeur d&rsquo;ECDSA sur RSA est que ECDSA utilise des clés et des signatures beaucoup plus petites pour un même niveau de sécurité. En d&rsquo;autres termes, Bitcoin aurait été possible avec RSA qui a été inventé en <strong>1977</strong> !</p>
+
+<p><a href="http://jrruethe.github.io/blog/2014/10/25/cryptography-primer/"><img class="img-shadow mx-auto d-block" src="/assets/img/asymencsnap894356.png" alt="cryptage asymetrique"></a></p>
+
+<hr />
+
+<h2>2. Fonctions de hachage (Hash Functions)</h2>
+
+<p><strong>Les fonctions de hachage sont utilisées pour vérifier l&rsquo;intégrité des transactions enregistrées dans le registre de la blockchain et pour masquer les clés publiques.</strong></p>
+
+<p>Les fonctions de hachage utilisent des données d&rsquo;entrée de taille arbitraire et créent, de façon déterministe, une sortie de taille fixe (généralement inférieure à la taille d&rsquo;entrée) ressemblant à des données aléatoires. Une propriété clé d&rsquo;une fonction de hachage est sa capacité à <a href="https://fr.wikipedia.org/wiki/R%C3%A9sistance_aux_collisions">résister à la collision</a>.</p>
+
+<p><a href="https://fr.wikipedia.org/wiki/Fonction_de_hachage"><img class="img-shadow mx-auto d-block" src="/assets/img/520px-Hash_function_fr.svg.png" alt="principe hash"></a></p>
+
+<p>Chaque transaction dans chaque bloc de Bitcoin est représentée par 64 caractères hexadécimaux. Cette chaîne de caractère est calculée de manière déterministe en sérialisant les contenus des transactions en octets, puis en hachant ces octets (deux fois) à l&rsquo;aide de l&rsquo;algorithme SHA-256. Le résultat est donc le <em>hash</em> de la transaction, appelé son empreinte. La probabilité d&rsquo;avoir deux transactions avec la même <em>empreinte</em> est très très faible.</p>
+
+<p>De fait, cette empreinte est très pratique pour vérifier l&rsquo;intégrité des transactions enregistrées dans le registre de la blockchain. Tout comme une signature asymétrique ne peut pas être modifiée par quelqu&rsquo;un de malhonnête, le contenu d&rsquo;une transaction ne peut pas être altéré. Cela garantit à chaque membre du réseau que leur version du registre des transactions est la même que celle de tous les autres membres.</p>
+
+<p>Les fonctions de hachage sont aussi utilisées dans la blockchain Bitcoin pour hacher les clés publiques utilisées pour calculer les adresses des transactions.</p>
+
+<p>L&rsquo;algorithme SHA-256 a été publié pour la première fois en <strong>2001</strong>.</p>
+
+<hr />
+
+<h2>3. Arbres de Merkle (Merkle Trees)</h2>
+
+<p><strong>Les arbres de Merkle sont utilisés pour vérifier les paiements d&rsquo;une manière sécurisée sans avoir à parcourir l&rsquo;intégralité de tout le registre de la blockchain.</strong></p>
+
+<p>La blockchain Bitcoin utilise un arbre de Merkle pour empiler toutes les transactions dans le registre. L&rsquo;arbre de Merkle est une structure de données qui contient uniquement un résumé d&rsquo;un grand volume d&rsquo;informations. Ils permettent de vérifier l&rsquo;intégrité d&rsquo;une partie seulement d&rsquo;un fichier.</p>
+
+<p>Cette caractéristique est utilisée dans les porte-monnaie Bitcoin installés sur les smartphone. Cela permet de vérifier les paiements d&rsquo;une manière sécurisée sans avoir à stocker les 100 Giga-Octets et plus de tout le registre de la blockchain.</p>
+
+<p><a href="https://www.weusecoins.com/what-is-a-merkle-tree/"><img class="img-shadow mx-auto d-block" src="/assets/img/what-is-a-merkel-tree.jpg" alt="what is a merkle tree"></a></p>
+
+<p>L&rsquo;arbre de Merkle Tree a été breveté en <strong>1979</strong> et est utilisé dans des systèmes de fichiers distribués comme IPFS, des systèmes de partage de fichiers comme BitTorrent, ou encore les bases de données NoSQL comme Cassandra.</p>
+
+<hr />
+
+<h2>4. Bases de données clé-valeur (Key-Value Database)</h2>
+
+<p>Pour éviter les doubles dépenses (un risque inhérent au concept de registre distribué d&rsquo;une blockchain), vous devez pouvoir effectuer rapidement les deux opérations de base de données suivantes :</p>
+
+<ul>
+<li>Recherche si une transaction a déjà été dépensée</li>
+<li>Ajouter une nouvelle transaction</li>
+</ul>
+
+<p>Alors que les bases de données NoSQL ont pris de l&rsquo;ampleur au cours des dernières années (en raison principalement de leur capacité à absorber des gros volumes de données), il est important de se rappeler que les bases de données NoSQL datent réellement d&rsquo;avant les bases de données relationnelles.</p>
+
+<p>La blockchain Bitcoin a été lancé initialement avec BerkeleyDB, sorti en 1994. &lsquo;dbm&rsquo;, le principe de stockage clé-valeur qui a inspiré BerkeleyDB, a été publié en <strong>1979</strong>.</p>
+
+<p><a href="https://blog.barthe.ph/2014/07/23/compute-bitcoin-balance-nodejs/"><img class="img-shadow mx-auto d-block" src="/assets/img/btc_keypool_wallet.png" alt="stockage clé-valeur"></a></p>
+
+<hr />
+
+<h2>5. Protocole de communication P2P (P2P communication Protocol)</h2>
+
+<p><strong>Le protocole de communication P2P permet de mettre tous les memebres en réseau dans aucune entitée centralisatrise.</strong></p>
+
+<p>Des applications qui communiquent directement entre elles (par opposition à la communication avec un serveur) est assez rare pour la plupart des applications que nous utilisons quotidiennement. Cependant, ce n&rsquo;est pas nouveau. Napster sorti en <strong>1999</strong> est probablement le réseau P2P le plus connu, mais USENET était apparu 20 ans avant.</p>
+
+<p>Le réseau Internet est un excellent réseau pour les protocoles P2P. Le protocole Gossip est utilisé dans de nombreuses bases de données NoSQL, comme Amazon Dynamo, Cassandra et Riak.</p>
+
+<p><img class="img-shadow mx-auto d-block" src="/assets/img/6XGsvJkpPo51HlPVHxFQdddd.png" alt="stockage clé-valeur"></p>
+
+<hr />
+
+<h2>6. Preuve de travail (Proof Of Work)</h2>
+
+<p><strong>La blockchain Bitcoin utilise la preuve de travail pour parvenir à un consensus sur la validité des transactions enregistrées et distribuées.</strong></p>
+
+<p>La Preuve du travail (PoW) est une utilisation intelligente des fonctions de hachage. Cela fonctionne en calculant l&rsquo;empreinte d&rsquo;un message, combinés à plusieurs nombres arbitraires (appelés <em>nonces</em>), jusqu&rsquo;à ce que vous trouviez une empreinte qui réponde à un critère rare. Étant donné que chaque empreinte est peu susceptible de satisfaire à ce critère, la spécification d&rsquo;un critère difficile à atteindre, comme par exemple une empreinte qui commence avec plusieurs zéros, est un moyen de prouver que quelqu&rsquo;un a utilisé de la puissance de calcul. Le premier qui trouve la solution pour valider une nouvelle transaction est récompensé.</p>
+
+<p>C&rsquo;est la pierre angulaire de tout réseau distribué et ouvert, sans système d&rsquo;authentification ou d&rsquo;autorisation, fondé sur l&rsquo;anonymat et où les membres sont tous méfiants les uns envers les autres.</p>
+
+<p>Certaines personnes trouvent que la preuve de travail est inefficace, parce que le réseau Bitcoin dépense d&rsquo;énormes ressources informatiques exclusivement pour valider les transactions.</p>
+
+<p>La preuve de travail a été inventé en <strong>1993</strong>, mais a été rendu célèbre en 1997 par Hashcash d&rsquo;Adam Back.</p>
+
+<p><a href="/assets/img/what-is-proof-of-work.png">Voir l&rsquo;infographie</a></p>
+
+<hr />
+
+<h2>Technologie blockchain</h2>
+
+<p>La blockchain est une technologie en elle même, résultant de la combinaison de ces différentes technologie existantes depuis plusieurs dizaines d&rsquo;années. C&rsquo;est une technologie complexe, avec ses propres challenges comme la scalabilité, la confidentialité où encore la question du coût des transactions.</p>
+
+<p>Ethereum que certain appellent la blockchain 2.0 est une première évolution qui est apparu très rapidement après la blockchain Bitcoin. Plus récemment le concept de &lsquo;Tangle&rsquo; proposé par IOTA laisse présager une nouvelle révolution dans la technologie blockchain, en faisant disparaître la chaîne ! A suivre.</p>
+
+<hr />
+
+<h2><small><em>Notes et Références</em></small></h2>
+
+<p><em>Cet article s&rsquo;inspire d&rsquo;un <a href="https://eng.paxos.com/the-blockchain-is-evolutionary-not-revolutionary">article publié initialement sur le blog de Paxos</a>.</em></p>
+
+<ul>
+<li><a href="https://www.niceideas.ch/blockchain_explained.pdf">blockchain explained (pdf)</a></li>
+<li><a href="https://www.niceideas.ch/roller2/badtrash/entry/blockchain-2-0-from-bitcoin">Blockchain 2.0 - From Bitcoin Transactions to Smart Contract</a></li>
+<li><a href="https://fr.slideshare.net/vchriqui/tout-savoir-sur-le-bitcoin-et-la-blockchain">Tout savoir sur le #bitcoin et la #blockchain</a></li>
+<li><a href="https://www.weusecoins.com/what-is-a-merkle-tree/">What is a merkle tree</a></li>
+<li><a href="http://chimera.labs.oreilly.com/books/1234000001802">Mastering Bitcoin</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Cryptographie_asym%C3%A9trique">Cryptographie asymétrique</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Fonction_de_hachage">Fonctions de hachage</a></li>
+<li><a href="https://www.coindesk.com/bitcoin-hash-functions-explained/">Bitcoin Hash Functions explained</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Arbre_de_Merkle">Arbres de Merkle</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Key-value_database">Key-Value database</a></li>
+<li><a href="https://fr.slideshare.net/straumat/bitcoin-comment-a-marche-et-pourquoi-cest-une-rvolution">Bitcoin comment ça marche et pourquoi c&rsquo;est une révolution</a></li>
+</ul>
+
+      </main>
+    </article>
+    <footer class="fixed-bottom mt-auto py-3 bg-light">
+<div class="text-center">
+  <small class="tiny"><a href="/">Blog</a>&nbsp;•&nbsp;&copy;2022&nbsp;
+  <a href="https://laurent.lourenco.pro">Laurent Lourenco</a>
+  &nbsp;•&nbsp;
+  <a href="/LICENSE.txt">Tous droits réservés CC-BY-SA-4.0.</a>
+  &#151;&nbsp;V3.0
+</small>
+</div>
+</footer>
+    <script src="/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

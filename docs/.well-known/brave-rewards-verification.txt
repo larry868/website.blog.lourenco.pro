@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: laurentlourenco.pro
-Token: b45ef3e4d01a49367e1d4403ff1bdd424094879bca17ebda3bfb5df722fb1679
