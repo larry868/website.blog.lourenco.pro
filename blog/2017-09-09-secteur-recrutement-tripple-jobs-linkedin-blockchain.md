@@ -47,13 +47,13 @@ Le secteur industriel commence à s'y mettre. Les entreprises innovantes font de
 
 Pour les passionnés de blockchain qui n'ont pas encore choisi pour qui travailler, voici les meilleurs jobboard dans le domaine.
 
-:link: [**Blocktribe**](https://blocktribe.com/) <span class="badge badge-danger">206</span> jobs non pourvus.
+- [**Blocktribe**](https://blocktribe.com/) <span class="badge badge-danger">206</span> jobs non pourvus.
 
-:link: [**Angel List blockchain jobs**](https://angel.co/jobs#find/blockchain) <span class="badge badge-danger">353</span>  start-up recrutent dans le domaine de la blockchain
+- [**Angel List blockchain jobs**](https://angel.co/jobs#find/blockchain) <span class="badge badge-danger">353</span>  start-up recrutent dans le domaine de la blockchain
 
-:link: [**UpWork blockchain jobs**](https://www.upwork.com/o/jobs/browse/skill/blockchain/) <span class="badge badge-danger">355</span> offres de missions pour des freelances
+- [**UpWork blockchain jobs**](https://www.upwork.com/o/jobs/browse/skill/blockchain/) <span class="badge badge-danger">355</span> offres de missions pour des freelances
 
-:link: [**Linkedind blockchain jobs**](https://www.linkedin.com/jobs/blockchain-jobs/) <span class="badge badge-danger">111</span> annonces uniquement en France et plus de 1000 au niveau international
+- [**Linkedind blockchain jobs**](https://www.linkedin.com/jobs/blockchain-jobs/) <span class="badge badge-danger">111</span> annonces uniquement en France et plus de 1000 au niveau international
 
 Et sinon, il suffit de sélectionner votre boite sur [CryptoCurrency Market Cap](https://coinmarketcap.com/) et d'aller sur leur page recrutement.
 

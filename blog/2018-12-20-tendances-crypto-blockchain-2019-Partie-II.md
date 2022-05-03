@@ -21,7 +21,7 @@ Dans ce deuxième article je parle des tendances pour 2019 : le décollage atten
 
 On y retrouve les trois fonctions essentielles d'une monnaie : (i) servir de réserve de valeur, (ii) être un média d'échange, (iii) servir d'unité de compte.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-lindyeffect.jpg" alt="lindy effect">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-lindyeffect.jpg" alt="lindy effect">
 
 **Il reste encore ne nombreuses étapes à franchir** avant que le Bitcoin et autres cryptos deviennent complètement des monnaies internationales à part entière. 
 
@@ -46,7 +46,7 @@ Parmi les acteurs du secteur il faut distinguer les DEX purement crypto comme `I
 
 `Bisq` (ex. BitSquare) est un très petit exchange qui s'est positionné sur ce marché avec des volumes qui ont été multipliés par trois ces deux derniers mois. _Voir l'activité sur [Bisq.network](https://bisq.network/markets/)._
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-dex.png" alt="DEX">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-dex.png" alt="DEX">
 
 **Binance le plus gros exchange classique, s'est aussi fait remarquer en se positionnant sur le marché des DEX** avec [Binance Dex](https://www.youtube.com/watch?v=wN1Uvor4Hd8) comme le montre leur vidéo. C'est signe que les exchanges centralisés ont compris que le futur de la crypto allait leur échapper s'ils ne revenaient pas sur les valeurs fondamentales. 
 
@@ -60,7 +60,7 @@ L'autre sujet phare pour 2019 concerne un nouveau type de levées de fonds avec 
 
 Voici quelques acteurs particulièrement actifs : `Harbor` qui a levé 38M$ et qui a annoncé en novembre le financement d'un projet de 100M$ ! `Securitize` qui vient de lever 13M$ en Serie A ou encore `Tokeny`.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-acteurs-STO.png" alt="Acteurs du marché des STO">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-acteurs-STO.png" alt="Acteurs du marché des STO">
 
 **La particularité des STO c'est qu'elles sont très proches des levées de fonds classiques en Equity** et qu'elles permettent de financer des projets sans rapport avec la blockchain et sans token. Les souscripteurs reçoivent un Token de type security (un produit financier) en contrepartie de leur mise de fonds. Ils ne possèdent pas de titres de la société à proprement parler. 
 
@@ -78,7 +78,7 @@ Les Stablecoin sont connus avec `Theter` depuis debut de l'année 2015. Cette cr
 
 Alors `Tether` a donné des idées et il existe un réel engouement avec l'arrivée de plusieurs acteurs comme `TrueUSD`, `USDCoin`, `HAVEN`, ou encore `Terra` et `Carbon`.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-stablecoin.png" alt="Stablecoin">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-stablecoin.png" alt="Stablecoin">
 
 Mais voilà les Stablecoin ne sont pas du tout bien vu par le système bancaire qui y voit là un risque de perte de contrôle de l'émission de monnaie. `BASIS` en a fait les frais et vient d'annoncer le remboursement des 125M$ à ses investisseurs. `BASIS` avait la particularité de proposer un protocole qui lui évitait d'avoir à posséder des vrais Dollars en face de chaque Coin émis.
 
@@ -94,7 +94,7 @@ Un token non fongible est un token qui porte un numéro unique, matérialisé pa
 
 A l'instar de CoinMarketCap, la plateforme [nonfungible.com](https://nonfungible.com/) fait l'état du marché de ces tokens. Avec environ 100M$ on est loin des 100Md$ des tokens fungibles que sont les crypto-monnaies, mais c'est un marché émergent plein de potentiels.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-NFT.png" alt="NFT Non Fungible Token">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-NFT.png" alt="NFT Non Fungible Token">
 
 `CryptoKitties` a été un pionnier en la matière avec le jeu de vente de chattons aux graphiques originaux et qui peuvent s'accoupler. 
 

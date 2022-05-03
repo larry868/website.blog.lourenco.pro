@@ -17,7 +17,7 @@ Si après avoir rempli ce document vous pensez que l'idée n'est pas absurde et 
 
 L'article de Sajida [Blockchain is the answer, but what was the question?)](https://medium.com/@Saj_JZ/blockchain-is-the-answer-but-what-was-the-question-vf-7cc3a9c98545) est écrit sous forme de guide pour utiliser son Canevas, je vous invite à vous en inspirer. _(Bien que le titre soit en anglais, l'article est en français)_
 
-<a href="/assets/img/blockchaincanvas-vf-sajidazouarhi.png"><img src="/assets/img/blockchaincanvas-vf-sajidazouarhi.png" alt="blockchain canvas"></a>
+<a href="/assets/img/blockchaincanvas-vf-sajidazouarhi.png"><img class="img-post" src="/assets/img/blockchaincanvas-vf-sajidazouarhi.png" alt="blockchain canvas"></a>
 
 
 ## <small>_Notes et références_</small>

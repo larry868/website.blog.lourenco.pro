@@ -27,7 +27,7 @@ Le site [99bictoins.com](https://99bitcoins.com/bitcoin-obituaries/) maintient l
 
 **Au 27 décembre on dénombre déjà 315 conférences organisées sur 2019** ! Un coup d'oeil rapide et vous pouvez voir que la blockchain s'invite une 5eme année au World Economic Forum de Davos fin Janvier 2019.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-conferencesT1.png" alt="BLOCKFERENCE 2019">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-conferencesT1.png" alt="BLOCKFERENCE 2019">
 
 Alors non le marché n'est pas mort. Comme l'a expliqué Miguel Cuneta à plusieurs reprises : 
 
@@ -41,7 +41,7 @@ Et si vous n'en êtes pas convaincu je vous invite à lire l'article intitulé i
 
 **Malgré la chute des cours tout le monde n'a pas été perdant.** Mark Dow vient de fermer ses positions vendeuses (short position), ouvertes pendant un an, sur Bitcoin. Il avait fait le pari que le cours déclinerait en suivant le lancement des contrats futurs sur le Bitcoin aux US. Avec cette opération il a gagné... beaucoup.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-mark-dow-position.png" alt="Mark Dow Position Short 2018">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-mark-dow-position.png" alt="Mark Dow Position Short 2018">
 
 Ce type d'opération n'a été rendu possible que depuis décembre 2017, date à laquelle les premiers contrats futurs sur le bitcoin sont apparus à la bourse de Chicago. Les contrats futurs, aussi appelés contrats à termes, sont des instruments financiers puissants qui permettent de parier sur le cours futur d'un actif, à la hausse comme à la baisse. Et ce type d'outils a ouvert le marché aux traders professionnels. Et comme l'explique cet article '[Bitcoin Futures Killed the Bitcoin Rally (and Will Keep It from Returning)](http://fortune.com/2018/07/02/bitcoin-futures-killed-bitcoin-rally-will-keep-coming-back-economists/)', les contrats à termes sont des outils qui donne du pouvoir aux pessimistes. De fait on ne verra plus jamais d'envolée des cours uniquement tirée par les optimistes et early adopters.
 
@@ -51,7 +51,7 @@ L'évolution de la corrélation des cours de crypto-monnaies est un autre phéno
 
 **En deux ans les 10 plus importantes cryptomonnaies se sont entièrement corrélées entre elles** comme le montre les graphiques ci-dessous tirés de l'étude [Cryptocurrency correlation](https://cryptocurrencyhub.io/cryptocurrency-correlation-ec492cccf79f) réalisée en Août. A noter que ces 10 crypto représentent plus de 80% de la capitalisation du marché.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-correlation1.png" alt="Evolution de la correlation des crypto">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-correlation1.png" alt="Evolution de la correlation des crypto">
 
 **Les professionnels diversifient leurs positions sur les actifs les plus liquides.** Il s'agit d'une stratégie de gestion de portefeuille d'actifs financiers pour limiter les risques associés à une seule crypto.
 
@@ -67,13 +67,13 @@ On peut donc se demander qui a intérêt au développement des ETF Bitcoin.
 
 **L'intrication du système bancaire avec l'univers de la cryptomonnaie** ressort bien sur cette infographie (anonyme, si qq'un retrouve la source je suis preneur). 
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-dcg.jpg" alt="Controle marché crypto">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-dcg.jpg" alt="Controle marché crypto">
 
 Dans cet exemple ce qui est eloquent c'est le contrôle de la société Digital Currency Group par MasterCard. Devons-nous y voir là un cheval de Troie ? Est-ce que c'est une bonne ou une mauvaise chose ? En tout cas on voit bien la stratégie qui consiste à entrer dans le jeu d'une manière indirecte sinon insidieuse.
 
 Par ailleurs à défaut de pouvoir stopper le développement de la crypto et de la blockchain, il est toujours possible de le ralentir. C'est ce que l'on a vu très clairement cette semaine au sujet de la réglementation du secteur en France.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-reglementation.png" alt="Non Reglementation">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-reglementation.png" alt="Non Reglementation">
 
 Je vous renvoie à la vidéo d'Andreas Antonopoulos et à mon tweet qui y fait référence :
 
@@ -93,19 +93,19 @@ Le premier site que tout le monde consulte pour connaître le pouls du marché c
 
 **On chain FX site calcule la capitalisation de chaque crypto en prenant en compte les tokens qui ne sont pas encore mis en circulation.** Ce service est rendu par `messari.io`, une société dont la mission est de fournir des outils d'aide à la décision pour les investisseurs crypto. Vous trouverez également d'autres metrics comme l'activité de la communauté des développeurs sur Github ou encore le nombre d'adresses actives sur le réseau !
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-onchainfx.png" alt="On Chain FX">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-onchainfx.png" alt="On Chain FX">
 
 Pour certaines crypto ce mode de calcul peut faire une grande différence dans le classement. Comme pour `Stellar` par exemple qui passe de la 6ème à la 3ème crypto et supplante `Ethereum` ! 
 
 **Une autre manière de représenter le marché à un instant 't' est d'utiliser une heatmap** comme celle de [Bitgur](https://bitgur.com/map). Vous voyez l'ensemble du marché en un coup d'oeil.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-heatmap.png" alt="crypto heat map">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-heatmap.png" alt="crypto heat map">
 
 Et le 19 décembre 2018 tout était vert, signe d'un nouveau départ ? 
 
 **En fait tout est une question de point de vue et d'horizon temporel.** Le marché crypto se construit depuis sa création au travers d'une succession de bulles spéculatives, et des périodes de retournement qui vont avec. J'ai trouvé ce graphique en surfant sur internet qui illustre bien ce phénomène. L'évolution du marché représenté sur une échelle logarithmique depuis son origine, cela donne moins le vertige.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-bulles.png" alt="crypto crypto bubble">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-bulles.png" alt="crypto crypto bubble">
 
 **Deux phénomènes majeurs ont contribué à l'éclatement brutal de cette bulle, la fin des ICO et la prise de conscience que les tokens utilitaires avaient peu de chance de prendre de la valeur.** Et l'éclatement de la bulle avait été prédit dans cet article du 1er novembre 2017 ['why-and-how-the-cryptobubble-will-burst'](https://medium.com/@dennyk/why-and-how-the-cryptobubble-will-burst-de9bc7fc5332) par un anonyme au pseudo de DK. Il faisait le parallèle avec la bulle internet des années 2000 : des investisseurs non avertis, de nombreux projets qui sont des arnaques, un manque de cadre réglementaire.
 
@@ -115,7 +115,7 @@ Et le 19 décembre 2018 tout était vert, signe d'un nouveau départ ?
 
 **L'étude ICO Bench montre non seulement l'effondrement des montants levées via des ICO au cours de l'année 2018, mais aussi la corrélation avec la chute des cours d'Ethereum**. Et pour cause, 85% des ICO ont été réalisées sur la blockchain Ethereum. Les ICO ont été la première killing app d'Ethereum. Elles avaient largement tirées les cours du marché de la crypto en 2017. Sans ICO et sans killing app de remplacement Ethereum perd de son intérêt, entraînant de fait la chute du cours. 
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-fin-ico.png" alt="fin ICO">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-fin-ico.png" alt="fin ICO">
 
 Mais pourquoi les ICO ont elles chutées ? 
 
@@ -143,7 +143,7 @@ Pour les tokens utilitaires il faut réussir à identifier les ~20% de ceux qui 
 
 **Pour les autres, les tokens sont face à un dilemme.** Les FUTILITY comme les appelle Rocco (["FUTILITY Tokens: A utility-based post-mortem"](https://tokeneconomy.co/futility-tokens-a-utility-based-post-mortem-d7b1712a5a4e)), n'ont aucune chance de gagner de la valeur dans le futur et le dilemme porte donc sur la combinaison des décisions que prendront les investisseurs d'un côté et la société qui porte le projet de l'autre.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/perspectives-crypto-2019-futility-token.png" alt="Futility Token">
+<img class="img-post" src="/assets/img/perspectives-crypto-2019-futility-token.png" alt="Futility Token">
 
 Je vous laisse en tirer les conclusions par vous-même en fonction de votre portefeuille.
 

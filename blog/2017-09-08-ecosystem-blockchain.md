@@ -1,6 +1,6 @@
 ---
 layout: post.html
-title: 
+title: Ecosystem Blockchain 2017
 description: Panel de plus de 1000 sociétés dans le domaine de la blockchain, classé par catégorie.
 tags: blockchain
 masthead-img : blockchain-map-venturescanner.jpg
@@ -24,7 +24,7 @@ VentureScanner a recensé 923 sociétés travaillant dans le domaine de la block
 - Information
 - Services
 
-<a href="/assets/img/blockchain-map-venturescanner.jpg"><img class="img-shadow mx-auto d-block" src="/assets/img/blockchain-map-venturescanner.jpg" alt="blockchain map venturescanner"></a>
+<a href="/assets/img/blockchain-map-venturescanner.jpg"><img class="img-post" src="/assets/img/blockchain-map-venturescanner.jpg" alt="blockchain map venturescanner"></a>
 
 Vous pouvez acceder à leur base de données, moyennant finance, en allant directement sur leur site.
 

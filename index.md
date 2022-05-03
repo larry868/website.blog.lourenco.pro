@@ -17,8 +17,8 @@ tags: blog web3 digital blockchain ia iot
 </div>
 
 <div class="container px-0 px-sm-3">
-<div class="list-group">
-{{listfiles blog/*.md }}
+<div class="list-group gap-sm-2">
+{{renderlist blog/*.md }}
 <div>
 </div>
 

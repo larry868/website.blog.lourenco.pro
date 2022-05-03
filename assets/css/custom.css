@@ -5,3 +5,17 @@
 .tiny {
     font-size: 0.6rem;
 }
+
+.img-post {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.underlinetext {
+    text-decoration: underline;
+}
+

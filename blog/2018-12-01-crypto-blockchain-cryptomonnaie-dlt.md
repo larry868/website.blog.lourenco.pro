@@ -15,7 +15,7 @@ Au-delà de la sémantique pure, les enjeux derrière l'utilisation des mots Cry
 
 Dans l'univers informatique, l'économie décentralisée englobe tout le business réalisé de pairs à pairs grâce à un système décentralisé et utilisant la pile de technologies s'appuyant sur la blockchain.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/technology-stack-decentralized-systems.png" alt="technology-stack-decentralized-systems">
+<img class="img-post" src="/assets/img/technology-stack-decentralized-systems.png" alt="technology-stack-decentralized-systems">
 
 Les algorithmes de chiffrement cryptographiques en sont la pierre angulaire. Pas de cryptographie induit : pas de blockchain, pas de systèmes décentralisés et pas d'économie décentralisée. 
 
@@ -33,13 +33,13 @@ Une blockchain publique ou semi-publique à besoin d'un token pour fonctionner e
 
 Voici quelques exemples d'acteurs du monde la crypto. Vous y trouverez des blockchain, des protocoles, des app, des crypto-monnaie à part entière, des token utilitaires, des stablecoins, des blockchain publiques et des semi-publiques...
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/crypto.png" alt="crypto">
+<img class="img-post" src="/assets/img/crypto.png" alt="crypto">
 
 **En 2018 le mauvais buzz autour des ICO et de la technologie blockchain qui y est associé aura eu raison des deux termes au profit cette fois-ci du mot _DLT_**. Ce terme serait plus neutre ?!
 
 Le terme DLT qui signifie _Distributed Ledger Technology_ est un terme générique qui regroupe plusieurs technologies comme la Blockchain elle-même, mais aussi les DAG - Graphes Acycliques Dirigés (DAG) ou d'autres. C'est un terme chapeau.
 
-<img class="img-shadow mx-auto d-block my-5" src="/assets/img/dlt.png" alt="dlt">
+<img class="img-post" src="/assets/img/dlt.png" alt="dlt">
 
 En effet, depuis la naissance de la blockchain avec le Bitcoin en 2008, la technologie a évolué. Les dernières avancées utilisent d'autres protocoles, comme les DAG, qui ne ressemblent en rien à une chaîne de blocs de transactions. Les vertus sont les mêmes et les caractéristiques bien meilleures : c'en est fini de la consommation massive d'énergie et du minage, une scalabilité beaucoup plus importante, des frais de transactions drastiquement réduits, des temps de validation éclairs... On parle de troisième génération. (La deuxième concerne les capacités à gérer des SmartContrat). 
 

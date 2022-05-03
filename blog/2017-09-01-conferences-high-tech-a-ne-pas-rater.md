@@ -27,7 +27,7 @@ _Vous trouverez également les liens vers toutes les vidéos des éditions préc
 
 4 jours à Lisbonne du 6 au 9 Novembre 2017. Plus de 60 000 visiteurs.
 
-<a href="https://websummit.com/"><img src="/assets/noindex/evtwebsum16.jpg" alt="web summit event"/></a>
+<a href="https://websummit.com/"><img class="img-post" src="/assets/noindex/evtwebsum16.jpg" alt="web summit event"/></a>
 
 :clubs: [Vidéos de l'édition 2016](https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ/videos).
 
@@ -39,7 +39,7 @@ _Vous trouverez également les liens vers toutes les vidéos des éditions préc
 
 3 jours à Nantes du 13 au 15 juin 2018. Plus de 4 000 visiteurs.
 
-<a href="https://web2day.co/"><img src="/assets/noindex/snip_20170820104404.png" alt="web2day event"/></a>
+<a href="https://web2day.co/"><img class="img-post" src="/assets/noindex/snip_20170820104404.png" alt="web2day event"/></a>
 
 :clubs: [Vidéos de l'édition 2017](https://www.youtube.com/channel/UCCzfEV7NDD5OvkE3Ua7pcxQ/videos).
 
@@ -51,7 +51,7 @@ _Vous trouverez également les liens vers toutes les vidéos des éditions préc
 
 2 jours à Paris, en Juin. 1700 visiteurs.
 
-<a href="http://www.usievents.com/fr"><img src="/assets/noindex/usi.jpg" alt="usi event"/></a>
+<a href="http://www.usievents.com/fr"><img class="img-post" src="/assets/noindex/usi.jpg" alt="usi event"/></a>
 
 :clubs: [Vidéos des éditions précedentes](https://www.youtube.com/user/usievents/videos).
 
@@ -63,7 +63,7 @@ _Vous trouverez également les liens vers toutes les vidéos des éditions préc
 
 2 jours dans les plus grandes villes du monde. Pratiquement une tous les mois. Plus de 1000 participants.
 
-<a href="http://www.apidays.io/"><img src="/assets/noindex/apidays.png" alt="API days"/></a>
+<a href="http://www.apidays.io/"><img class="img-post" src="/assets/noindex/apidays.png" alt="API days"/></a>
 
 :clubs: [Article à lire sur l'édition Parisienne 2017](http://blog.d2-si.fr/2017/01/05/api-days-paris/).
 
@@ -73,7 +73,7 @@ _Vous trouverez également les liens vers toutes les vidéos des éditions préc
 
 **VivaTech is a hub for the world’s innovators**, tech-lovers and pioneers of the future - we exist to create relationships that will change business and society for tomorrow.
 
-<a href="https://vivatechnology.com/"><img src="/assets/noindex/viva-technology.png" alt="vivatech"/></a>
+<a href="https://vivatechnology.com/"><img class="img-post" src="/assets/noindex/viva-technology.png" alt="vivatech"/></a>
 
 :clubs: [Programme de 2017](https://vivatechnology.com/program/program/)
 
@@ -83,5 +83,5 @@ _Vous trouverez également les liens vers toutes les vidéos des éditions préc
 
 **The Blockchain for business event**
 
-<a href="http://blockchainsummitlondon.com/"><img src="/assets/noindex/9738bcsummitlo.png" alt="blockchain summit london"/></a>
+<a href="http://blockchainsummitlondon.com/"><img class="img-post" src="/assets/noindex/9738bcsummitlo.png" alt="blockchain summit london"/></a>
 

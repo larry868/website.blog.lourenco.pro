@@ -19,7 +19,7 @@ De mon coté j'aborde le sujet selon trois angles différents : le marché, les 
     - Avec plus de 150 milliards de $ de capitalisation et plus de 1000 sociétés créées dans le domaine, la blockchain devient un secteur économique incontournable.  
     &nbsp;  
 
-    <a href="#marche" class="btn btn-outline-jekyll btn-sm" role="button">Présentation du marché</a>
+    <a href="#marche">Présentation du marché</a>
 
 1. **Introduction à la blockchain et en quoi cette technologie est révolutionnaire.** Après un bref parallèle avec l'invention de l'électricité je donne quelques exemples concrets d'application dans des domaines variés.
 
@@ -38,7 +38,7 @@ De mon coté j'aborde le sujet selon trois angles différents : le marché, les 
         - Ouverte : personne n'a besoin de permissions pour acceder à cette technologie, pour y contribuer, pour y participer...  
     &nbsp;  
 
-    <a href="#techno" class="btn btn-outline-jekyll btn-sm" role="button">Présentation des aspects disruptifs</a>
+    <a href="#techno">Présentation des aspects disruptifs</a>
 
 1. **Bitcoin : la genèse.** Retour à la naissance de la technologie pour bien comprendre les fondamentaux. Ici je prend clairement position et je n'hésite pas à bousculer.
 
@@ -49,7 +49,7 @@ De mon coté j'aborde le sujet selon trois angles différents : le marché, les 
     - Le bitcoin est la première application de la technologie Blockchain  
     &nbsp;  
 
-    <a href="#genese" class="btn btn-outline-jekyll btn-sm" role="button">Présentation Bitcoin : la genèse</a>
+    <a href="#genese" role="button">Présentation Bitcoin : la genèse</a>
 
 Bien évidement ne nombreuses questions restent ouvertes : potentiel de la technologie dans le contexte de votre entreprise et de son marché ? Maturité de la technologie ? Par où commencer ?
 
@@ -65,33 +65,33 @@ Bonnes présentations.
 
 <br/>
 
-<div id="deck-marche" class="carousel slide" data-keyboard="false" data-wrap="false">
+<div id="deck-marche" class="carousel slide" data-bs-ride="carousel" data-bs-touch="true" data-bs-interval="false">
 <div class="carousel-inner" role="listbox">
-<div class="carousel-item active"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive1.jpg" alt="slide1"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive2.jpg" alt="slide2"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive3.jpg" alt="slide3"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive4.jpg" alt="slide4"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive5.jpg" alt="slide5"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive6.jpg" alt="slide6"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive7.jpg" alt="slide7"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive8.jpg" alt="slide8"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive9.jpg" alt="slide9"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive10.jpg" alt="slide10"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive11.jpg" alt="slide11"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive12.jpg" alt="slide12"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive13.jpg" alt="slide13"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive14.jpg" alt="slide14"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive15.jpg" alt="slide15"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/Diapositive16.jpg" alt="slide16"></div>
+<div class="carousel-item active"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive1.jpg" alt="slide1"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive2.jpg" alt="slide2"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive3.jpg" alt="slide3"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive4.jpg" alt="slide4"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive5.jpg" alt="slide5"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive6.jpg" alt="slide6"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive7.jpg" alt="slide7"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive8.jpg" alt="slide8"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive9.jpg" alt="slide9"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive10.jpg" alt="slide10"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive11.jpg" alt="slide11"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive12.jpg" alt="slide12"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive13.jpg" alt="slide13"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive14.jpg" alt="slide14"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive15.jpg" alt="slide15"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-marche/diapositive16.jpg" alt="slide16"></div>
 </div>
-<a class="carousel-control-prev" href="#deck-marche" role="button" data-slide="prev">
+<button class="carousel-control-prev" type="button" data-bs-target="#deck-marche" data-bs-slide="prev">
 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 <span class="sr-only">Precedent</span>
-</a>
-<a class="carousel-control-next" href="#deck-marche" role="button" data-slide="next">
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#deck-marche" data-bs-slide="next">
 <span class="carousel-control-next-icon" aria-hidden="true"></span>
 <span class="sr-only">Suivant</span>
-</a>
+</button>
 </div>
 
 ---
@@ -102,45 +102,45 @@ Bonnes présentations.
 
 <br/>
 
-<div id="deck-technologie" class="carousel slide" data-keyboard="false" data-wrap="false">
+<div id="deck-technologie" class="carousel slide" data-bs-ride="carousel" data-bs-touch="true" data-bs-interval="false">
 <div class="carousel-inner" role="listbox">
-<div class="carousel-item active"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive1.jpg" alt="slide1"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive2.jpg" alt="slide2"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive3.jpg" alt="slide3"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive4.jpg" alt="slide4"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive5.jpg" alt="slide5"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive6.jpg" alt="slide6"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive7.jpg" alt="slide7"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive8.jpg" alt="slide8"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive9.jpg" alt="slide9"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive10.jpg" alt="slide10"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive11.jpg" alt="slide11"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive12.jpg" alt="slide12"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive13.jpg" alt="slide13"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive14.jpg" alt="slide14"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive15.jpg" alt="slide15"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive16.jpg" alt="slide16"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive17.jpg" alt="slide17"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive18.jpg" alt="slide18"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive19.jpg" alt="slide19"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive20.jpg" alt="slide20"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive21.jpg" alt="slide21"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive22.jpg" alt="slide22"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive23.jpg" alt="slide23"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive24.jpg" alt="slide24"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive25.jpg" alt="slide25"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive26.jpg" alt="slide26"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive27.jpg" alt="slide27"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/Diapositive28.jpg" alt="slide28"></div>
+<div class="carousel-item active"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive1.jpg" alt="slide1"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive2.jpg" alt="slide2"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive3.jpg" alt="slide3"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive4.jpg" alt="slide4"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive5.jpg" alt="slide5"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive6.jpg" alt="slide6"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive7.jpg" alt="slide7"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive8.jpg" alt="slide8"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive9.jpg" alt="slide9"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive10.jpg" alt="slide10"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive11.jpg" alt="slide11"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive12.jpg" alt="slide12"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive13.jpg" alt="slide13"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive14.jpg" alt="slide14"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive15.jpg" alt="slide15"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive16.jpg" alt="slide16"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive17.jpg" alt="slide17"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive18.jpg" alt="slide18"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive19.jpg" alt="slide19"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive20.jpg" alt="slide20"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive21.jpg" alt="slide21"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive22.jpg" alt="slide22"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive23.jpg" alt="slide23"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive24.jpg" alt="slide24"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive25.jpg" alt="slide25"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive26.jpg" alt="slide26"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive27.jpg" alt="slide27"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-technologie/diapositive28.jpg" alt="slide28"></div>
 </div>
-<a class="carousel-control-prev" href="#deck-technologie" role="button" data-slide="prev">
+<button class="carousel-control-prev" type="button" data-bs-target="#deck-technologie" data-bs-slide="prev">
 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 <span class="sr-only">Precedent</span>
-</a>
-<a class="carousel-control-next" href="#deck-technologie" role="button" data-slide="next">
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#deck-technologie" data-bs-slide="next">
 <span class="carousel-control-next-icon" aria-hidden="true"></span>
 <span class="sr-only">Suivant</span>
-</a>
+</button>
 </div>
 
 
@@ -152,41 +152,40 @@ Bonnes présentations.
 
 <br/>
 
-<div id="deck-genese" class="carousel slide" data-keyboard="false" data-wrap="false">
+<div id="deck-genese" class="carousel slide" data-bs-ride="carousel" data-bs-touch="true" data-bs-interval="false">
 <div class="carousel-inner" role="listbox">
-
-<div class="carousel-item active"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive1.jpg" alt="slide1"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive2.jpg" alt="slide2"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive3.jpg" alt="slide3"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive4.jpg" alt="slide4"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive5.jpg" alt="slide5"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive6.jpg" alt="slide6"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive7.jpg" alt="slide7"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive8.jpg" alt="slide8"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive9.jpg" alt="slide9"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive10.jpg" alt="slide10"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive11.jpg" alt="slide11"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive12.jpg" alt="slide12"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive13.jpg" alt="slide13"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive14.jpg" alt="slide14"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive15.jpg" alt="slide15"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive16.jpg" alt="slide16"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive17.jpg" alt="slide17"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive18.jpg" alt="slide18"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive19.jpg" alt="slide19"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive20.jpg" alt="slide20"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive21.jpg" alt="slide21"></div>
-<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/Diapositive22.jpg" alt="slide22"></div>
+<div class="carousel-item active"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive1.jpg" alt="slide1"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive2.jpg" alt="slide2"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive3.jpg" alt="slide3"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive4.jpg" alt="slide4"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive5.jpg" alt="slide5"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive6.jpg" alt="slide6"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive7.jpg" alt="slide7"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive8.jpg" alt="slide8"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive9.jpg" alt="slide9"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive10.jpg" alt="slide10"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive11.jpg" alt="slide11"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive12.jpg" alt="slide12"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive13.jpg" alt="slide13"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive14.jpg" alt="slide14"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive15.jpg" alt="slide15"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive16.jpg" alt="slide16"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive17.jpg" alt="slide17"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive18.jpg" alt="slide18"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive19.jpg" alt="slide19"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive20.jpg" alt="slide20"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive21.jpg" alt="slide21"></div>
+<div class="carousel-item"><img class="d-block img-fluid" src="/assets/deck/blockchain-genese/diapositive22.jpg" alt="slide22"></div>
 
 </div>
-<a class="carousel-control-prev" href="#deck-genese" role="button" data-slide="prev">
+<button class="carousel-control-prev" type="button" data-bs-target="#deck-genese" data-bs-slide="prev">
 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 <span class="sr-only">Precedent</span>
-</a>
-<a class="carousel-control-next" href="#deck-genese" role="button" data-slide="next">
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#deck-genese" data-bs-slide="next">
 <span class="carousel-control-next-icon" aria-hidden="true"></span>
 <span class="sr-only">Suivant</span>
-</a>
+</button>
 </div>
 
 > **pour information** A bien des égards le Bitcoin a des similitudes proches du WIR en Suisse ou du SEL en pays Basque. Ce sont deux monnaies virtuelles, réservées aux seuls membres de réseaux privés, et incarnant des valeurs sociales. On pourrait cité également le système Bartering, utilisé par certaines entreprises, qui permet de s'échanger directement des biens ou des services sans faire appel à la monnaie. Ces systèmes sont très confidentiels et assez peu connus du grand public.
