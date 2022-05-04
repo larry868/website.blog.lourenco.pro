@@ -4,7 +4,8 @@ title: "Tendances crypto et blockchain 2019 (Partie-I) : Hodler ou revendre ?"
 description: Après une année 2018 qui restera dans l'histoire de la crypto et de la blockchain, le marché se professionalise avec une communauté crypto toujours très active. Et après l'éclatement de la bulle, les dilemmes auxquels font face des tokens utilitaires vont finir d'épurer le marché.
 tags: blockchain
 masthead-img: perspectives-crypto-2019-conferencesT1.png
-issuedate: 19 12 2018
+postdate: 19 12 2018
+sitemap: true
 ---
 
 ## Blockchain & Société

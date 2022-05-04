@@ -5,7 +5,8 @@ description: Les nouvelles techno sont en pleine effervescence. Des start-up mai
 tags: events
 issue_date: 2017-08-19
 masthead-img: hitechzadohimf48.png
-issuedate: 01 09 2017
+postdate: 01 09 2017
+sitemap: true
 ---
 
 A ne pas rater :

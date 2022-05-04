@@ -4,7 +4,8 @@ title: La blockchain est elle vraiement une révolution technologique ?
 subtitle : "Il y a 6 technologies qui sont à la base de la plupart des blockchains : cryptage asymetrique 1977, les fonctions de hachage 2001, les arbres de Merkle 1979, les bases de données clé-valeur 1979, les protocoles de communication P2P 1999, la Preuve de Travail 1993. Elles sont assez anciennes et on peut même se demander pourquoi la blockchain n'a pas été inventé avant !"
 tags: blockchain
 masthead-img: 9441458909sqcsqs461.png
-issuedate: 10 09 2017
+postdate: 10 09 2017
+sitemap: true
 ---
 
 Il y a 6 technologies qui sont à la base de la plupart des blockchains. Elles sont assez anciennes et on peut même se demander pourquoi la blockchain n'a pas été inventé avant !

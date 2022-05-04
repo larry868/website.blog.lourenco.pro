@@ -3,7 +3,8 @@ layout: post.html
 title: Travailler à Nantes chez un éditeur de logiciel, pourquoi pas ?
 description: Vous avez des compétences dans le domaine du développement informatique et vous voulez participer au développement d'un logiciel qui sera utilisé par des centaines de clients et des milliers d'utilisateurs ? Voici les éditeurs de logiciels installés sur le marché Nantais. A vous de jouer !
 tags: marché-Digital-IT job
-issuedate: 01 09 2018
+postdate: 01 09 2018
+sitemap: true
 ---
 
 ### Pourquoi pas ?

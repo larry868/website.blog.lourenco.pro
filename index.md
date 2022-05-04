@@ -1,8 +1,8 @@
 ---
 layout: page.html
 description: Blog autour du numérique et des changements qu'il induit dans la Société
-url: https://blog.lourenco.pro
 tags: blog web3 digital blockchain ia iot
+sitemap: true
 ---
 <div class="px-4 pt-5 my-5 text-center border-bottom">
 <h1 class="display-4 fw-bold">Le futur numérique se décide maintenant. Allons-y !</h1>

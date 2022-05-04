@@ -3,7 +3,8 @@ layout: post.html
 title: Les enjeux de la Direction des Projets Numériques
 description: Tenir les délais, les budgets et la qualité tout en garantissant la gestion du changement auprès des utilisateurs des futurs systèmes représente un vrai défi. Les enjeux de la coordination et du pilotage des projets de transformation numérique sont multiples.
 tags: stratégie-IT
-issuedate: 25 08 2015
+postdate: 25 08 2015
+sitemap: true
 ---
 ## Un projet sur 3 est en échec, moins de 1 projet sur 4 est réussi
 

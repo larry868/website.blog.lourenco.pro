@@ -4,7 +4,8 @@ title: Concentré d'innovations
 description: Cocktail de sites d'information et de news sur le thème de l'innovation, avec une forte dominante IT. Toute l'actu sur IoT, IA, VR, API, BlockChain, Start-up... Je vous laisse gouter, vous m'en direz des nouvelles.
 tags: start-up veille
 masthead-img: defaultimg.jpg
-issuedate: 20 08 2017
+postdate: 20 08 2017
+sitemap: true
 ---
 
 ## IoT, IA, VR, API, BlockChain... tout est là

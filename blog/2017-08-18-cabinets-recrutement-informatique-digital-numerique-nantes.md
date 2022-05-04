@@ -4,7 +4,8 @@ title: Têtes chercheuses de Têtes numériques
 description: Si vous avez besoin de développeurs informatiques pour vos projets vous aurez constaté qu'il y a pénurie de matières grises, quelle que soit la techno. Je vous propose dans cet article une sélection de cabinets de recrutement spécialisés dans les métiers du numérique sur Nantes, et quelques conseils issus de mon expérience de recruteur qui vont vous faire gagner du temps.
 tags: marché-Digital-IT job
 masthead-img: defaultimg.jpg
-issuedate: 18 08 2017
+postdate: 18 08 2017
+sitemap: true
 ---
 
 ## Recruter des informaticiens, c'est pas gagné !

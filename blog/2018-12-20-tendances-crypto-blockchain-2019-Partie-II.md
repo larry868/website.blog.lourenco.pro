@@ -4,7 +4,8 @@ title: "Tendances crypto et blockchain 2019 (Partie-II) : DEX, STO, NFT, Stablec
 description: Après la fin du mouvement des ICO on devrait assister en 2019 aux décollages des STO, levées de fonds réglementées, et des DEX, les Exchanges décentralisés très attendus par la communauté. On notera également un engouement pour les Stablecoin et les NFT - les tokens uniques encore appelés 'Non Fungible Token'.
 tags: blockchain
 masthead-img: perspectives-crypto-2019-lindyeffect.jpg
-issuedate: 20 12 2018
+postdate: 20 12 2018
+sitemap: true
 ---
 
 ## Blockchain & Société

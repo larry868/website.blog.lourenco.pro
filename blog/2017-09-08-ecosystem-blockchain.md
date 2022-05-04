@@ -4,7 +4,8 @@ title: Ecosystem Blockchain 2017
 description: Panel de plus de 1000 sociétés dans le domaine de la blockchain, classé par catégorie.
 tags: blockchain
 masthead-img : blockchain-map-venturescanner.jpg
-issuedate: 08 09 2017
+postdate: 08 09 2017
+sitemap: true
 ---
 
 ## Cartographie de l'écosystème blockchain

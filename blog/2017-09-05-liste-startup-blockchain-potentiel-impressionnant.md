@@ -4,7 +4,8 @@ title: 12 start-up blockchain au potentiel impressionnant
 description: Vous vous demandez bien ce que la blockchain, technologie soit disant révolutionnaire, pourrait changer dans la Société ? Voici une présentation des promesses de quelques start-up blockchain, dans des domaines variés, pour permettre d'en apprécier l'aspect innovant. Impressionnant !
 tags: stratégie-IT start-up blockchain
 masthead-img: ethereum-homestead-background-9.jpg
-issuedate: 05 09 2017
+postdate: 05 09 2017
+sitemap: true
 ---
 
 Vous découvrez le phénomène Blockchain, ou vous en avez entendu parlé, et vous vous demandez bien ce que cette technologie, soit disant révolutionnaire, pourrait changer dans la Société.

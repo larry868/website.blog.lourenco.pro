@@ -4,7 +4,8 @@ title: Comment expliquer la blockchain à votre comité de direction ?
 description: "Les médias commencent à parler de plus de la blockchain et vous ne pourrez pas échapper à une présentation auprès de votre comité de direction. C'est nouveau, c'est virtuel, tout le monde à sa propre idée et ça ne ressemble à rien de bien connu. Aussi l'exercice n'est pas évident. Je partage ici avec vous les supports que j'utilise : Marché, Genèse et Technologie révolutionnaire."
 masthead-img: trust.jpg
 tags: blockchain stratégie-IT
-issuedate: 17 10 2017
+postdate: 17 10 2017
+sitemap: true
 ---
 
 S'il y a bien un exercice difficile avec la blockchain c'est bien de vulgariser cette technologie. C'est nouveau, c'est virtuel et ça ne ressemble à rien de bien connu. Mais voilà, les médias commencent à en parler de plus et vous ne pourrez pas échapper à une présentation auprès de votre comité de direction.

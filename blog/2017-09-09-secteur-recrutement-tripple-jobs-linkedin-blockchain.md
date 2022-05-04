@@ -4,7 +4,8 @@ title: Connaissez-vous le secteur dont le recrutement a triplé en moins d'un an
 description: "La demande explose pour les personnes qui ont des compétences qui permettent de maîtriser la technologie dans ce domaine. Tous les secteurs d'activité sont concernés : les fintech, la foodtech, l'industrie, les jeux..."
 tags: job blockchain
 masthead-img: blockchain-job.jpg
-issuedate: 09 09 2017
+postdate: 09 09 2017
+sitemap: true
 ---
 
 ## Le nombre de jobs relatifs à la blockchain a triplé en à peine un an sur Linkedin

@@ -3,7 +3,8 @@ layout: post.html
 title: Allons dénicher la start-up de vos rêves
 description: Vous voulez travailler et vous investir dans une start-up, super, mais laquelle ? Arrêtez de surfer, voici la méthode et l'endroit où chercher pour trouver des pépites.
 tags: start-up veille job
-issuedate: 20 08 2017
+postdate: 20 08 2017
+sitemap: true
 ---
 
 ## Travailler dans une start-up

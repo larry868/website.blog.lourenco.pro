@@ -4,7 +4,8 @@ title: Les start-up blockchain poussent comme des champignons. Leur consommation
 description: La technologie blockchain est une technologie fondamentale sur laquelle repose d'autres innovations. Certains la compare à l'invention de l'écriture ou encore à l'invention d'internet. La blockchain créée naturellement de la confiance, au travers de ses propriétés intrinsèques, et permet à des êtres humains de former des communautés bienveillantes à l'abris de la corruption, des lobbies et des fraudeurs, c'est pourquoi vous devriez déjà intégrer des initiatives blockchain dans vos projets de transformation numérique. En tout cas la marché n'attend pas.
 tags: stratégie-IT start-up blockchain
 masthead-img: champi1068368dera14f.jpeg
-issuedate: 07 09 2017
+postdate: 07 09 2017
+sitemap: true
 ---
 
 ## Start-up... blockchain

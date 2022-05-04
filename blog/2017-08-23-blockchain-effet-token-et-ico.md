@@ -4,7 +4,8 @@ title: T'as les jetons ? La blockchain, l'effet token et les ICO
 description: Les crypto-monnaies et les tokens Ethereum sont de plus en plus populaires. Qu'est-ce qui a déclenché cette frénésie et pourquoi les gens sont enthousiasmés par l'avenir de cette technologie ? La révolution blockchain est en marche...
 tags: stratégie-IT blockchain
 masthead-img: ethereum-homestead-background-17.jpg
-issuedate: 23 08 2017
+postdate: 23 08 2017
+sitemap: true
 ---
 
 _Cet article s'inspire de l'article publié en Anglais par Ramon Recuero sur Y-Combinator : [The Token Effect](http://blog.ycombinator.com/the-token-effect/)_

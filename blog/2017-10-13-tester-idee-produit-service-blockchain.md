@@ -4,7 +4,8 @@ title: Votre idée de produit blockchain est-elle pertinente ?
 description: Avant de vous lancer tête baissée dans une entreprise blockchain, il peut être intéressant de se poser quelques questions, histoire de vérifier que la technologie blockchain est bien adaptée à votre idée. Conçu sur le modèle du 'Lean Canvas' et du 'Business Model Canvas', le 'Canevas Blockchain' couvre les aspects propres à un produit ou service blockchain. 
 tags: blockchain
 masthead-img: blockchaincanvas-vf-sajidazouarhi.png
-issuedate: 13 10 2017
+postdate: 13 10 2017
+sitemap: true
 ---
 
 ## La blockchain est la réponse, mais quelle était la question ?

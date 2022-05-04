@@ -3,7 +3,8 @@ layout: post.html
 title: ESN et SSII implantées à Nantes
 description:  Le marché du recrutement informatique étant tendu un bon moyen pour faire vos développements est encore de faire appel à une ESN / SSII, et ils sont nombreux sur Nantes. Voici la liste qui pourra vous aider à trouver le bon prestataire informatique.
 tags: marché-Digital-IT job
-issuedate: 19 07 2017
+postdate: 19 07 2017
+sitemap: true
 ---
 
 Je me suis amusé à recenser les ESN et SSII qui sont implantées à Nantes. Le marché du recrutement informatique étant tendu un bon moyen pour faire faire le job à des développeurs est encore de faire appel à un prestataire informatique. Je me suis vite apperçu que la plupart des nationaux sont sur Nantes, ce qui fait du monde, beaucoup de monde.

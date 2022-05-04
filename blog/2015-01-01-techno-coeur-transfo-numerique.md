@@ -3,7 +3,8 @@ layout: post.html
 title: Technologies au coeur de la transformation numérique
 description: Le futur numerique se decide maintenant, alors allons-y !
 tags: stratégie-IT
-issuedate: 01 01 2015
+postdate: 01 01 2015
+sitemap: true
 ---
 <div class="container">
     <div class="row justify-content-center mx-1 py-3">

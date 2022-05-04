@@ -3,7 +3,8 @@ layout: post.html
 title:  Les enjeux de la Direction des Systèmes d'Information (DSI)
 description: Assurer un service de qualité, répondre aux attentes toujours plus exigeantes des utilisateurs tout en assurant l’accompagnement au changement de toute l'organisation ne va pas de soi. Les enjeux de la DSI sont multiples.
 tags: stratégie-IT
-issuedate: 25 08 2015
+postdate: 25 08 2015
+sitemap: true
 ---
 ## L’informatique est devenue l’affaire de tous
 

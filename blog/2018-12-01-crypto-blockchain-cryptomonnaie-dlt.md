@@ -4,7 +4,8 @@ title: "Vous êtes plutôt pro Crypto, pro Blockchain, pro Crypto-monnaie ou pro
 description: Au-delà de la sémantique pure, quels sont les enjeux derrière les mots Crypto, Blockchain, Crypto-monnaie, DLT.
 tags: blockchain
 masthead-img: decentralizedworld.png
-issuedate: 01 12 2018
+postdate: 01 12 2018
+sitemap: true
 ---
 
 ## Crypto vs Blockchain vs Crypto-monnaie vs DLT

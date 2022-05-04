@@ -6,12 +6,12 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "export ZS_PUBDIR=docs && zazzy build"
+            "command": "rm -r docs && export ZS_SITEMAPTYPE=txt && export ZS_HOSTURL=https://blog.lourenco.pro && export ZS_PUBDIR=docs && zazzy build"
         },
         {
             "label": "live",
             "type": "shell",
-            "command": "export ZS_PUBDIR=docs && zazzy watch",
+            "command": "rm -r docs && export ZS_SITEMAPTYPE=txt && export ZS_HOSTURL=https://blog.lourenco.pro && export ZS_PUBDIR=docs && zazzy watch",
             "problemMatcher": []
         }
     ]
